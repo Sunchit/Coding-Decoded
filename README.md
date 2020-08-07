@@ -10,3 +10,5 @@
 4) [Power of Four](./PowerOfFour.java)
 5) [Add and Search Word](./AddAndSearchWord.java)
 6) [FindAllDuplicate](./FIndAllDuplicate.java)
+6) [FindAllDuplicate](./FIndAllDuplicate.java)
+ 
