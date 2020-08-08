@@ -10,5 +10,6 @@
 4) [Power of Four](./PowerOfFour.java)
 5) [Add and Search Word](./AddAndSearchWord.java)
 6) [FindAllDuplicate](./FIndAllDuplicate.java)
-6) [FindAllDuplicate](./FIndAllDuplicate.java)
- 
+7) [Vertical Travesal of Binary Tree](./VerticalTraversalOfABinaryTree.java)
+8) [Path Sum III](./PathSumIII.java)
+
