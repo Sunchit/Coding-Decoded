@@ -12,4 +12,5 @@
 6) [FindAllDuplicate](./FIndAllDuplicate.java)
 7) [Vertical Travesal of Binary Tree](./VerticalTraversalOfABinaryTree.java)
 8) [Path Sum III](./PathSumIII.java)
+9) [Rotting Oranges](./RottingOrganges.java)
 
