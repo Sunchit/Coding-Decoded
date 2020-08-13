@@ -16,4 +16,5 @@
 10) [Excel Sheet Column Number](./ExcelSheetColumnNumber.java)
 11) [H Index](./HIndex.java)
 12) [PascalsTriangleII](./PascalsTriangleII.java)
+12) [CombinationIterator](./CombinationIterator.java)
 
