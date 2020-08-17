@@ -20,4 +20,5 @@
 14) [Longest Palindrome](./LongestPalindrome.java)
 15) [Non Overlapping Intervals](./NonOverlappingIntervals.java)
 16) [Best Time To Buy And Sell Stock III.java](./BestTimeToBuyAndSellStockIII.java)
+17) [Distribute Candies To People.java](./DistributeCandiesToPeople.java)
 
