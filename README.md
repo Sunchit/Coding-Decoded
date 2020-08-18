@@ -21,4 +21,5 @@
 15) [Non Overlapping Intervals](./NonOverlappingIntervals.java)
 16) [Best Time To Buy And Sell Stock III.java](./BestTimeToBuyAndSellStockIII.java)
 17) [Distribute Candies To People.java](./DistributeCandiesToPeople.java)
+18) [Numbers With Same Consecutive Differences.java](./NumbersWithSameConsecutiveDifferences.java)
 

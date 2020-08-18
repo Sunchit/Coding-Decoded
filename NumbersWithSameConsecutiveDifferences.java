@@ -1,4 +1,4 @@
-class Solution {
+class NumbersWithSameConsecutiveDifferences {
     public int[] numsSameConsecDiff(int N, int K) {
         List<Integer> list = new ArrayList<>();
 
