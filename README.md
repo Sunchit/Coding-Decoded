@@ -24,4 +24,5 @@
 18) [Numbers With Same Consecutive Differences.java](./NumbersWithSameConsecutiveDifferences.java)
 19) [GoatLatin.java](./GoatLatin.java)
 20) [ReoderList](./ReorderList.java)
+21) [SortArrayByParity](./SortArrayByPartiy.java)
 
