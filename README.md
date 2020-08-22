@@ -25,4 +25,5 @@
 19) [GoatLatin.java](./GoatLatin.java)
 20) [ReoderList](./ReorderList.java)
 21) [SortArrayByParity](./SortArrayByPartiy.java)
+21) [RandomPointInNonOverlappingRectangles](./RandomPointInNonOverlappingRectangles.java)
 
