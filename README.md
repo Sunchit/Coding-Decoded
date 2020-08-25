@@ -28,4 +28,5 @@
 22) [RandomPointInNonOverlappingRectangles](./RandomPointInNonOverlappingRectangles.java)
 23) [Stream of Characters](./StreamChecker.java)
 24) [Sum Of Left Leaves](./SumOfLeftLeaves.java)
+25) [Minimum Cost Of Tickets](./MinimumCostOfTickets.java)
 
