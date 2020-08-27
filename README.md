@@ -30,4 +30,5 @@
 24) [Sum Of Left Leaves](./SumOfLeftLeaves.java)
 25) [Minimum Cost Of Tickets](./MinimumCostOfTickets.java)
 26) [Fizz Buzz](./FizzBuzz.java)
+27) [First Right Interval](./FizzBuzz.java)
 
