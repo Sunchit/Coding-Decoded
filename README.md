@@ -31,4 +31,5 @@
 25) [Minimum Cost Of Tickets](./MinimumCostOfTickets.java)
 26) [Fizz Buzz](./FizzBuzz.java)
 27) [First Right Interval](./FizzBuzz.java)
+28) [Implement Rand10 Using Rand7.java](./ImplementRand10UsingRand7.java)
 
