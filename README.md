@@ -34,4 +34,5 @@
 28) [Implement Rand10 Using Rand7](./ImplementRand10UsingRand7.java)
 29) [PancakeSorting](./PancakeSorting.java)
 30) [LargestComponentSizebyCommonFactor](./LargestComponentSizebyCommonFactor.java)
+31) [DeleteANodeInBst](./DeleteANodeInBst.java)
 
