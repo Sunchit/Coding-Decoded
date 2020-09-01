@@ -36,3 +36,6 @@
 30) [LargestComponentSizebyCommonFactor](./LargestComponentSizebyCommonFactor.java)
 31) [DeleteANodeInBst](./DeleteANodeInBst.java)
 
+## _Leetcode September solutions_
+
+1) [Largest Time for Given Digits](September2020/LargestTimeForGivenDigits.java)
