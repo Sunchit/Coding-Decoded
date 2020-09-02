@@ -39,3 +39,4 @@
 ## _Leetcode September solutions_
 
 1) [Largest Time for Given Digits](September2020/LargestTimeForGivenDigits.java)
+1) [Contains Duplicate III](September2020/ContainsDuplicateIII.java)
