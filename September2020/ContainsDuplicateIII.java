@@ -13,7 +13,7 @@ class ContainsDuplicateIII.java {
                 return true;
             }
             set.add(el);
-            if(set.size()>k){
+            if(set.size()>k){ // size of set is always k and hence becomes a sliding window problem
                 set.remove(new Long(nums[i-k]));
             }
 
