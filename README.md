@@ -41,3 +41,4 @@
 1) [Largest Time for Given Digits](September2020/LargestTimeForGivenDigits.java)
 2) [Contains Duplicate III](September2020/ContainsDuplicateIII.java)
 3) [RepeatedSubstringPattern](September2020/RepeatedSubstringPattern.java)
+4) [PartitionLabels](September2020/PartitionLabels.java)
