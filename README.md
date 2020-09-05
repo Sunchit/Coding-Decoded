@@ -42,3 +42,4 @@
 2) [Contains Duplicate III](September2020/ContainsDuplicateIII.java)
 3) [RepeatedSubstringPattern](September2020/RepeatedSubstringPattern.java)
 4) [PartitionLabels](September2020/PartitionLabels.java)
+5) [AllElementsinTwoBinarySearchTrees](September2020/AllElementsinTwoBinarySearchTrees.java)
