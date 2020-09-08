@@ -45,3 +45,4 @@
 5) [AllElementsinTwoBinarySearchTrees](September2020/AllElementsinTwoBinarySearchTrees.java)
 6) [ImageOverlap](September2020/ImageOverlap.java)
 7) [WordPattern](September2020/WordPattern.java)
+8) [SumofRootToLeafBinaryNumbers](September2020/SumofRootToLeafBinaryNumbers.java)

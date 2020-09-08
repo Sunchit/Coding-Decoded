@@ -1,4 +1,4 @@
-// Time complexity => O(n), where n is the length of the patternn
+// Time complexity => O(n), where n is the length of the pattern
 // Space complexity is O(n) where n is the no of words in the map
 class WordPattern {
     public boolean wordPattern(String pattern, String str) {
