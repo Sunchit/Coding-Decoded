@@ -1,8 +1,9 @@
 // O(n) , where n => no of elements in the version part
+// O(1), space complexity
 class CompareVersionNumbers {
 
     public int compareVersion(String version1, String version2) {
-        String[] version1List = version1.split("\\.");
+        String[] version1List = version1.split("\\."); // Note your cant directly use split(".") because if will treat he regex as any character
         String[] version2List = version2.split("\\.");
 
         int s1 = 0;

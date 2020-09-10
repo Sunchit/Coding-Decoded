@@ -46,4 +46,5 @@
 6) [ImageOverlap](September2020/ImageOverlap.java)
 7) [WordPattern](September2020/WordPattern.java)
 8) [SumofRootToLeafBinaryNumbers](September2020/SumofRootToLeafBinaryNumbers.java)
-8) [CompareVersionNumbers](September2020/CompareVersionNumbers.java)
+9) [CompareVersionNumbers](September2020/CompareVersionNumbers.java)
+10)[BullsAndCows](September2020/BullsAndCows.java)
