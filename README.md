@@ -48,3 +48,4 @@
 8) [SumofRootToLeafBinaryNumbers](September2020/SumofRootToLeafBinaryNumbers.java)
 9) [CompareVersionNumbers](September2020/CompareVersionNumbers.java)
 10)[BullsAndCows](September2020/BullsAndCows.java)
+11)[MaximumProductSubArray](September2020/MaximumProductSubArray.java)
