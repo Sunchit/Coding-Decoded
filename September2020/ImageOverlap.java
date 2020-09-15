@@ -1,41 +1,45 @@
-class ImageOverlap.java {
-
-    // O(n2)
-    private int getMatchCount(int[][] A, int[][] B, int startAI, int startAJ){
-        int len = A.length;
+class Solution {
+    private int shiftRightDown(int[][] A, int[][] B, int xShift, int yShift, int N) {
+//i represents row i.e towards y axis
+//j represents column i.e towards x axis
         int count = 0;
-        int startBI =0;
-        int startBJ =0;
-
-        for(int i=startAI;i<len;i++){
-            startBJ =0;
-            for(int j=startAJ;j<len;j++){
-                if(A[i][j]==1 && A[i][j]== B[startBI][startBJ]){
+        for (int i = yShift; i < N; i++) {
+            
+            for (int j = xShift; j < N; j++) {
+                if (A[i][j] == 1 && B[i - yShift][j - xShift] == 1)
                     count++;
-                }
-                startBJ++;
             }
-            startBI++;
         }
         return count;
     }
 
-    // O(n4)
-    public int largestOverlap(int[][] A, int[][] B) {
-
-        int maxCount = 0;
-        int len = A.length;
-        for(int i=0;i<len;i++){
-            for(int j=0;j<len;j++){
-                // Sliding window params i,j
-                // A as sliding matrix B fixed
-                maxCount = Math.max(maxCount, getMatchCount(A, B, i,j));
-
-                // B as sliding matrix A fixed
-                maxCount = Math.max(maxCount, getMatchCount(B, A, i,j));
+    private int shiftRightUp(int[][] A, int[][] B, int xShift, int yShift, int N) {
+        int count = 0;
+        for (int i = yShift; i < N; i++) {
+            for (int j = 0; j < N - xShift; j++) {
+                if (A[i][j] == 1 && B[i - yShift][j + xShift] == 1)
+                    count++;
             }
         }
-        return maxCount;
-
+        return count;
     }
+
+    public int largestOverlap(int[][] A, int[][] B) {
+        int maxCount = 0;
+        int N = A.length;
+        //xShift & yShift will be equivalent to the starting row, col of the sliding matrix over fixed matrix
+        //i.e (1,0) the overlap started between
+        //1st Matrix moving, 2nd fixed
+        for (int yShift = 0; yShift < N; yShift++) {
+            for (int xShift = 0; xShift < N; xShift++) {
+                maxCount = Math.max(maxCount, shiftRightDown(A, B, xShift, yShift, N));
+                maxCount = Math.max(maxCount, shiftRightDown(B, A, xShift, yShift, N));
+                maxCount = Math.max(maxCount, shiftRightUp(A, B, xShift, yShift, N));
+                maxCount = Math.max(maxCount, shiftRightUp(B, A, xShift, yShift, N));
+            }
+        }
+
+        return maxCount;
+    }
+
 }
