@@ -4,7 +4,7 @@ class Solution {
 //j represents column i.e towards x axis
         int count = 0;
         for (int i = yShift; i < N; i++) {
-            
+
             for (int j = xShift; j < N; j++) {
                 if (A[i][j] == 1 && B[i - yShift][j - xShift] == 1)
                     count++;

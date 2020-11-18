@@ -53,3 +53,6 @@
     1) [Combination Sum without using Start variable](September2020/CombinationSumIIIA.java)
     2) [Combination Sum using Start variable](September2020/CombinationSumIIIB.java)
 13)[InsertIntervals](September2020/InsertIntervals.java)
+
+## _Leetcode November solutions_
+1) [Merge Intervals](November2020/MergeIntervals.java)
