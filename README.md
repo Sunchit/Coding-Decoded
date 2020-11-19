@@ -56,3 +56,4 @@
 
 ## _Leetcode November solutions_
 1) [Merge Intervals](November2020/MergeIntervals.java)
+1) [Decode String](November2020/DecodeString.java)
