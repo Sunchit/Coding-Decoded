@@ -60,3 +60,4 @@
 3) [RotatedSearchArrayII](November2020/DecodeString.java)
 4) [NumbersAtNGivenDigitSet](November2020/NumbersAtNGivenDigitSet.java)
 5) [UniqueMorseCodeWords](November2020/UniqueMorseCodeWords.java)
+6) [HouseRobberIII](November2020/HouseRobberIII.java)
