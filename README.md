@@ -62,3 +62,4 @@
 5) [UniqueMorseCodeWords](November2020/UniqueMorseCodeWords.java)
 6) [HouseRobberIII](November2020/HouseRobberIII.java)
 7) [BasicCalculatorII](November2020/BasicCalculatorII.java)
+7) [SmallestIntegerDivisiblebyK](November2020/SmallestIntegerDivisiblebyK.java)
