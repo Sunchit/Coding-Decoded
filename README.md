@@ -63,3 +63,4 @@
 6) [HouseRobberIII](November2020/HouseRobberIII.java)
 7) [BasicCalculatorII](November2020/BasicCalculatorII.java)
 7) [SmallestIntegerDivisiblebyK](November2020/SmallestIntegerDivisiblebyK.java)
+8) [SubstringWithAtLeastKRepeatingCharacters](November2020/SubstringWithAtLeastKRepeatingCharacters.java)
