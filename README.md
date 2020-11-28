@@ -65,3 +65,4 @@
 8) [SmallestIntegerDivisiblebyK](November2020/SmallestIntegerDivisiblebyK.java)
 9) [SubstringWithAtLeastKRepeatingCharacters](November2020/SubstringWithAtLeastKRepeatingCharacters.java)
 10)[PartitionEqualSubsetSum](November2020/PartitionEqualSubsetSum.java)
+11)[PartitionEqualSubsetSum](November2020/SlidingWindowMaximum.java)
