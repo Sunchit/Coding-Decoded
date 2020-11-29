@@ -66,3 +66,4 @@
 9) [SubstringWithAtLeastKRepeatingCharacters](November2020/SubstringWithAtLeastKRepeatingCharacters.java)
 10)[PartitionEqualSubsetSum](November2020/PartitionEqualSubsetSum.java)
 11)[PartitionEqualSubsetSum](November2020/SlidingWindowMaximum.java)
+12)[JumpGameIII](November2020/JumpGameIII.java)
