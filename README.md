@@ -68,3 +68,6 @@
 11)[PartitionEqualSubsetSum](November2020/SlidingWindowMaximum.java)
 12)[JumpGameIII](November2020/JumpGameIII.java)
 13)[TheSkyLineProblem](November2020/TheSkyLineProblem.java)
+
+## _Leetcode December solutions_
+1) [Maximum Depth Of Binary Tree](December2020/MaximumDepthOfBinaryTree.java)
