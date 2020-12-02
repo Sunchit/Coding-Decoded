@@ -13,6 +13,7 @@
  *     }
  * }
  */
+// TC is O(n) since each node is traversed once
 class MaximumDepthOfBinaryTree {
 
     // DFS
