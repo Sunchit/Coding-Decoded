@@ -72,3 +72,4 @@
 ## _Leetcode December solutions_
 1) [Maximum Depth Of Binary Tree](December2020/MaximumDepthOfBinaryTree.java)
 2) [Linked List Random Node](December2020/LinkedListRandomNode.java)
+2) [Increasing Order SearchTree](December2020/IncreasingOrderSearchTree.java)
