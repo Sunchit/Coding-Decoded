@@ -1,4 +1,6 @@
 class  KthFactorOfN {
+    // TC O(log(n))
+    // SC O(1)
     public int kthFactor(int n, int k) {
         for(int i=1;i<Math.sqrt(n);i++){
             if(n%i ==0){
