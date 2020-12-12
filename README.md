@@ -77,3 +77,4 @@
 5) [Can Place Flower](December2020/CanPlaceFlower.java)
 7) [PopulatingNextRightPointersInEachNodeII](December2020/PopulatingNextRightPointersInEachNodeII.java)
 11) [RemoveDuplicatesFromSortedArrayII](December2020/RemoveDuplicatesFromSortedArrayII.java)
+12) [Smallest Subtree with all the Deepest Nodes](December2020/SmallestSubtreewithalltheDeepestNodes.java)
