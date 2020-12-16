@@ -1,4 +1,6 @@
 class SquaresOfSortedArray {
+    // TC : O(n)
+    // SC : O(1)
     public int[] sortedSquares(int[] nums) {
       int len = nums.length;
         int[] ans =new int[len];
