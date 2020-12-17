@@ -82,3 +82,4 @@
 14) [Palindrome Partitioning](December2020/PalindromePartitioning.java)
 15) [Squares Of Sorted Array](Downloads/Coding-Decoded/December2020/SquaresOfSortedArray.java)
 16) [Validate Binary Search Tree](Downloads/Coding-Decoded/December2020/ValidateBinarySearchTree.java)
+17) [4Sum II](Downloads/Coding-Decoded/December2020/4SumII.java)
