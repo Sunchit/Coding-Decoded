@@ -84,3 +84,4 @@
 16) [Validate Binary Search Tree](Downloads/Coding-Decoded/December2020/ValidateBinarySearchTree.java)
 17) [4Sum II](Downloads/Coding-Decoded/December2020/4SumII.java)
 18) [Increasing Triplet Sequence](Downloads/Coding-Decoded/December2020/IncreasingTripletSequence.java)
+19) [Cherry PickerII](Downloads/Coding-Decoded/December2020/CherryPicketII.java)
