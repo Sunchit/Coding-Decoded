@@ -85,3 +85,4 @@
 17) [4Sum II](Downloads/Coding-Decoded/December2020/4SumII.java)
 18) [Increasing Triplet Sequence](Downloads/Coding-Decoded/December2020/IncreasingTripletSequence.java)
 19) [Cherry PickerII](Downloads/Coding-Decoded/December2020/CherryPicketII.java)
+20) [SmallestRangeII](Downloads/Coding-Decoded/December2020/SmallestRangeII.java)
