@@ -86,3 +86,4 @@
 18) [Increasing Triplet Sequence](Downloads/Coding-Decoded/December2020/IncreasingTripletSequence.java)
 19) [Cherry PickerII](Downloads/Coding-Decoded/December2020/CherryPicketII.java)
 20) [SmallestRangeII](Downloads/Coding-Decoded/December2020/SmallestRangeII.java)
+22) [BalancedBinaryTree](Downloads/Coding-Decoded/December2020/BalancedBinaryTree.java)
