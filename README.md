@@ -88,3 +88,4 @@
 20) [SmallestRangeII](Downloads/Coding-Decoded/December2020/SmallestRangeII.java)
 22) [BalancedBinaryTree](Downloads/Coding-Decoded/December2020/BalancedBinaryTree.java)
 23) [NextGreaterElementIII](Downloads/Coding-Decoded/December2020/NextGreaterElementIII.java)
+24) [SwapNodesInPairs](Downloads/Coding-Decoded/December2020/SwapNodesInPairs.java)
