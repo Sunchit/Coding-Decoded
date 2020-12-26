@@ -90,3 +90,4 @@
 23) [NextGreaterElementIII](Downloads/Coding-Decoded/December2020/NextGreaterElementIII.java)
 24) [SwapNodesInPairs](Downloads/Coding-Decoded/December2020/SwapNodesInPairs.java)
 25) [Diagonal traverse](Downloads/Coding-Decoded/December2020/DiagonalTraversal.java)
+26) [Decode Ways](Downloads/Coding-Decoded/December2020/DiagonalTraversal.java)
