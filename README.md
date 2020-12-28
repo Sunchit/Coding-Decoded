@@ -92,3 +92,4 @@
 25) [Diagonal traverse](Downloads/Coding-Decoded/December2020/DiagonalTraversal.java)
 26) [Decode Ways](Downloads/Coding-Decoded/December2020/DecodeWays.java)
 27) [Jump Game IV](Downloads/Coding-Decoded/December2020/JumpGameIV.java)
+27) [Reach A Number](Downloads/Coding-Decoded/December2020/ReachANumber.java)
