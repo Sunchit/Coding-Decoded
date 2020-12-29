@@ -93,3 +93,4 @@
 26) [Decode Ways](Downloads/Coding-Decoded/December2020/DecodeWays.java)
 27) [Jump Game IV](Downloads/Coding-Decoded/December2020/JumpGameIV.java)
 27) [Reach A Number](Downloads/Coding-Decoded/December2020/ReachANumber.java)
+28) [PseudoPalindromic Paths In A Binary Tree](Downloads/Coding-Decoded/December2020/PseudoPalindromicPathsInABinaryTree.java)
