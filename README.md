@@ -95,3 +95,4 @@
 28) [Reach A Number](Downloads/Coding-Decoded/December2020/ReachANumber.java)
 29) [PseudoPalindromic Paths In A Binary Tree](Downloads/Coding-Decoded/December2020/PseudoPalindromicPathsInABinaryTree.java)
 30) [Game Of Life](Downloads/Coding-Decoded/December2020/GameOfLife.java)
+30) [LaregstAreaOfHistorgam](Downloads/Coding-Decoded/December2020/LaregstAreaOfHistorgam.java)
