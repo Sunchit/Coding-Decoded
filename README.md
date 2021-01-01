@@ -96,3 +96,7 @@
 29) [PseudoPalindromic Paths In A Binary Tree](Downloads/Coding-Decoded/December2020/PseudoPalindromicPathsInABinaryTree.java)
 30) [Game Of Life](Downloads/Coding-Decoded/December2020/GameOfLife.java)
 30) [LaregstAreaOfHistorgam](Downloads/Coding-Decoded/December2020/LaregstAreaOfHistorgam.java)
+
+
+## _Leetcode January solutions
+1) [Check Array Formation Through Concatenation](Downloads/Coding-Decoded/January2021/CheckFormationThroughConcatenation.java)
