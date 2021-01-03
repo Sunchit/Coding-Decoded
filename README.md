@@ -100,4 +100,5 @@
 
 ## _Leetcode January solutions
 1) [Check Array Formation Through Concatenation](Downloads/Coding-Decoded/January2021/CheckFormationThroughConcatenation.java)
-1) [Find a Corresponding of a Binary Tree in a of That Tree](Downloads/Coding-Decoded/January2021/FindaCorrespondingofaBinaryTreeina ofThatTree.Java)
+2) [Find a Corresponding of a Binary Tree in a of That Tree](Downloads/Coding-Decoded/January2021/FindaCorrespondingofaBinaryTreeina ofThatTree.Java)
+3) [Beautiful Arrangement](Downloads/Coding-Decoded/January2021/BeautifulArrangement.java)
