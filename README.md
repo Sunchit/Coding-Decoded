@@ -104,3 +104,4 @@
 3) [Beautiful Arrangement](Downloads/Coding-Decoded/January2021/BeautifulArrangement.java)
 3) [Merge two sorted list](Downloads/Coding-Decoded/January2021/MergeTwoSortList.java)
 3) [RemoveDuplicatesfromSortedListII](Downloads/Coding-Decoded/January2021/RemoveDuplicatesfromSortedListII.java)
+3) [kth-missing-positive-number](Downloads/Coding-Decoded/January2021/kth-missing-positive-number.java)
