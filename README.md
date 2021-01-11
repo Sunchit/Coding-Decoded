@@ -108,3 +108,4 @@
 7) [Check If Two String Arrays are Equivalent](Downloads/Coding-Decoded/January2021/CheckIfTwoStringArraysareEquivalent.java)
 8) [LongestSubstringWithoutRepeatingCharacters](Downloads/Coding-Decoded/January2021/LongestSubstringWithoutRepeatingCharacters.java)
 9) [WordLadder](Downloads/Coding-Decoded/January2021/WordLadder.java)
+11) [MergeSortedArrays](Downloads/Coding-Decoded/January2021/MergeSortedArrays.java)
