@@ -111,4 +111,5 @@
 11) [MergeSortedArrays](Downloads/Coding-Decoded/January2021/MergeSortedArrays.java)
 12) [AddTwoNumbers](Downloads/Coding-Decoded/January2021/AddTwoNumbers.java)
 13) [BoatsToSavePeople](Downloads/Coding-Decoded/January2021/BoatsToSavePeople.java)
-13) [MinimumOperationsToReduceXToZero](Downloads/Coding-Decoded/January2021/MinimumOperationsToReduceXToZero.java)
+14) [MinimumOperationsToReduceXToZero](Downloads/Coding-Decoded/January2021/MinimumOperationsToReduceXToZero.java)
+15) [GetMaximumInGeneratedArray](Downloads/Coding-Decoded/January2021/GetMaximumInGeneratedArray.java)
