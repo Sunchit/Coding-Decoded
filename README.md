@@ -114,4 +114,5 @@
 14) [MinimumOperationsToReduceXToZero](Downloads/Coding-Decoded/January2021/MinimumOperationsToReduceXToZero.java)
 15) [GetMaximumInGeneratedArray](Downloads/Coding-Decoded/January2021/GetMaximumInGeneratedArray.java)
 16) [KthLargestElementInArray](Downloads/Coding-Decoded/January2021/kthLargestElement.java)
-16) [CountSortedVowelStrings](Downloads/Coding-Decoded/January2021/CountSortedVowelStrings.java)
+17) [CountSortedVowelStrings](Downloads/Coding-Decoded/January2021/CountSortedVowelStrings.java)
+18) [MaxPairsWithKSum](Downloads/Coding-Decoded/January2021/MaxPairsWithKSum.java)
