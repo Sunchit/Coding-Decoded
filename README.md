@@ -116,3 +116,7 @@
 16) [KthLargestElementInArray](Downloads/Coding-Decoded/January2021/kthLargestElement.java)
 17) [CountSortedVowelStrings](Downloads/Coding-Decoded/January2021/CountSortedVowelStrings.java)
 18) [MaxPairsWithKSum](Downloads/Coding-Decoded/January2021/MaxPairsWithKSum.java)
+
+
+## _Leetcode Contest solutions
+1) [Tuple with Same Product](Downloads/Coding-Decoded/Contest/TupleWithSameProduct.java)
