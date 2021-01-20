@@ -117,6 +117,7 @@
 17) [CountSortedVowelStrings](Downloads/Coding-Decoded/January2021/CountSortedVowelStrings.java)
 18) [MaxPairsWithKSum](Downloads/Coding-Decoded/January2021/MaxPairsWithKSum.java)
 19) [LongestPalindromicSubstring.java](Downloads/Coding-Decoded/January2021/LongestPalindromicSubstring.java)
+19) [ValidParentheses.java](Downloads/Coding-Decoded/January2021/ValidParentheses.java)
 
 
 ## _Leetcode Contest solutions
