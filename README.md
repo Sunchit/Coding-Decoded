@@ -120,6 +120,7 @@
 20) [ValidParentheses.java](Downloads/Coding-Decoded/January2021/ValidParentheses.java)
 21) [FindMostCompetitiveSubsequence.java](Downloads/Coding-Decoded/January2021/FindMostCompetitiveSubsequence.java)
 22) [Determin2StringsAreClose.java](Downloads/Coding-Decoded/January2021/Compare2StringsAreClose.java)
+23) [SortMatixDaigonally.java](Downloads/Coding-Decoded/January2021/SortMatixDaigonally.java)
 
 
 ## _Leetcode Contest solutions
