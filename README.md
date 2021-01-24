@@ -121,6 +121,8 @@
 21) [FindMostCompetitiveSubsequence.java](Downloads/Coding-Decoded/January2021/FindMostCompetitiveSubsequence.java)
 22) [Determin2StringsAreClose.java](Downloads/Coding-Decoded/January2021/Compare2StringsAreClose.java)
 23) [SortMatixDaigonally.java](Downloads/Coding-Decoded/January2021/SortMatixDaigonally.java)
+24) [MergeKSortedLists](Downloads/Coding-Decoded/January2021/MergeKSortedListsA.java)
+24) [MergeKSortedLists](Downloads/Coding-Decoded/January2021/MergeKSortedListsB.java)
 
 
 ## _Leetcode Contest solutions
