@@ -123,6 +123,9 @@
 23) [SortMatixDaigonally.java](Downloads/Coding-Decoded/January2021/SortMatixDaigonally.java)
 24) [MergeKSortedLists](Downloads/Coding-Decoded/January2021/MergeKSortedListsA.java)
 24) [MergeKSortedLists](Downloads/Coding-Decoded/January2021/MergeKSortedListsB.java)
+25) [CheckIfAll1'sAreatLeastLengthKPlacesAway](Downloads/Coding-Decoded/January2021/CheckIfAll1'sAreatLeastLengthKPlacesAway.java)
+25) [PathWithMinimumEffort](Downloads/Coding-Decoded/January2021/PathWithMinimumEffort.java)
+
 
 
 ## _Leetcode Contest solutions
