@@ -124,8 +124,8 @@
 24) [MergeKSortedLists](Downloads/Coding-Decoded/January2021/MergeKSortedListsA.java)
 24) [MergeKSortedLists](Downloads/Coding-Decoded/January2021/MergeKSortedListsB.java)
 25) [CheckIfAll1'sAreatLeastLengthKPlacesAway](Downloads/Coding-Decoded/January2021/CheckIfAll1'sAreatLeastLengthKPlacesAway.java)
-25) [PathWithMinimumEffort](Downloads/Coding-Decoded/January2021/PathWithMinimumEffort.java)
-
+26) [PathWithMinimumEffort](Downloads/Coding-Decoded/January2021/PathWithMinimumEffort.java)
+27) [concatenation-of-consecutive-binary-numbers](Downloads/Coding-Decoded/January2021/concatenation-of-consecutive-binary-numbers.java)
 
 
 ## _Leetcode Contest solutions
