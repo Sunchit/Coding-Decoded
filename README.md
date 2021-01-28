@@ -126,6 +126,7 @@
 25) [CheckIfAll1'sAreatLeastLengthKPlacesAway](Downloads/Coding-Decoded/January2021/CheckIfAll1'sAreatLeastLengthKPlacesAway.java)
 26) [PathWithMinimumEffort](Downloads/Coding-Decoded/January2021/PathWithMinimumEffort.java)
 27) [concatenation-of-consecutive-binary-numbers](Downloads/Coding-Decoded/January2021/concatenation-of-consecutive-binary-numbers.java)
+27) [smallest-string-with-a-given-numeric-value](Downloads/Coding-Decoded/January2021/smallest-string-with-a-given-numeric-value.java)
 
 
 ## _Leetcode Contest solutions
