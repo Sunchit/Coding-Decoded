@@ -128,6 +128,7 @@
 27) [concatenation-of-consecutive-binary-numbers](Downloads/Coding-Decoded/January2021/concatenation-of-consecutive-binary-numbers.java)
 28) [smallest-string-with-a-given-numeric-value](Downloads/Coding-Decoded/January2021/smallest-string-with-a-given-numeric-value.java)
 29) [VerticalOrderOfABinaryTree](Downloads/Coding-Decoded/January2021/VerticalOrderOfABinaryTree.java)
+30) [MinimizeDeviationinArray](Downloads/Coding-Decoded/January2021/MinimizeDeviationinArray.java)
 
 
 ## _Leetcode Contest solutions
