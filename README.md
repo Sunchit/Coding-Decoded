@@ -129,6 +129,7 @@
 28) [smallest-string-with-a-given-numeric-value](/January2021/smallest-string-with-a-given-numeric-value.java)
 29) [VerticalOrderOfABinaryTree](/January2021/VerticalOrderOfABinaryTree.java)
 30) [MinimizeDeviationinArray](/January2021/MinimizeDeviationinArray.java)
+31) [NextPermutation](/January2021/NextPermutation.java)
 
 
 ## _Leetcode Contest solutions
