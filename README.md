@@ -131,6 +131,8 @@
 30) [MinimizeDeviationinArray](/January2021/MinimizeDeviationinArray.java)
 31) [NextPermutation](/January2021/NextPermutation.java)
 
+## _Leetcode January solutions
+1) [No Of 1 bits](/Febrary2021/NoOf1Bits.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
