@@ -133,7 +133,8 @@
 
 ## _Leetcode January solutions
 1) [No Of 1 bits](/February2021/NoOf1Bits.java)
-1) [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
+2) [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
+3) [Linked List Cycle](/February2021/LinkedListCycle.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
