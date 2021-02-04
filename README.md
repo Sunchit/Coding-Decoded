@@ -135,6 +135,7 @@
 1) [No Of 1 bits](/February2021/NoOf1Bits.java)
 2) [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
 3) [Linked List Cycle](/February2021/LinkedListCycle.java)
+4) [LongestHarmoinousSubsequence](/February2021/LongestHarmoinousSubsequence.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
