@@ -136,7 +136,8 @@
 2) [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
 3) [Linked List Cycle](/February2021/LinkedListCycle.java)
 4) [LongestHarmoinousSubsequence](/February2021/LongestHarmoinousSubsequence.java)
-4) [SimiplifyPaths](/February2021/SimiplifyPaths.java)
+5) [SimiplifyPaths](/February2021/SimiplifyPaths.java)
+6) [Binary Tree Right Side View](/February2021/BinaryTreeRightSideView.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
