@@ -138,6 +138,7 @@
 4) [LongestHarmoinousSubsequence](/February2021/LongestHarmoinousSubsequence.java)
 5) [SimiplifyPaths](/February2021/SimiplifyPaths.java)
 6) [Binary Tree Right Side View](/February2021/BinaryTreeRightSideView.java)
+7) [Shortest Distance to a Character](/February2021/ShortestDistancetoaCharacter.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
