@@ -139,6 +139,7 @@
 5) [SimiplifyPaths](/February2021/SimiplifyPaths.java)
 6) [Binary Tree Right Side View](/February2021/BinaryTreeRightSideView.java)
 7) [Shortest Distance to a Character](/February2021/ShortestDistancetoaCharacter.java)
+8) [Peeking Iterator](/February2021/PeekingIterator.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
