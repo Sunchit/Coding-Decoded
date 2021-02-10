@@ -141,6 +141,7 @@
 7) [Shortest Distance to a Character](/February2021/ShortestDistancetoaCharacter.java)
 8) [Peeking Iterator](/February2021/PeekingIterator.java)
 9) [convert-bst-to-greater-tree](/February2021/convert-bst-to-greater-tree.java)
+9) [Copy List with Random Pointer](/February2021/CopyListwithRandomPointer.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
