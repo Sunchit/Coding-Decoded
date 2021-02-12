@@ -143,6 +143,7 @@
 9) [convert-bst-to-greater-tree](/February2021/convert-bst-to-greater-tree.java)
 9) [Copy List with Random Pointer](/February2021/CopyListwithRandomPointer.java)
 11) [Valid Anagram](/February2021/ValidAnagram.java)
+12) [NumberofStepstoReduceNumbertoZero](/February2021/NumberofStepstoReduceNumbertoZero.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
