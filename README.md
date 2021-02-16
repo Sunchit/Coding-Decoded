@@ -145,8 +145,9 @@
 11) [Valid Anagram](/February2021/ValidAnagram.java)
 12) [NumberofStepstoReduceNumbertoZero](/February2021/NumberofStepstoReduceNumbertoZero.java)
 13) [ShortestPathInAGird](/February2021/ShortestPathInAGird.java)
-13) [IsGraphBipairate](/February2021/IsGraphBipairate.java)
-13) [TheKWeakestRowsinaMatrix](/February2021/TheKWeakestRowsinaMatrix.java)
+14) [IsGraphBipairate](/February2021/IsGraphBipairate.java)
+15) [TheKWeakestRowsinaMatrix](/February2021/TheKWeakestRowsinaMatrix.java)
+16) [LetterCasePermutation](/February2021/LetterCasePermutation.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
