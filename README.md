@@ -148,7 +148,8 @@
 14) [IsGraphBipairate](/February2021/IsGraphBipairate.java)
 15) [TheKWeakestRowsinaMatrix](/February2021/TheKWeakestRowsinaMatrix.java)
 16) [LetterCasePermutation](/February2021/LetterCasePermutation.java)
-16) [ContainerWithMostWater](/February2021/ContainerWithMostWater.java)
+17) [ContainerWithMostWater](/February2021/ContainerWithMostWater.java)
+18) [ArthimeticSlicing](/February2021/ArthimeticSlicing.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
