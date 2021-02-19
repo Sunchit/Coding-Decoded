@@ -150,6 +150,7 @@
 16) [LetterCasePermutation](/February2021/LetterCasePermutation.java)
 17) [ContainerWithMostWater](/February2021/ContainerWithMostWater.java)
 18) [ArthimeticSlicing](/February2021/ArthimeticSlicing.java)
+18) [MinimumRemovetoMakeValidParentheses](/February2021/MinimumRemovetoMakeValidParentheses.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
