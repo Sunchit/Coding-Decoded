@@ -1,14 +1,19 @@
 class Solution {
+
+    // TC : O(n)
+    // SC : O(n)
+
     public int findUnsortedSubarray(int[] nums) {
         Stack<Integer> st = new Stack<>();
-        int minIndex = nums.length;
-        for(int i = 0;i<nums.length;){
+        int left  = nums.length-1;
+
+        for(int i=0; i< nums.length;){
             if(st.empty()){
                 st.push(i);
                 i++;
-            } else {
-                if(!st.empty() && nums[st.peek()] > nums[i]){
-                   minIndex = Math.min(st.peek(), minIndex);
+            } else{
+                if(nums[st.peek()] > nums[i]){
+                    left = Math.min(left, st.peek());
                     st.pop();
                 } else{
                     st.push(i);
@@ -18,15 +23,16 @@ class Solution {
         }
 
         st.clear();
-
         int right = 0;
+
+
         for(int i=nums.length-1;i>=0;){
             if(st.empty()){
                 st.push(i);
                 i--;
             } else{
-                if(!st.empty() && nums[st.peek()]< nums[i]){
-                    right = Math.max(st.peek(), right);
+                if(nums[st.peek()] < nums[i]){
+                    right = Math.max(right, st.peek());
                     st.pop();
                 } else{
                     st.push(i);
@@ -35,10 +41,11 @@ class Solution {
             }
         }
 
-       // System.out.println(minIndex + " "+ right);
-        if(right< minIndex){
+        if(left >= right){
             return 0;
+        } else{
+            return right- left +1;
         }
-        return right - minIndex +1;
+
     }
 }
