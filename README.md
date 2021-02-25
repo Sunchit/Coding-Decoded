@@ -152,6 +152,7 @@
 18) [ArthimeticSlicing](/February2021/ArthimeticSlicing.java)
 18) [MinimumRemovetoMakeValidParentheses](/February2021/MinimumRemovetoMakeValidParentheses.java)
 24) [ScoreOfParentheses](/February2021/ScoreOfParentheses.java)
+25) [ShortestUnsortedContinuousSubarray](/February2021/ShortestUnsortedContinuousSubarray.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
