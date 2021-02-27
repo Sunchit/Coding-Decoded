@@ -154,6 +154,7 @@
 24) [ScoreOfParentheses](/February2021/ScoreOfParentheses.java)
 25) [ShortestUnsortedContinuousSubarray](/February2021/ShortestUnsortedContinuousSubarray.java)
 26) [ValidateStackSequences](/February2021/ValidateStackSequences.java)
+26) [DivideTwoIntegers](/February2021/DivideTwoIntegers.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
