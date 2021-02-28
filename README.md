@@ -155,6 +155,7 @@
 25) [ShortestUnsortedContinuousSubarray](/February2021/ShortestUnsortedContinuousSubarray.java)
 26) [ValidateStackSequences](/February2021/ValidateStackSequences.java)
 26) [DivideTwoIntegers](/February2021/DivideTwoIntegers.java)
+28) [MaximumFrequencyStack](/February2021/MaximumFrequencyStack.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
