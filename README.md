@@ -131,7 +131,7 @@
 30) [MinimizeDeviationinArray](/January2021/MinimizeDeviationinArray.java)
 31) [NextPermutation](/January2021/NextPermutation.java)
 
-## _Leetcode January solutions
+## _Leetcode February solutions
 1) [No Of 1 bits](/February2021/NoOf1Bits.java)
 2) [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
 3) [Linked List Cycle](/February2021/LinkedListCycle.java)
@@ -156,6 +156,9 @@
 26) [ValidateStackSequences](/February2021/ValidateStackSequences.java)
 26) [DivideTwoIntegers](/February2021/DivideTwoIntegers.java)
 28) [MaximumFrequencyStack](/February2021/MaximumFrequencyStack.java)
+
+## _Leetcode February solutions
+1) [Distribute Candies](/March2021/DistributeCandies.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
