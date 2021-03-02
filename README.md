@@ -158,7 +158,8 @@
 28) [MaximumFrequencyStack](/February2021/MaximumFrequencyStack.java)
 
 ## _Leetcode February solutions
-1) [Distribute Candies](/March2021/DistributeCandies.java)
+1) [Distribute Candies](/March2021/SetMismatch.java)
+1) [Set Mismatch](/March2021/DistributeCandies.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
