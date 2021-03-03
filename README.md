@@ -160,6 +160,7 @@
 ## _Leetcode February solutions
 1) [Distribute Candies](/March2021/DistributeCandies.java)
 2) [Set Mismatch](/March2021/SetMismatch.java)
+2) [Missing Number](/March2021/MissingNumber.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
