@@ -163,6 +163,7 @@
 2) [Missing Number](/March2021/MissingNumber.java)
 2) [Intersection Of Two Linked Lists](/March2021/IntersectionOfTwoLinkedLists.java)
 2) [AverageofLevelsinBinaryTree](/March2021/AverageofLevelsinBinaryTree.java)
+2) [ShortEncodingofWords](/March2021/ShortEncodingofWords.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
