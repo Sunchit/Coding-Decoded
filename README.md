@@ -157,7 +157,7 @@
 26) [DivideTwoIntegers](/February2021/DivideTwoIntegers.java)
 28) [MaximumFrequencyStack](/February2021/MaximumFrequencyStack.java)
 
-## _Leetcode February solutions
+## _Leetcode March solutions
 1) [Distribute Candies](/March2021/DistributeCandies.java)
 2) [Set Mismatch](/March2021/SetMismatch.java)
 2) [Missing Number](/March2021/MissingNumber.java)
@@ -165,7 +165,7 @@
 2) [AverageofLevelsinBinaryTree](/March2021/AverageofLevelsinBinaryTree.java)
 2) [ShortEncodingofWords](/March2021/ShortEncodingofWords.java)
 2) [DesignHashMap](/March2021/DesignHashMap.java)
-8) [RemovePalindromicSubsequences](/March2021/RemovePalindromicSubsequences.java)
+8) [AddRowToTree](/March2021/AddRowToTree.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
