@@ -167,6 +167,7 @@
 2) [DesignHashMap](/March2021/DesignHashMap.java)
 8) [AddRowToTree](/March2021/AddRowToTree.java)
 8) [IntegertoRoman](/March2021/IntegertoRoman.java)
+8) [CoinChange](/March2021/CoinChange.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
