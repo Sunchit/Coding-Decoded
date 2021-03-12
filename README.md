@@ -168,6 +168,7 @@
 8) [AddRowToTree](/March2021/AddRowToTree.java)
 8) [IntegertoRoman](/March2021/IntegertoRoman.java)
 8) [CoinChange](/March2021/CoinChange.java)
+8) [Check-if-a-string-contains-allbinary-codesofsize-K](/March2021/check-if-a-string-contains-allbinary-codesofsize-K.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
