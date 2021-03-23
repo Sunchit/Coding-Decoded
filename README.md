@@ -179,6 +179,7 @@
 8) [DesignUndergroundSystem](/March2021/DesignUndergroundSystem.java)
 8) [ReorderedPowerOf2](/March2021/ReorderedPowerOf2.java)
 8) [SpellChecker](/March2021/SpellChecker.java)
+8) [3SumWithMultiplicity](/March2021/3SumWithMultiplicity.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
