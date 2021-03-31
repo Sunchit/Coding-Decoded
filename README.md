@@ -186,6 +186,7 @@
 8) [PalindromicSubStrings](/March2021/PalindromicSubStrings.java)
 8) [FlipBinaryTreeToMatchPreorderTraversal](/March2021/FlipBinaryTreeToMatchPreorderTraversal.java)
 8) [RussianDollEnvelopes](/March2021/RussianDollEnvelopes.java)
+8) [StampingTheSequence](/March2021/StampingTheSequence.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
