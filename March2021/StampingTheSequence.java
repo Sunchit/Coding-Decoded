@@ -1,3 +1,6 @@
+
+//TC : O(M(N-M))
+// SC : O(1)
 class Solution {
     public int[] movesToStamp(String stamp, String target) {
         List<Integer> reverseIndexList = new ArrayList<>();
