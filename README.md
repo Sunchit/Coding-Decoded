@@ -188,6 +188,9 @@
 8) [RussianDollEnvelopes](/March2021/RussianDollEnvelopes.java)
 8) [StampingTheSequence](/March2021/StampingTheSequence.java)
 
+## _Leetcode April solutions
+1) [PalindromeLinkedList](/April2021/PalindromeLinkedList.java)
+
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
