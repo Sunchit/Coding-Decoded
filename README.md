@@ -190,6 +190,7 @@
 
 ## _Leetcode April solutions
 1) [PalindromeLinkedList](/April2021/PalindromeLinkedList.java)
+2) [OnesAndZeros](/April2021/OnesAndZeros.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
