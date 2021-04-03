@@ -13,11 +13,13 @@ class Solution {
                 st.push(i);
             } else{
 
-                // current closing bracking
+                // current closing bracket
 
                 if(!st.empty() && s.charAt(st.peek()) == '('){
+                    // balanced case
                     st.pop();
-                } else{
+                } else {
+                    // unbalanced case
                     st.push(i);
                 }
             }
