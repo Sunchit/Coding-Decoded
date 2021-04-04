@@ -192,6 +192,7 @@
 1) [PalindromeLinkedList](/April2021/PalindromeLinkedList.java)
 2) [OnesAndZeros](/April2021/OnesAndZeros.java)
 2) [LongestValidParentheses](/April2021/LongestValidParentheses.java)
+2) [DesignCircularQueue](/April2021/DesignCircularQueue.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
