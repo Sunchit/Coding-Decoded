@@ -194,6 +194,7 @@
 2) [LongestValidParentheses](/April2021/LongestValidParentheses.java)
 2) [DesignCircularQueue](/April2021/DesignCircularQueue.java)
 2) [GlobalandLocalInversions](/April2021/GlobalandLocalInversions.java)
+2) [MinimumOperationstoMakeArrayEqual](/April2021/MinimumOperationstoMakeArrayEqual.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
