@@ -195,6 +195,7 @@
 2) [DesignCircularQueue](/April2021/DesignCircularQueue.java)
 2) [GlobalandLocalInversions](/April2021/GlobalandLocalInversions.java)
 2) [MinimumOperationstoMakeArrayEqual](/April2021/MinimumOperationstoMakeArrayEqual.java)
+2) [determine-if-string-halves-are-alike](/April2021/determine-if-string-halves-are-alike.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
