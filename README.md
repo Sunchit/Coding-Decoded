@@ -196,6 +196,7 @@
 2) [GlobalandLocalInversions](/April2021/GlobalandLocalInversions.java)
 2) [MinimumOperationstoMakeArrayEqual](/April2021/MinimumOperationstoMakeArrayEqual.java)
 2) [determine-if-string-halves-are-alike](/April2021/determine-if-string-halves-are-alike.java)
+2) [LCP](/April2021/LCP.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
