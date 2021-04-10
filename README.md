@@ -198,6 +198,7 @@
 2) [determine-if-string-halves-are-alike](/April2021/determine-if-string-halves-are-alike.java)
 2) [LetterCombinationPhone](/April2021/LCP.java)
 2) [ValidAlienDictionary](/April2021/ValidAlienDictionary.java)
+2) [LongestIncreasingPath](/April2021/LongestIncreasingPath.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
