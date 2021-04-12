@@ -200,6 +200,7 @@
 2) [ValidAlienDictionary](/April2021/ValidAlienDictionary.java)
 2) [LongestIncreasingPath](/April2021/LongestIncreasingPath.java)
 2) [DeepestLeavesSum](/April2021/DeepestLeavesSum.java)
+2) [BeautifulArrangementII](/April2021/BeautifulArrangementII.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
