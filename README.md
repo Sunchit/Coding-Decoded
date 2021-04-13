@@ -201,6 +201,7 @@
 2) [LongestIncreasingPath](/April2021/LongestIncreasingPath.java)
 2) [DeepestLeavesSum](/April2021/DeepestLeavesSum.java)
 2) [BeautifulArrangementII](/April2021/BeautifulArrangementII.java)
+2) [FlattenedNestedList](/April2021/FlattenedNestedList.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
