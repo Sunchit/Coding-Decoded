@@ -204,6 +204,7 @@
 2) [FlattenedNestedList](/April2021/FlattenedNestedList.java)
 2) [PartitionList](/April2021/PartitionList.java)
 2) [FibonacciNos](/April2021/FibonacciNos.java)
+2) [remove-all-adjacent-duplicates-in-string-ii](/April2021/remove-all-adjacent-duplicates-in-string-ii.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
