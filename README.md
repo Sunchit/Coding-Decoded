@@ -207,6 +207,10 @@
 16) [remove-all-adjacent-duplicates-in-string-ii](/April2021/remove-all-adjacent-duplicates-in-string-ii.java)
 30) [PowerfulIntegers](/April2021/PowerfulIntegers.java)
 
+
+## _Leetcode May solutions
+1) [PrefixAndSuffixSearch](/May2021/PrefixAndSuffixSearch.java)
+
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
