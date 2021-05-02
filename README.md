@@ -210,6 +210,7 @@
 
 ## _Leetcode May solutions
 1) [PrefixAndSuffixSearch](/May2021/PrefixAndSuffixSearch.java)
+1) [CourseScheduleIII](/May2021/CourseScheduleIII.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
