@@ -219,3 +219,6 @@
 1) [MinimumElementstoAddtoFormaGivenSum](/Contest/MinimumElementstoAddtoFormaGivenSum.java)
 1) [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
 1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
+
+## _Leetcode General Concepts
+1) [Longest Increasing Subsequence](/Concepts/LongestIncreasingSubsequence.java)
