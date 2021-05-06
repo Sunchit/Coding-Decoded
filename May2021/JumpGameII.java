@@ -56,5 +56,5 @@ class Solution {
 
         return level;
     }
-    
+
 }
