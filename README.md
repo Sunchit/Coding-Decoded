@@ -217,6 +217,7 @@
 5) [ConvertSortedListToBST](/May2021/ConvertSortedListToBST.java)
 5) [DeleteOperationforTwoStrings](/May2021/DeleteOperationforTwoStrings.java)
 5) [SuperPalindrome](/May2021/SuperPalindrome.java)
+5) [ConstructTargetArrayWithMultipleSums](/May2021/ConstructTargetArrayWithMultipleSums.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
