@@ -218,6 +218,7 @@
 5) [DeleteOperationforTwoStrings](/May2021/DeleteOperationforTwoStrings.java)
 5) [SuperPalindrome](/May2021/SuperPalindrome.java)
 5) [ConstructTargetArrayWithMultipleSums](/May2021/ConstructTargetArrayWithMultipleSums.java)
+5) [CountPrimes](/May2021/CountPrimes.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
