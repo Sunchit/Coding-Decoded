@@ -220,7 +220,8 @@
 5) [ConstructTargetArrayWithMultipleSums](/May2021/ConstructTargetArrayWithMultipleSums.java)
 5) [CountPrimes](/May2021/CountPrimes.java)
 5) [MaximumPointsYouCanObtainfromCards](/May2021/MaximumPointsYouCanObtainfromCards.java)
-5) [RangeSumQuery2D-Immutable](/May2021/RangeSumQuery2D-Immutable.java)
+5) [RangeSumQuery2D-Immutable]((/May2021/RangeSumQuery2D-Immutable.java)
+5) [AmbiguousCoordinates]((/May2021/AmbiguousCoordinates.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
