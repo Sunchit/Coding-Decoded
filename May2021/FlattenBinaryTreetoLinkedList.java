@@ -28,8 +28,8 @@ class Solution {
             return null;
         }
 
-        TreeNode leftChild = preOrderHelper(root.left);
-        TreeNode rightChild = preOrderHelper(root.right);
+        TreeNode leftChild = postOrderhelper(root.left);
+        TreeNode rightChild = postOrderhelper(root.right);
 
         TreeNode extremeRightOfLC = leftChild;
         while(extremeRightOfLC!=null && extremeRightOfLC.right!=null){
