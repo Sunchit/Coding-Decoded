@@ -19,11 +19,11 @@ class Solution {
             return ;
         }
 
-        preOrderHelper(root);
+        postOrderhelper(root);
     }
 
     // LRI
-    private TreeNode preOrderHelper(TreeNode root){
+    private TreeNode postOrderhelper(TreeNode root){
         if(root == null){
             return null;
         }
