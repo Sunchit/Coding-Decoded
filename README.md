@@ -222,6 +222,7 @@
 5) [MaximumPointsYouCanObtainfromCards](/May2021/MaximumPointsYouCanObtainfromCards.java)
 5) [RangeSumQuery2D-Immutable](/May2021/RangeSumQuery2D-Immutable.java)
 5) [AmbiguousCoordinates](/May2021/AmbiguousCoordinates.java)
+5) [FlattenBinaryTreetoLinkedList](/May2021/FlattenBinaryTreetoLinkedList.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
