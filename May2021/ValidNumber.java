@@ -23,7 +23,7 @@ class Solution {
                     break;
                 case '+':
                 case '-':
-                    if (i != 0 && Character.isLowerCase(s.charAt(i-1)) != 'e') return false;
+                    if (i != 0 && ((s.charAt(i-1)) != 'e' || (s.charAt(i-1)) != 'E')) return false;
                     numberSeen = false;
                     break;
                 default:
