@@ -226,6 +226,7 @@
 5) [BinaryCameraTree](/May2021/BinaryCameraTree.java)
 5) [LongestStringChainSolution](/May2021/LongestStringChainSolution.java)
 5) [FindDuplicateFileinSystem](/May2021/FindDuplicateFileinSystem.java)
+5) [MinimumMovestoEqualArrayElementsII](/May2021/MinimumMovestoEqualArrayElementsII.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
