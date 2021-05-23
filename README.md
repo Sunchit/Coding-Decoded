@@ -231,6 +231,7 @@
 5) [BinaryTreeLevelOrderTraversal](/May2021/BinaryTreeLevelOrderTraversal.java)
 5) [FindandReplacePattern](/May2021/FindandReplacePattern.java)
 5) [NQueen](/May2021/NQueen.java)
+5) [FindTheShortestSuperstring](/May2021/FindTheShortestSuperstring.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
