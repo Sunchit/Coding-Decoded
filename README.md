@@ -233,6 +233,8 @@
 5) [NQueen](/May2021/NQueen.java)
 5) [FindTheShortestSuperstring](/May2021/FindTheShortestSuperstring.java)
 5) [ToLowerCase](/May2021/ToLowerCase.java)
+5) [EvaluateReversePolishNotation](/May2021/EvaluateReversePolishNotation.java)
+
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
