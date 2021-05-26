@@ -234,6 +234,7 @@
 5) [FindTheShortestSuperstring](/May2021/FindTheShortestSuperstring.java)
 5) [ToLowerCase](/May2021/ToLowerCase.java)
 5) [EvaluateReversePolishNotation](/May2021/EvaluateReversePolishNotation.java)
+5) [PartitioningIntoMinimumNumberOfDeciBinaryNumbersg](/May2021/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
 
 
 ## _Leetcode Contest solutions
