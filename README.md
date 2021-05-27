@@ -235,6 +235,7 @@
 5) [ToLowerCase](/May2021/ToLowerCase.java)
 5) [EvaluateReversePolishNotation](/May2021/EvaluateReversePolishNotation.java)
 5) [PartitioningIntoMinimumNumberOfDeciBinaryNumbersg](/May2021/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
+5) [maximum-product-of-word-lengths](/May2021/maximum-product-of-word-lengths.java)
 
 
 ## _Leetcode Contest solutions
