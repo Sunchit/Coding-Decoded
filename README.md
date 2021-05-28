@@ -236,6 +236,7 @@
 5) [EvaluateReversePolishNotation](/May2021/EvaluateReversePolishNotation.java)
 5) [PartitioningIntoMinimumNumberOfDeciBinaryNumbersg](/May2021/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
 5) [maximum-product-of-word-lengths](/May2021/maximum-product-of-word-lengths.java)
+5) [MaximumErasureValue](/May2021/MaximumErasureValue.java)
 
 
 ## _Leetcode Contest solutions
