@@ -237,7 +237,7 @@
 5) [PartitioningIntoMinimumNumberOfDeciBinaryNumbersg](/May2021/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java)
 5) [maximum-product-of-word-lengths](/May2021/maximum-product-of-word-lengths.java)
 5) [MaximumErasureValue](/May2021/MaximumErasureValue.java)
-
+5) [NQueenII](/May2021/NQueenII.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
