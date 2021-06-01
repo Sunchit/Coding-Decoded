@@ -241,6 +241,10 @@
 5) [MaximumGap](/May2021/MaximumGap.java)
 5) [SearchSuggestionsSystem](/May2021/SearchSuggestionsSystem.java)
 
+
+## _Leetcode June solutions
+1) [MaxAreaofIsland](/June2021/MaxAreaofIsland.java)
+
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
