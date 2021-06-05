@@ -247,6 +247,7 @@
 1) [InterleavingString](/June2021/InterleavingString.java)
 1) [MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCutsg](/June2021/MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.java)
 1) [OpenTheLock](/June2021/OpenTheLock.java)
+1) [MaximumPerformanceofaTeam](/June2021/MaximumPerformanceofaTeam.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
