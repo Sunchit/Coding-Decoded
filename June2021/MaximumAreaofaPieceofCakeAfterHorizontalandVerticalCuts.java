@@ -20,8 +20,10 @@ class Solution {
             maxWidth = Math.max(maxWidth, verticalWidth);
         }
 
-        long ans = 1L * maxHeight * maxWidth;
+        long ans = ((1L * maxHeight * maxWidth) % 1000000007; //use the 10^9+7 mmodulo here only and not latter as if used later it will store the bogus answer already
+                    //https://www.geeksforgeeks.org/modulo-1097-1000000007/ 
+                    //read this
 
-        return  (int) (ans % 1000000007);
+        return  (int) (ans);
     }
 }
