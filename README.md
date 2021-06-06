@@ -246,6 +246,7 @@
 1) [MaxAreaofIsland](/June2021/MaxAreaofIsland.java)
 1) [InterleavingString](/June2021/InterleavingString.java)
 1) [MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCutsg](/June2021/MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.java)
+1) [MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCutsg_Python](/June2021/MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.py)
 1) [OpenTheLock](/June2021/OpenTheLock.java)
 1) [MaximumPerformanceofaTeam](/June2021/MaximumPerformanceofaTeam.java)
 1) [LongestConsecutiveSequence](/June2021/LongestConsecutiveSequence.java)
