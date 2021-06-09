@@ -252,6 +252,7 @@
 1) [LongestConsecutiveSequence](/June2021/LongestConsecutiveSequence.java)
 1) [MinCostClimbingStairs](/June2021/MinCostClimbingStairs.java)
 1) [ConstructBinaryTreefromPreorderandInorderTraversal](/June2021/ConstructBinaryTreefromPreorderandInorderTraversal.java)
+1) [JumpGameVIg](/June2021/JumpGameVI.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
