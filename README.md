@@ -254,6 +254,7 @@
 1) [ConstructBinaryTreefromPreorderandInorderTraversal](/June2021/ConstructBinaryTreefromPreorderandInorderTraversal.java)
 1) [JumpGameVI](/June2021/JumpGameVI.java)
 1) [MyCalendarI](/June2021/MyCalendarI.java)
+1) [StoneGameVII](/June2021/StoneGameVII.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
