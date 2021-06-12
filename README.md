@@ -255,6 +255,7 @@
 1) [JumpGameVI](/June2021/JumpGameVI.java)
 1) [MyCalendarI](/June2021/MyCalendarI.java)
 1) [StoneGameVII](/June2021/StoneGameVII.java)
+1) [MinimumNumberofRefuelingStops](/June2021/MinimumNumberofRefuelingStops.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
