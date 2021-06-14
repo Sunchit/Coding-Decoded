@@ -257,6 +257,7 @@
 1) [StoneGameVII](/June2021/StoneGameVII.java)
 1) [MinimumNumberofRefuelingStops](/June2021/MinimumNumberofRefuelingStops.java)
 1) [PalindromePairs](/June2021/PalindromePairs.java)
+1) [MaximumUnitsonaTruck](/June2021/MaximumUnitsonaTruck.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
