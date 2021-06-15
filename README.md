@@ -258,6 +258,7 @@
 1) [MinimumNumberofRefuelingStops](/June2021/MinimumNumberofRefuelingStops.java)
 1) [PalindromePairs](/June2021/PalindromePairs.java)
 1) [MaximumUnitsonaTruck](/June2021/MaximumUnitsonaTruck.java)
+1) [MaximumUnitsonaTruck - Day 15](/June2021/MatchSticksToSquares.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
