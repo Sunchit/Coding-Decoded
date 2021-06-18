@@ -261,6 +261,7 @@
 15) [MaximumUnitsonaTruck - Day 15](/June2021/MatchSticksToSquare.java)
 16) [GenerateParentheses - Day 16](/June2021/GenerateParentheses.java)
 17) [NumberofSubarrayswithBoundedMaximum - Day 17](/June2021/NumberofSubarrayswithBoundedMaximum.java)
+18) [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
 
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
