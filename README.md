@@ -1,5 +1,7 @@
 # Coding-Decoded
 
+<a href="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png"><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left"></a>
+
 ## _Leetcode August solutions_
 
 1) [Detect Capitals](./Solution_DetectCapital.java)
