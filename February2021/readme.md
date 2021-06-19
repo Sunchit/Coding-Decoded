@@ -1,0 +1,28 @@
+## Leetcode February solutions
+
+### <em> Java Solutions </em>
+1) [No Of 1 bits](/February2021/NoOf1Bits.java)
+2) [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
+3) [Linked List Cycle](/February2021/LinkedListCycle.java)
+4) [LongestHarmoinousSubsequence](/February2021/LongestHarmoinousSubsequence.java)
+5) [SimiplifyPaths](/February2021/SimiplifyPaths.java)
+6) [Binary Tree Right Side View](/February2021/BinaryTreeRightSideView.java)
+7) [Shortest Distance to a Character](/February2021/ShortestDistancetoaCharacter.java)
+8) [Peeking Iterator](/February2021/PeekingIterator.java)
+9) [convert-bst-to-greater-tree](/February2021/convert-bst-to-greater-tree.java)
+9) [Copy List with Random Pointer](/February2021/CopyListwithRandomPointer.java)
+11) [Valid Anagram](/February2021/ValidAnagram.java)
+12) [NumberofStepstoReduceNumbertoZero](/February2021/NumberofStepstoReduceNumbertoZero.java)
+13) [ShortestPathInAGird](/February2021/ShortestPathInAGird.java)
+14) [IsGraphBipairate](/February2021/IsGraphBipairate.java)
+15) [TheKWeakestRowsinaMatrix](/February2021/TheKWeakestRowsinaMatrix.java)
+16) [LetterCasePermutation](/February2021/LetterCasePermutation.java)
+17) [ContainerWithMostWater](/February2021/ContainerWithMostWater.java)
+18) [ArthimeticSlicing](/February2021/ArthimeticSlicing.java)
+18) [MinimumRemovetoMakeValidParentheses](/February2021/MinimumRemovetoMakeValidParentheses.java)
+24) [ScoreOfParentheses](/February2021/ScoreOfParentheses.java)
+25) [ShortestUnsortedContinuousSubarray](/February2021/ShortestUnsortedContinuousSubarray.java)
+26) [ValidateStackSequences](/February2021/ValidateStackSequences.java)
+26) [DivideTwoIntegers](/February2021/DivideTwoIntegers.java)
+28) [MaximumFrequencyStack](/February2021/MaximumFrequencyStack.java)
+

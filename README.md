@@ -262,7 +262,8 @@
 16) [GenerateParentheses - Day 16](/June2021/GenerateParentheses.java)
 17) [NumberofSubarrayswithBoundedMaximum - Day 17](/June2021/NumberofSubarrayswithBoundedMaximum.java)
 18) [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
-
+19) [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
+g
 ## _Leetcode Contest solutions
 1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
