@@ -1,10 +1,10 @@
 
 <a><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left" height="100" width="100" ></a>
 
-# **Coding Decoded** ** 
+# **Coding Decoded**
 
-#####
-Solutions to all the leetcode challenges
+<a href="https://github.com/Sunchit/Coding-Decoded/graphs/contributors"><img alt="GitHub contributors" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Contributors.png" height="30" width="30" ></a>
+
 ## _Leetcode August solutions_
 
 1) [Detect Capitals](./Solution_DetectCapital.java)
