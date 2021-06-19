@@ -5,7 +5,7 @@
 
 <a href="https://github.com/Sunchit/Coding-Decoded/graphs/contributors"><img alt="GitHub contributors" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Contributors.png" height="30" width="30">Contributors</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/stargazers"><img alt="Stars" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Stars.png" height="30" width="30">Stars</a>
-<a href="https://github.com/Sunchit/Coding-Decoded/network/members"><img alt="Forks" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Forkf.png" height="30" width="30">Forks</a>
+<a href="https://github.com/Sunchit/Coding-Decoded/network/members"><img alt="Forks" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Fork.png" height="30" width="30">Forks</a>
 ## _Leetcode August solutions_
 
 1) [Detect Capitals](./Solution_DetectCapital.java)
