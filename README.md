@@ -2,6 +2,8 @@
 
 <a href="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png"><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left" height="100" width="100" ></a>
 
+#####
+Solutions to all the leetcode challenges
 ## _Leetcode August solutions_
 
 1) [Detect Capitals](./Solution_DetectCapital.java)
