@@ -1,6 +1,6 @@
 # Coding-Decoded
 
-<a href="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png"><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left"></a>
+<a href="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png"><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left" height="100" width="100" ></a>
 
 ## _Leetcode August solutions_
 
