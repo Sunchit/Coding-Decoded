@@ -8,6 +8,9 @@
 <a href="https://github.com/Sunchit/Coding-Decoded/network/members"><img alt="Forks" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Fork.png" height="30" width="30">Forks</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/network/pulls"><img alt="Pull Request" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Pull.png" height="30" width="30">Pull Request</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/network/issues"><img alt="Issues" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Issues.png" height="30" width="30">Issues</a>
+<a href="https://github.com/Sunchit/Coding-Decoded/network/issues"><img alt="Issues" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Issues.png" height="30" width="30">Issues</a>
+
+<p> The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) build strong data structure concepts and coding aptitude. I hope my content helps you land the job of your dreams and  become a better engineer!</p>
 
 ## _Leetcode August solutions_
 
