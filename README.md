@@ -1,8 +1,7 @@
 
 <a><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left" height="100" width="100" ></a>
 
-# Coding-Decoded
-
+# **Coding Decoded** ** 
 
 #####
 Solutions to all the leetcode challenges
