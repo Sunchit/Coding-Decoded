@@ -9,7 +9,16 @@
 <a href="https://github.com/Sunchit/Coding-Decoded/network/pulls"><img alt="Pull Request" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Pull.png" height="30" width="30">Pull Request</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/network/issues"><img alt="Issues" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Issues.png" height="30" width="30">Issues</a>
 
- The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) build strong data structure concepts and coding aptitude. I hope my content helps you land the job of your dreams and  become a better engineer!
+The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) land the job of their dreams and  become a better engineer!
+It is a one stop solution for all your technical knowledge for building
+* _Data structures and algorithm concepts_
+* _Coding Aptitude_
+* _Interviewing Aptitude and process_
+* _Deciphering Interviewer's mindset_
+
+
+We have already reached our first milestone of 1k+ subscribers and if you like then come join us **Get aboard**!
+
 
 ## _Leetcode August solutions_
 
