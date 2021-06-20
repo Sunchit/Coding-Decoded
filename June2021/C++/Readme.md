@@ -1,4 +1,4 @@
 
 ### June 2021 Leetcode C++ Solution
 
-1. [SwiminRisingWater - Day 20g](<Link to the file>)
+1. [SwiminRisingWater - Day 20](<Link to the file>)
