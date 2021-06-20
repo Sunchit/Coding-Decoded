@@ -53,8 +53,8 @@ It is a place where peers of the community help each other with their queries, s
 
 
 | S No  | Topic  |  Playlist |  
-| :------------- :| :-------------: |  :-------------: |
-
+| ------------- | :-------------: |  :-------------: |
+| 1.  | Interviewing and building coding Aptitude  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSRJ-fqSacEURKkXhbQpSMF) |
 
 | 2.  | System Design  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTCh8qxBLOGBf88rwElwc0y)  | 
 | 3.  | Success Stories  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN)  | 
