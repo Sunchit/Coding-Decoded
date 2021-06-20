@@ -61,7 +61,7 @@ It is a place where peers of the community help each other with their queries, s
 *************
 
 
-### <span style="color: purple"> Leetcode Monthly Challenges </span>
+###  Leetcode Monthly Challenges 
 
 
 | S No  | Leetcode Monthly Challenge  |  Playlist |  
