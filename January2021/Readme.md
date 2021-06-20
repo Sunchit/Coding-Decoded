@@ -3,7 +3,7 @@
 ### <em> Java Solutions </em>
 
 1) [Check Array Formation Through Concatenation](/January2021/CheckFormationThroughConcatenation.java)
-2) [Find a Corresponding of a Binary Tree in a of That Tree](/January2021/FindaCorrespondingofaBinaryTreeina ofThatTree.Java)
+2) [Find a Corresponding of a Binary Tree in a of That Tree](/January2021/FindaCorrespondingofaBinaryTreeinaofThatTree.Java)
 3) [Beautiful Arrangement](/January2021/BeautifulArrangement.java)
 4) [Merge two sorted list](/January2021/MergeTwoSortList.java)
 5) [RemoveDuplicatesfromSortedListII](/January2021/RemoveDuplicatesfromSortedListII.java)

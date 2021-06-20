@@ -216,7 +216,7 @@ It is a place where peers of the community help each other with their queries, s
 ### [January 2021 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/)
 
 1. [Check Array Formation Through Concatenation](/January2021/CheckFormationThroughConcatenation.java)
-1. [Find a Corresponding of a Binary Tree in a of That Tree](/January2021/FindaCorrespondingofaBinaryTreeina ofThatTree.Java)
+1. [Find a Corresponding of a Binary Tree in a of That Tree](/January2021/FindaCorrespondingofaBinaryTreeinaofThatTree.Java)
 1. [Beautiful Arrangement](/January2021/BeautifulArrangement.java)
 1. [Merge two sorted list](/January2021/MergeTwoSortList.java)
 1. [RemoveDuplicatesfromSortedListII](/January2021/RemoveDuplicatesfromSortedListII.java)
