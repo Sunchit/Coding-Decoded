@@ -99,6 +99,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [NumberofSubarrayswithBoundedMaximum - Day 17](/June2021/NumberofSubarrayswithBoundedMaximum.java)
 1. [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
 1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
+1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
