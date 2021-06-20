@@ -348,7 +348,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [DeleteANodeInBst](./August2020/DeleteANodeInBst.java)
 
 
-###Leetcode Contest solutions 
+### [Leetcode Contest solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL) 
 
 1. [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1. [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
@@ -357,7 +357,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
 
 
-Leetcode General Concepts
+### [Leetcode General Concepts](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNj67hf58-RiTBMn7iPLPw)
 
 1. [Longest Increasing Subsequence](/Concepts/LongestIncreasingSubsequence.java)
 
