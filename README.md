@@ -357,7 +357,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
 
 
-###<span style="color: purple">Leetcode General Concepts</span>
+<span style="color: purple">Leetcode General Concepts</span>
 
 1. [Longest Increasing Subsequence](/Concepts/LongestIncreasingSubsequence.java)
 
