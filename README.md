@@ -23,7 +23,7 @@ It is a one stop solution for all your technical knowledge. Its primary focus is
 
 In the past 10 months we have solved **_200+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges.
 
-####_A picture is worth 1000 words, and a video is worth 100000+ words_
+#### _A picture is worth 1000 words, and a video is worth 100000+ words_
 
 Each video has a pictorial representation of the algorithm, test cases walk through and cherry on top is _live coding session_.
 
