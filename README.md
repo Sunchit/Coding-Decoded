@@ -366,7 +366,7 @@ It is a place where peers of the community help each other with their queries, s
 
 
 <div style="text-align:center">
-<a href="https://www.youtube.com/c/CodingDecoded?sub_confirmation=1"><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Subscribe.png" height="30" width="30">**Subscribe**</a>
-<a href="https://www.instagram.com/sunchitdudeja/?hl=en"><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Instagram.png" height="30" width="30">**Instagram**</a>
-<a href="https://www.linkedin.com/in/sunchitdudeja/"><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Linkedin.png" height="30" width="30"> **Linkedin**</a>
+<a href="https://www.youtube.com/c/CodingDecoded?sub_confirmation=1"><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Subscribe.png" height="50" width="100">Subscribe</a>
+<a href="https://www.instagram.com/sunchitdudeja/?hl=en"><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Instagram.png" height="80" width="80">Instagram</a>
+<a href="https://www.linkedin.com/in/sunchitdudeja/"><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Linkedin.png" height="80" width="80"> Linkedin</a>
 </div>
