@@ -31,19 +31,19 @@ Each video has a pictorial representation of the algorithm, test cases walk thro
 
 *************
 
-### <span style="color: purple"> Get Aboard </span>
+### Get Aboard
 
 If you also intend to get a job of your dreams, come join us, and become our companion. We will together make it possible.
 
-#### <span style="color: purple"> Youtube Channel </span> 
+####  Youtube Channel  
 
 <a href="https://www.youtube.com/c/CodingDecoded"><img alt="Coding Decoded" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Youtube.png" height="70" width="70"> Coding Decoded Channel </a>
 
 All the videos are hosted here. 
 
-#### <span style="color: purple"> Discord Server </span>
+#### Discord Server 
 
-<a href="https://discord.com/invite/3e5f59rUDK"><img alt="Discord Server" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Discord.png" height="70" width="70"> Coding Decoded Discord</a>
+<a href="https://discord.com/invite/3e5f59rUDK"><img alt="Discord Server" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Discord.png?text=#f03c15" height="70" width="70"> Coding Decoded Discord</a>
 
 It is a place where peers of the community help each other with their queries, schedule mock interviews among themselves and bring in a little humour.
 
