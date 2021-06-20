@@ -43,13 +43,13 @@ All the videos are hosted here.
 
 #### Discord Server 
 
-<a href="https://discord.com/invite/3e5f59rUDK"><img alt="Discord Server" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Discord.png?text=#f03c15" height="70" width="70"> Coding Decoded Discord</a>
+<a href="https://discord.com/invite/3e5f59rUDK"><img alt="Discord Server" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Discord.png" height="70" width="70"> Coding Decoded Discord</a>
 
 It is a place where peers of the community help each other with their queries, schedule mock interviews among themselves and bring in a little humour.
 
 *************
 
-### <span style="color: purple"> Interviewing and building coding Aptitude </span>
+### Interviewing and building coding Aptitude 
 
 
 | S No  | Topic  |  Playlist |  
