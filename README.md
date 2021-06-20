@@ -77,7 +77,7 @@ It is a place where peers of the community help each other with their queries, s
 | 9.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
 | 10.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
 
-###[<span style="color: purple">June 2021 Leetcode Challenge </span>](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
+###[June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
 1. [MaxAreaofIsland - Day 1](/June2021/MaxAreaofIsland.java)
 1. [InterleavingString - Day 2](/June2021/InterleavingString.java)
@@ -100,7 +100,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
 1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
 
-###[<span style="color: purple">May 2021 Leetcode Challenge </span>](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
+###[May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
 1. [PrefixAndSuffixSearch](/May2021/PrefixAndSuffixSearch.java)
 1. [CourseScheduleIII](/May2021/CourseScheduleIII.java)
@@ -134,7 +134,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [MaximumGap](/May2021/MaximumGap.java)
 1. [SearchSuggestionsSystem](/May2021/SearchSuggestionsSystem.java)
 
-###[<span style="color: purple">April 2021 Leetcode Challenge </span>](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)
+###[April 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)
 
 1. [PalindromeLinkedList](/April2021/PalindromeLinkedList.java)
 1. [OnesAndZeros](/April2021/OnesAndZeros.java)
@@ -154,7 +154,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [remove-all-adjacent-duplicates-in-string-ii](/April2021/remove-all-adjacent-duplicates-in-string-ii.java)
 1. [PowerfulIntegers](/April2021/PowerfulIntegers.java)
 
-###[<span style="color: purple">March 2021 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/)
+###[March 2021 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/)
 
 1. [Distribute Candies](/March2021/DistributeCandies.java)
 1. [Set Mismatch](/March2021/SetMismatch.java)
@@ -186,7 +186,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [RussianDollEnvelopes](/March2021/RussianDollEnvelopes.java)
 1. [StampingTheSequence](/March2021/StampingTheSequence.java)
 
-###[<span style="color: purple">February 2021 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/)
+###[February 2021 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/)
 
 1. [No Of 1 bits](/February2021/NoOf1Bits.java)
 1. [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
@@ -213,7 +213,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [DivideTwoIntegers](/February2021/DivideTwoIntegers.java)
 1. [MaximumFrequencyStack](/February2021/MaximumFrequencyStack.java)
 
-###[<span style="color: purple">January 2021 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/)
+###[January 2021 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/)
 
 1. [Check Array Formation Through Concatenation](/January2021/CheckFormationThroughConcatenation.java)
 1. [Find a Corresponding of a Binary Tree in a of That Tree](/January2021/FindaCorrespondingofaBinaryTreeina ofThatTree.Java)
@@ -247,7 +247,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [MinimizeDeviationinArray](/January2021/MinimizeDeviationinArray.java)
 1. [NextPermutation](/January2021/NextPermutation.java)
 
-###[<span style="color: purple">December 2020 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/)
+###[December 2020 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/)
 
 1. [Maximum Depth Of Binary Tree](December2020/MaximumDepthOfBinaryTree.java)
 1. [Linked List Random Node](December2020/LinkedListRandomNode.java)
@@ -276,7 +276,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [Game Of Life](/December2020/GameOfLife.java)
 1. [LaregstAreaOfHistorgam](/December2020/LaregstAreaOfHistorgam.java)
 
-###[<span style="color: purple">November 2020 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/)
+###[November 2020 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/)
 
 1. [Merge Intervals](November2020/MergeIntervals.java)
 1. [Decode String](November2020/DecodeString.java)
@@ -293,7 +293,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [TheSkyLineProblem](November2020/TheSkyLineProblem.java)
 
 
-###[<span style="color: purple">September 2020 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+###[September 2020 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
 
 1. [Largest Time for Given Digits](September2020/LargestTimeForGivenDigits.java)
 1. [Contains Duplicate III](September2020/ContainsDuplicateIII.java)
@@ -311,7 +311,7 @@ It is a place where peers of the community help each other with their queries, s
    2) [Combination Sum using Start variable](September2020/CombinationSumIIIB.java)
       -[InsertIntervals](September2020/InsertIntervals.java)
 
-###[<span style="color: purple">August 2020 Leetcode Challenge </span>](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
+###[August 2020 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
 
 1. [Detect Capitals](./August2020/Solution_DetectCapital.java)
 1. Design HashSet
@@ -348,7 +348,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [DeleteANodeInBst](./August2020/DeleteANodeInBst.java)
 
 
-###<span style="color: purple">Leetcode Contest solutions </span>
+###Leetcode Contest solutions 
 
 1. [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1. [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
@@ -357,7 +357,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
 
 
-<span style="color: purple">Leetcode General Concepts</span>
+Leetcode General Concepts
 
 1. [Longest Increasing Subsequence](/Concepts/LongestIncreasingSubsequence.java)
 
