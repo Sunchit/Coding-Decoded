@@ -23,3 +23,4 @@
 1. [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
 1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
 1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
+2. [PascalTriangle - Day 21](/June2021/PascalTriangle.java)
