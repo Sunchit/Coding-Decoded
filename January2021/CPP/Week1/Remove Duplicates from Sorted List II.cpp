@@ -1,4 +1,11 @@
 /**
+ * Author: Simranjeet Randhawa
+ * Description: Remove Duplicates from Sorted List II
+ * Time Complexity: O(N)
+ * Space Complexity: O(1) 
+ */
+
+/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -11,7 +18,6 @@
 class Solution
 {
 public:
-    //TC:O(N)| SC:O(1)
     ListNode *deleteDuplicates(ListNode *head)
     {
         ListNode *dummyNode = new ListNode(INT_MIN);

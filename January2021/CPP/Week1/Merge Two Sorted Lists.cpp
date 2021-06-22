@@ -1,4 +1,11 @@
 /**
+ * Author: Simranjeet Randhawa
+ * Description: Merge Two sorted Linked List
+ * Time Complexity: O(N+M)
+ * Space Complexity: O(1) 
+ */
+
+/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -9,7 +16,6 @@
  * };
  */
 
-//Time: O(n1+n2) Space:O(1)
 class Solution
 {
 public:

@@ -1,6 +1,10 @@
-// Let m and n be the no of elements in arr and pieces
-//TC: O(max(m,n))
-//SC: O(n)
+/**
+ * Author: Simranjeet Randhawa
+ * Description: Check Array Formation Through Concatenation
+ * Let m and n be the no of elements in arr and pieces
+ * Time Complexity: O(max(m,n))
+ * Space Complexity: O(n)
+ * */
 
 class Solution
 {
