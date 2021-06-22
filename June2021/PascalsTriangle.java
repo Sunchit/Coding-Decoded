@@ -32,9 +32,8 @@ class Solution {
     }
 }
 
-// Solution 2 @theankitroy
+// Solution 2 Thanks @theankitroy
 
-<a><img alt="Subscribe" src="https://github.com/Sunchit/Coding-Decoded/blob/master/June2021/img/PascalsTriangleCombinationApproach.png" height="200" width="200"></a>
 class Solution {
     public List<List<Integer>> generate(int numRows) {
 
@@ -46,6 +45,8 @@ class Solution {
         return ans;
 
     }
+
+    // Logic explanation : https://github.com/Sunchit/Coding-Decoded/blob/master/June2021/img/PascalsTriangleCombinationApproach.png
     public static ArrayList<Integer> pascalTriangle2(int r){
 
         ArrayList<Integer> ans=new ArrayList<>();
