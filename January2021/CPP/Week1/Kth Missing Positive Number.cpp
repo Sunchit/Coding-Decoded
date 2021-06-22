@@ -1,7 +1,14 @@
+/**
+ * Author: Simranjeet Randhawa
+ * Description: Kth Missing Positive Number
+ * Time Complexity: O(logN)
+ * Space Complexity: O(1) 
+ * */
+
 class Solution
 {
 public:
-    //Space:O(1) | Time:O(logN)
+    //
     int findKthPositive(vector<int> &arr, int k)
     {
 
@@ -23,5 +30,5 @@ public:
         }
 
         return right + k;
-        }
+    }
 };

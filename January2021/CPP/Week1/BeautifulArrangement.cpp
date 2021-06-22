@@ -1,4 +1,9 @@
-//TC:O(N*K) SC:O(N) where k is the number of valid permutation
+/**
+ * Author: Simranjeet Randhawa
+ * Description: Beautiful Arrangements
+ * Time Complexity: O(k)
+ * Space Complexity: O(N) where k is the number of valid permutation
+ * */
 
 class Solution
 {

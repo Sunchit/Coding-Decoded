@@ -1,4 +1,12 @@
 /**
+ * Author: Simranjeet Randhawa
+ * Description: Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+ * Let N be the number of nodes and d is the maximum depth.
+ * Time Complexity: O(N)
+ * Space Complexity: O(d) 
+ * */
+
+/**
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
@@ -8,7 +16,6 @@
  * };
  */
 
-//TC:O(N) | SC:O(d) where N is number of nodes and d is the maximum depth.
 class Solution
 {
 
