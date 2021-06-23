@@ -101,6 +101,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
 1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
 1. [Pascal'sTriangle - Day 21](/June2021/PascalsTriangle.java)
+1. [NumberofMatchingSubsequences - Day 22](/June2021/NumberofMatchingSubsequences.java)
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
