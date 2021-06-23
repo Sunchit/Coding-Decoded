@@ -1,6 +1,8 @@
 #Author-Aditya Chauhan
 #fast,single pass,In place reversal
-<a href="https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3789/">Problem link</a>
+
+#Problem link-https://leetcode.com/problems/reverse-linked-list-ii
+
 class Solution:
     def reverseBetween(self, head: ListNode, left: int, right: int) -> ListNode:
         if not head or left==right:
