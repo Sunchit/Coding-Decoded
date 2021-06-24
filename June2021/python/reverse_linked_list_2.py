@@ -1,4 +1,5 @@
-# Definition for singly-linked list.
+# author : Prayag Bhatia
+#question : https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3789/
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
