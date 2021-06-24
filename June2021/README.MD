@@ -26,3 +26,4 @@
 1. [PascalsTriangle - Day 21](/June2021/PascalsTriangle.java)
 1. [NumberofMatchingSubsequences - Day 22](/June2021/NumberofMatchingSubsequences.java)
 1. [ReverseLinkedListII - Day 22](/June2021/ReverseLinkedListII.java)
+1. [OutofBoundaryPaths - Day 24](/June2021/OutofBoundaryPaths.java)
