@@ -104,6 +104,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [NumberofMatchingSubsequences - Day 22](/June2021/NumberofMatchingSubsequences.java)
 1. [ReverseLinkedListII - Day 23](/June2021/ReverseLinkedListII.java)
 1. [OutofBoundaryPaths - Day 24](/June2021/OutofBoundaryPaths.java)
+1. [OutofBoundaryPaths - Day 25](/June2021/RedundantConnection.java)
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 

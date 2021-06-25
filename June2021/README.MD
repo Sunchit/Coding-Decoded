@@ -25,5 +25,6 @@
 1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
 1. [PascalsTriangle - Day 21](/June2021/PascalsTriangle.java)
 1. [NumberofMatchingSubsequences - Day 22](/June2021/NumberofMatchingSubsequences.java)
-1. [ReverseLinkedListII - Day 22](/June2021/ReverseLinkedListII.java)
+1. [ReverseLinkedListII - Day 23](/June2021/ReverseLinkedListII.java)
 1. [OutofBoundaryPaths - Day 24](/June2021/OutofBoundaryPaths.java)
+1. [OutofBoundaryPaths - Day 25](/June2021/RedundantConnection.java)
