@@ -4,8 +4,9 @@
 
 class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-		    #OOP
-		    parent = [i for i in range(len(edges) + 1)]
+	#OOP
+	    
+	parent = [i for i in range(len(edges) + 1)]
         def find(n):
             p=parent[n]
             while p != parent[p]:
@@ -25,7 +26,8 @@ class Solution:
                 return [n1,n2]
 				
         #Iterative approach
-		    parent = [i for i in range(len(edges) + 1)]
+	
+	parent = [i for i in range(len(edges) + 1)]
         for i in edges:
             n1,n2=i
             p1=parent[n1]
