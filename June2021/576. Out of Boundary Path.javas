@@ -1,0 +1,32 @@
+/* @author : Darshika Jha
+   question link : https://leetcode.com/problems/out-of-boundary-paths/
+*/
+
+class Solution {
+    public int findPaths(int m, int n, int maxMove, int startRow, int startColumn) {
+        HashMap<String,Long> hm = new HashMap<>();
+        long res = findPathsHelper(m,n,maxMove,startRow,startColumn,hm);        
+        return (int) res;
+    }
+    
+    public long findPathsHelper(int m, int n, int maxMove, int startRow, int startColumn,HashMap<String,Long> hm){
+        if(maxMove < 0){
+            return 0;
+        }
+        if(startRow < 0 || startColumn < 0 || startRow >= m || startColumn >= n){
+            return 1;
+        }
+        if(hm.containsKey(startRow+";"+startColumn+";"+maxMove)){
+            return hm.get(startRow+";"+startColumn+";"+maxMove);
+        }
+        
+        long res = 0;
+       
+        res += (findPathsHelper(m,n,maxMove-1,startRow-1,startColumn,hm) %1000000007);
+        res += (findPathsHelper(m,n,maxMove-1,startRow,startColumn+1,hm) %1000000007);
+        res += (findPathsHelper(m,n,maxMove-1,startRow+1,startColumn,hm) %1000000007);
+        res += (findPathsHelper(m,n,maxMove-1,startRow,startColumn-1,hm) %1000000007);
+        hm.put(startRow+";"+startColumn+";"+maxMove,(res %1000000007));
+        return (res %1000000007);
+    }
+}
