@@ -1,0 +1,39 @@
+#author-Aditya Chauhan
+#Qlink-https://leetcode.com/problems/redundant-connection
+#fast,unionfind
+
+class Solution:
+    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
+		    #OOP
+		    parent = [i for i in range(len(edges) + 1)]
+        def find(n):
+            p=parent[n]
+            while p != parent[p]:
+                parent[p]=parent[parent[p]]
+                p=parent[p]
+                
+            return p
+        def union(n1,n2):
+            p1,p2=find(n1),find(n2)
+            if p1==p2:
+                return 0
+            parent[p2]=p1
+            return 1
+        
+        for n1,n2 in edges:
+            if not union(n1,n2):
+                return [n1,n2]
+				
+        #Iterative approach
+		    parent = [i for i in range(len(edges) + 1)]
+        for i in edges:
+            n1,n2=i
+            p1=parent[n1]
+            p2=parent[n2]
+            while p1!=parent[p1]:
+                p1=parent[parent[p1]]
+            while p2!=parent[p2]:
+                p2=parent[parent[p2]]
+            if p1==p2:
+                return i
+            parent[p2]=p1
