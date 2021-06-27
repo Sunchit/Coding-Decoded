@@ -6,8 +6,8 @@
 <a href="https://github.com/Sunchit/Coding-Decoded/graphs/contributors"><img alt="GitHub contributors" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Contributors.png" height="30" width="30">Contributors</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/stargazers"><img alt="Stars" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Stars.png" height="30" width="30">Stars</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/network/members"><img alt="Forks" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Fork.png" height="30" width="30">Forks</a>
-<a href="https://github.com/Sunchit/Coding-Decoded/network/pulls"><img alt="Pull Request" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Pull.png" height="30" width="30">Pull Request</a>
-<a href="https://github.com/Sunchit/Coding-Decoded/network/issues"><img alt="Issues" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Issues.png" height="30" width="30">Issues</a>
+<a href="https://github.com/Sunchit/Coding-Decoded/pulls"><img alt="Pull Request" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Pull.png" height="30" width="30">Pull Request</a>
+<a href="https://github.com/Sunchit/Coding-Decoded/issues"><img alt="Issues" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Issues.png" height="30" width="30">Issues</a>
 
 *************
 
@@ -101,6 +101,11 @@ It is a place where peers of the community help each other with their queries, s
 1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
 1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
 1. [Pascal'sTriangle - Day 21](/June2021/PascalsTriangle.java)
+1. [NumberofMatchingSubsequences - Day 22](/June2021/NumberofMatchingSubsequences.java)
+1. [ReverseLinkedListII - Day 23](/June2021/ReverseLinkedListII.java)
+1. [OutofBoundaryPaths - Day 24](/June2021/OutofBoundaryPaths.java)
+1. [RedundantConnection - Day 25](/June2021/RedundantConnection.java)
+1. [CountOfSmallerNumbersAfterSelf - Day 26](/June2021/CountOfSmallerNumbersAfterSelf.java)
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
