@@ -1,6 +1,6 @@
 /**
  * @author ssrbazpur
- * @name Check If Two String Arrays are Equivalent 
+ * @Question: Check If Two String Arrays are Equivalent 
  * @Time Complexity: O(N) 
  * @Space Complexity: O(1)
  */
