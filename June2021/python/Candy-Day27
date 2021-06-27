@@ -1,0 +1,21 @@
+#Author-Aditya Chauhan
+#Qlink-https://leetcode.com/problems/candy/
+#Best runtime-148ms(97%faster)
+
+class Solution:
+    def candy(self, ratings: List[int]) -> int:
+        c,d=0,1
+        candies=[1]*len(ratings)
+        for i in range(len(ratings)-1):        #iterating left->right and updating candies
+            if ratings[c]<ratings[d] and candies[d]<=candies[c]:
+                candies[d]=candies[c]+1
+            c+=1
+            d+=1
+        c,d=-1,-2
+        for i in range(len(ratings)-1):                   #iterating right->left and updating candies
+            if ratings[c]<ratings[d] and candies[d]<=candies[c]:
+                candies[d]=candies[c]+1
+            c-=1
+            d-=1
+            
+        return sum(candies)
