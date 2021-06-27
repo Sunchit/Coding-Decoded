@@ -97,7 +97,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [MaximumUnitsonaTruck - Day 15](/June2021/MatchSticksToSquare.java)
 1. [GenerateParentheses - Day 16](/June2021/GenerateParentheses.java)
 1. [NumberofSubarrayswithBoundedMaximum - Day 17](/June2021/NumberofSubarrayswithBoundedMaximum.java)
-1. [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
+1. [RangeSumMutable - Day 18](/June2021/RangeSumMutable.java)
 1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
 1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
 1. [Pascal'sTriangle - Day 21](/June2021/PascalsTriangle.java)
