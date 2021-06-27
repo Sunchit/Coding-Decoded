@@ -1,6 +1,6 @@
 # 2021 January CPP Solutions
 
-## Week 1 
+## Week 1
 
 1. [Check Array Formation Through Concatenation](/January2021/C++/CheckArrayFormationThroughConcatenation.cpp)
 2. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/January2021/C++/FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree.cpp)
@@ -10,4 +10,6 @@
 6. [Kth Missing Positive Number](/January2021/C++/KthMissingPositiveNumber.cpp)
 7. [Longest Substring Without Repeating Characters](/January2021/C++/LongestSubstringWithoutRepeatingCharacters.cpp)
 
- 
+## Week 2
+
+1. [Check If Two String Arrays are Equivalent](/January2021/C++/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)
