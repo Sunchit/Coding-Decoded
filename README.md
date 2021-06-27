@@ -106,6 +106,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [OutofBoundaryPaths - Day 24](/June2021/OutofBoundaryPaths.java)
 1. [RedundantConnection - Day 25](/June2021/RedundantConnection.java)
 1. [CountOfSmallerNumbersAfterSelf - Day 26](/June2021/CountOfSmallerNumbersAfterSelf.java)
+1. [Candy - Day 27](/June2021/Candy.java)
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
