@@ -107,6 +107,8 @@ It is a place where peers of the community help each other with their queries, s
 1. [RedundantConnection - Day 25](/June2021/RedundantConnection.java)
 1. [CountOfSmallerNumbersAfterSelf - Day 26](/June2021/CountOfSmallerNumbersAfterSelf.java)
 1. [Candy - Day 27](/June2021/Candy.java)
+1. [RemoveAllAdjacentDuplicatesInString - Day 27](/June2021/RemoveAllAdjacentDuplicatesInString.java)
+
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
