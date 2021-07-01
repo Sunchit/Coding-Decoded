@@ -66,6 +66,7 @@ It is a place where peers of the community help each other with their queries, s
 
 | S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
 | ------------- | :-------------: |  :-------------: |
+|1.  | [July 2021](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
 |1.  | [June 2021](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
 | 2.  | [May 2021](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS8UNo22UA4O3_YjnQczyNp)  | 
 | 3.  | [April 2021](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gStjIegCW3i84AI9L2KjGhJ)  | 
@@ -76,6 +77,10 @@ It is a place where peers of the community help each other with their queries, s
 | 8.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)  | 
 | 9.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
 | 10.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
+
+### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
+
+1. [GrayCode - Day 1](/July2021/GrayCode.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
