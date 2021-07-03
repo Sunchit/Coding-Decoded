@@ -81,7 +81,9 @@ It is a place where peers of the community help each other with their queries, s
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
 1. [GrayCode - Day 1](/July2021/GrayCode.java)
-1. [FindKClosestElements - Day 1](/July2021/FindKClosestElements.java%20)
+1. [FindKClosestElements - Day 2](/July2021/FindKClosestElements.java)
+1. [MaxSumofRectangleNoLargerThanK - Day 3](/July2021/MaxSumofRectangleNoLargerThanK.java)
+
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
