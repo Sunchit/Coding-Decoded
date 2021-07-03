@@ -3,4 +3,4 @@
 [July 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
 1. [GrayCode - Day 1](gray_code.cpp)
-2. [Find K Closest Elements - Day 2](Find K Closest Elements.cpp)
+2. [Find K Closest Elements - Day 2](July2021/C++/Find K Closest Elements.cpp)
