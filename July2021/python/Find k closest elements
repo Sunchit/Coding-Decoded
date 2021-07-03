@@ -1,0 +1,18 @@
+#author-Aditya Chauhan
+#Qlink-https://leetcode.com/problems/find-k-closest-elements/solution/
+
+class Solution:
+    def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:   #[1,2,3,4,5],4,3
+        lol=collections.defaultdict(list)                                    
+        c,d=0,len(arr)-1
+        lis=[]
+        for i in arr:
+            lol[abs(i-x)].append(i)                                         #{2:[1,5],1:[2,4],0:[3]}
+        for i in sorted(lol):                    #Sorting because we want variables with least difference first
+            for j in lol[i]:
+                if len(lis)<k:
+                    lis+=[j]
+                else:
+                    return sorted(lis)                         #[1,2,3,4]
+
+        return sorted(lis)
