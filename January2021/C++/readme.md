@@ -19,3 +19,13 @@
 5. [Add Two Numbers](/January2021/C++/Add%20Two%20Numbers.cpp)
 6. [Boats to Save People](/January2021/C++/Boats%20to%20Save%20People.cpp)
 7. [Minimum Operations to Reduce X to Zero](/January2021/C++/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp)
+
+## Week 3
+
+1. [Get Maximum in Generated Array](/January2021/C++/GetMaximuminGeneratedArray.cpp)
+2. [Kth Largest Element in an Array](/January2021/C++/KthLargestElementinanArray.cpp)
+3. [Count Sorted Vowel Strings](/January2021/C++/CountSortedVowelStrings.cpp)
+4. [Max Number of K-Sum Pairs](/January2021/C++/MaxNumberofK-SumPairs.cpp)
+5. [Longest Palindromic Substring](/January2021/C++/LongestPalindromicSubstring.cpp)
+6. [Valid Parentheses](/January2021/C++/ValidParentheses.cpp)
+7. [Find the Most Competitive Subsequence](/January2021/C++/Find%20the%20Most%20Competitive%20Subsequence.cpp)
