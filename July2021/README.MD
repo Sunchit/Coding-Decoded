@@ -5,3 +5,4 @@
 1. [GrayCode - Day 1](/July2021/GrayCode.java)
 1. [FindKClosestElements - Day 2](/July2021/FindKClosestElements.java)
 1. [MaxSumofRectangleNoLargerThanK - Day 3](/July2021/MaxSumofRectangleNoLargerThanK.java)
+1. [CountVowelsPermutation - Day 4](/July2021/CountVowelsPermutation.java)
