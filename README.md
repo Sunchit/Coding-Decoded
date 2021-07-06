@@ -85,6 +85,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [MaxSumofRectangleNoLargerThanK - Day 3](/July2021/MaxSumofRectangleNoLargerThanK.java)
 1. [CountVowelsPermutation - Day 4](/July2021/CountVowelsPermutation.java)
 1. [ReshapeTheMatrix - Day 5](/July2021/ReshapeTheMatrix.java)
+1. [ReduceArraySizetoTheHalf - Day 6](/July2021/ReduceArraySizetoTheHalf.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
