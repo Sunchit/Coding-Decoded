@@ -9,3 +9,4 @@
 1. [ReshapeTheMatrix - Day 5](/July2021/ReshapeTheMatrix.java)
 1. [ReduceArraySizetoTheHalf - Day 6](/July2021/ReduceArraySizetoTheHalf.java)
 1. [KthSmallestElementinaSortedMatrix - Day 7](/July2021/KthSmallestElementinaSortedMatrix.java)
+1. [MaximumLengthofRepeatedSubarray - Day 8](/July2021/MaximumLengthofRepeatedSubarray.java)
