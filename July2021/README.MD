@@ -11,3 +11,4 @@
 1. [KthSmallestElementinaSortedMatrix - Day 7](/July2021/KthSmallestElementinaSortedMatrix.java)
 1. [MaximumLengthofRepeatedSubarray - Day 8](/July2021/MaximumLengthofRepeatedSubarray.java)
 1. [LongestIncreasingSubsequence - Day 9](/July2021/LongestIncreasingSubsequence.java)
+1. [DecodeWaysII - Day 10](/July2021/DecodeWaysII.java)
