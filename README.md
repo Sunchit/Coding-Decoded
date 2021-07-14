@@ -93,6 +93,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [FindMedianfromDataStream - Day 11](/July2021/FindMedianfromDataStream.java)
 1. [IsomorphicStrings - Day 12](/July2021/IsomorphicStrings.java)
 1. [FindPeakElement - Day 13](/July2021/FindPeakElement.java)
+1. [CustomSortString - Day 14](/July2021/CustomSortString.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
