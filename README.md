@@ -94,6 +94,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [IsomorphicStrings - Day 12](/July2021/IsomorphicStrings.java)
 1. [FindPeakElement - Day 13](/July2021/FindPeakElement.java)
 1. [CustomSortString - Day 14](/July2021/CustomSortString.java)
+1. [ValidTriangleNumber - Day 15](/July2021/ValidTriangleNumber.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
