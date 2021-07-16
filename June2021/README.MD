@@ -21,7 +21,7 @@
 1. [GenerateParentheses - Day 16](/June2021/GenerateParentheses.java)
 1. [NumberofSubarrayswithBoundedMaximum - Day 17](/June2021/NumberofSubarrayswithBoundedMaximum.java)
 1. [NumberofSubarrayswithBoundedMaximum - Day 18](/June2021/RangeSumMutable.java)
-1. [KInversePairsArray - Day 19](/June2021/KInversePairsArray.java)
+1. [KInversePairsArray - ay 19](/June2021/KInversePairsArray.java)
 1. [SwiminRisingWater - Day 20](/June2021/SwiminRisingWater.java)
 1. [PascalsTriangle - Day 21](/June2021/PascalsTriangle.java)
 1. [NumberofMatchingSubsequences - Day 22](/June2021/NumberofMatchingSubsequences.java)
