@@ -18,3 +18,4 @@
 1. [CustomSortString - Day 14](/July2021/CustomSortString.java)
 1. [ValidTriangleNumber - Day 15](/July2021/ValidTriangleNumber.java)
 1. [4Sum - Day 16](/July2021/4Sum.java)
+1. [ThreeEqualParts - Day 17](/July2021/ThreeEqualParts.java)
