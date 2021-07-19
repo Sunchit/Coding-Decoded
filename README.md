@@ -97,7 +97,8 @@ It is a place where peers of the community help each other with their queries, s
 1. [ValidTriangleNumber - Day 15](/July2021/ValidTriangleNumber.java)
 1. [4Sum - Day 16](/July2021/4Sum.java)
 1. [ThreeEqualParts - Day 17](/July2021/ThreeEqualParts.java)
-1. [ReverseNodesinkGroup - Day 17](/July2021/ReverseNodesinkGroup.java)
+1. [ReverseNodesinkGroup - Day 18](/July2021/ReverseNodesinkGroup.java)
+1. [LowestCommonAncestorofaBinarySearchTree - Day 19](/July2021/LowestCommonAncestorofaBinarySearchTree.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
