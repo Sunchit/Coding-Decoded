@@ -99,7 +99,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [ThreeEqualParts - Day 17](/July2021/ThreeEqualParts.java)
 1. [ReverseNodesinkGroup - Day 18](/July2021/ReverseNodesinkGroup.java)
 1. [LowestCommonAncestorofaBinarySearchTree - Day 19](/July2021/LowestCommonAncestorofaBinarySearchTree.java)
-1. [ShulleAnArray - Day 20](/July2021/ShulleAnArray.java)
+1. [ShuffleAnArray - Day 20](/July2021/ShuffleAnArray.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
