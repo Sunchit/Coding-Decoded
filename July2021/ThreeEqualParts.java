@@ -9,7 +9,7 @@ class Solution {
     }
 
     if (numOf1s == 0) {
-      return new int[]{0, 2};
+      return new int[]{0, arr.length-1};
     }
 
     if (numOf1s % 3 != 0) {
