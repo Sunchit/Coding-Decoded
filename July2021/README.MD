@@ -23,3 +23,4 @@
 1. [LowestCommonAncestorofaBinarySearchTree - Day 19](/July2021/LowestCommonAncestorofaBinarySearchTree.java)
 1. [ShuffleAnArray - Day 20](/July2021/ShuffleAnArray.java)
 1. [PushDominoes - Day 21](/July2021/PushDominoes.java)
+1. [PartitionArrayintoDisjointIntervals - Day 22](/July2021/PartitionArrayintoDisjointIntervals.java)
