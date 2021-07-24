@@ -102,7 +102,8 @@ It is a place where peers of the community help each other with their queries, s
 1. [ShuffleAnArray - Day 20](/July2021/ShuffleAnArray.java)
 1. [PushDominoes - Day 21](/July2021/PushDominoes.java)
 1. [PartitionArrayintoDisjointIntervals - Day 22](/July2021/PartitionArrayintoDisjointIntervals.java)
-1. [BinaryTreePruning - Day 22](/July2021/BinaryTreePruning.java%20)
+1. [BinaryTreePruning - Day 22](/July2021/BinaryTreePruning.java)
+1. [WordLadderII - Day 24](/July2021/WordLadderII.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
