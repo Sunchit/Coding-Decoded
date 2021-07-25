@@ -17,7 +17,7 @@ class Solution {
         queue.offer(new Node(beginWord));
         while (!queue.isEmpty()) {
             int size = queue.size();
-            while(size-->0)
+            while(size-->0){
                 Node head = queue.poll();
                 for (String neighborStr : neighbors(list, head.value)) {
                     Node neighbor = new Node(neighborStr, head);
@@ -32,6 +32,7 @@ class Solution {
         }
         return res;
     }
+    
 
 
     private Set<String> neighbors(Set<String> list, String s) {
