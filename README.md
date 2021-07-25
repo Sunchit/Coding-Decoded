@@ -104,6 +104,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [PartitionArrayintoDisjointIntervals - Day 22](/July2021/PartitionArrayintoDisjointIntervals.java)
 1. [BinaryTreePruning - Day 22](/July2021/BinaryTreePruning.java)
 1. [WordLadderII - Day 24](/July2021/WordLadderII.java)
+1. [NonNegativeIntegerswithoutConsecutiveOnes - Day 25](/July2021/NonNegativeIntegerswithoutConsecutiveOnes.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
