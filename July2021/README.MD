@@ -27,3 +27,4 @@
 1. [BinaryTreePruning - Day 23](/July2021/BinaryTreePruning.java)
 1. [WordLadderII - Day 24](/July2021/WordLadderII.java)
 1. [NonNegativeIntegerswithoutConsecutiveOnes - Day 25](/July2021/NonNegativeIntegerswithoutConsecutiveOnes.java)
+1. [ConvertSortedArraytoBinarySearchTree - Day 26](/July2021/ConvertSortedArraytoBinarySearchTree.java)
