@@ -1,3 +1,9 @@
+/*
+ Author - geekySapien
+ QLink - https://leetcode.com/problems/find-median-from-data-stream/
+*/
+
+
 class MedianFinder
 {
 public:

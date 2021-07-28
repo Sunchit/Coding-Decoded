@@ -1,3 +1,9 @@
+/*
+ Author - geekySapien
+ QLink - https://leetcode.com/problems/reduce-array-size-to-the-half/
+*/
+
+
 class Solution
 {
 public:

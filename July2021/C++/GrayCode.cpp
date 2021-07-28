@@ -1,3 +1,10 @@
+/*
+ Author - geekySapien
+ QLink - https://leetcode.com/problems/gray-code/
+*/
+
+
+
 class Solution {
 public:
     vector<string> getGrayCode(int m)

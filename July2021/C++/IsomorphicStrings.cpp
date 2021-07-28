@@ -1,3 +1,10 @@
+/*
+ Author - geekySapien
+ QLink - https://leetcode.com/problems/isomorphic-strings/
+*/
+
+
+
 class Solution
 {
 public:

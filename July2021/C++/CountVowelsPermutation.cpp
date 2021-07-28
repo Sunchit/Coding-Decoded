@@ -1,3 +1,8 @@
+/*
+ Author - geekySapien
+ QLink - https://leetcode.com/problems/count-vowels-permutation/
+*/
+
 class Solution {
 public:
     const int m=1e9+7;
