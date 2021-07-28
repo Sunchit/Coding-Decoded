@@ -28,3 +28,5 @@
 1. [WordLadderII - Day 24](/July2021/WordLadderII.java)
 1. [NonNegativeIntegerswithoutConsecutiveOnes - Day 25](/July2021/NonNegativeIntegerswithoutConsecutiveOnes.java)
 1. [ConvertSortedArraytoBinarySearchTree - Day 26](/July2021/ConvertSortedArraytoBinarySearchTree.java)
+1. [3SumClosest - Day 27](/July2021/3SumClosest.java)
+1. [BeautifulArray - Day 28](/July2021/BeautifulArray.java)
