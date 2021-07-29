@@ -108,6 +108,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [ConvertSortedArraytoBinarySearchTree - Day 26](/July2021/ConvertSortedArraytoBinarySearchTree.java)
 1. [3SumClosest - Day 27](/July2021/3SumClosest.java)
 1. [BeautifulArray - Day 28](/July2021/BeautifulArray.java)
+1. [01Matrix - Day 29](/July2021/01Matrix.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
