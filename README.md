@@ -109,6 +109,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [3SumClosest - Day 27](/July2021/3SumClosest.java)
 1. [BeautifulArray - Day 28](/July2021/BeautifulArray.java)
 1. [01Matrix - Day 29](/July2021/01Matrix.java)
+1. [MapSumPairs - Day 30](/July2021/MapSumPairs.java)
 
 ### [June 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)
 
