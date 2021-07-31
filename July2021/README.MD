@@ -32,3 +32,4 @@
 1. [BeautifulArray - Day 28](/July2021/BeautifulArray.java)
 1. [01Matrix - Day 29](/July2021/01Matrix.java)
 1. [MapSumPairs - Day 30](/July2021/MapSumPairs.java)
+1. [TrappingRainWater - Day 31](/July2021/TrappingRainWater.java)
