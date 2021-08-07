@@ -84,6 +84,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [MakingALargeIsland - Day 1](/August2021/MakingALargeIsland.java)
 2. [StoneGame - Day 5](/August2021/StoneGame.java)
 3. [NaryTreeLevelOrderTraversal - Day 6](/August2021/NaryTreeLevelOrderTraversal.java)
+4. [PalindromePartitioningII - Day 7](/August2021/PalindromePartitioningII.java)
 
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
