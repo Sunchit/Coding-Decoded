@@ -86,6 +86,7 @@ It is a place where peers of the community help each other with their queries, s
 3. [NaryTreeLevelOrderTraversal - Day 6](/August2021/NaryTreeLevelOrderTraversal.java)
 4. [PalindromePartitioningII - Day 7](/August2021/PalindromePartitioningII.java)
 5.  [AddStrings - Day 9](/August2021/AddStrings.java)
+6.  [FlipStringtoMonotoneIncreasing - Day 10](/August2021/FlipStringtoMonotoneIncreasing.java)
 
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
