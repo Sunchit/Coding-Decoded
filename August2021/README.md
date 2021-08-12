@@ -8,3 +8,4 @@
 4. [PalindromePartitioningII - Day 7](/August2021/PalindromePartitioningII.java)
 5.  [AddStrings - Day 9](/August2021/AddStrings.java)
 6.  [FlipStringtoMonotoneIncreasing - Day 10](/August2021/FlipStringtoMonotoneIncreasing.java)
+6.  [ArrayofDoubledPairs - Day 11](/August2021/ArrayofDoubledPairs.java)
