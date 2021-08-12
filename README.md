@@ -88,7 +88,7 @@ It is a place where peers of the community help each other with their queries, s
 5. [AddStrings - Day 9](/August2021/AddStrings.java)
 6. [FlipStringtoMonotoneIncreasing - Day 10](/August2021/FlipStringtoMonotoneIncreasing.java)
 7. [ArrayofDoubledPairs - Day 11](/August2021/ArrayofDoubledPairs.java)
-
+8. [ArrayofDoubledPairs - Day 12](/August2021/GroupAnangrams.java)
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
 1. [GrayCode - Day 1](/July2021/GrayCode.java)
