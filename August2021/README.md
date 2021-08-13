@@ -9,4 +9,5 @@
 5. [AddStrings - Day 9](/August2021/AddStrings.java)
 6. [FlipStringtoMonotoneIncreasing - Day 10](/August2021/FlipStringtoMonotoneIncreasing.java)
 7. [ArrayofDoubledPairs - Day 11](/August2021/ArrayofDoubledPairs.java)
-8. [ArrayofDoubledPairs - Day 12](/August2021/GroupAnangrams.java)
+8. [GroupAnangrams - Day 12](/August2021/GroupAnangrams.java)
+9. [SetMatrixZeroes - Day 12](/August2021/SetMatrixZeroes.java)
