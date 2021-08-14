@@ -11,3 +11,4 @@
 7. [ArrayofDoubledPairs - Day 11](/August2021/ArrayofDoubledPairs.java)
 8. [GroupAnangrams - Day 12](/August2021/GroupAnangrams.java)
 9. [SetMatrixZeroes - Day 12](/August2021/SetMatrixZeroes.java)
+10. [RemoveBoxes - Day 13](/August2021/RemoveBoxes.java)
