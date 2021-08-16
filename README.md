@@ -92,6 +92,7 @@ It is a place where peers of the community help each other with their queries, s
 9. [SetMatrixZeroes - Day 13](/August2021/SetMatrixZeroes.java)
 10. [RemoveBoxes - Day 14](/August2021/RemoveBoxes.java)
 11. [MinimumWindowSubstring - Day 15](/August2021/MinimumWindowSubstring.java)
+12. [RangeSumQueryImmutable - Day 16](/August2021/RangeSumQueryImmutable.java)
 
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
