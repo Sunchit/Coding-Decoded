@@ -15,3 +15,5 @@
 11. [MinimumWindowSubstring - Day 15](/August2021/MinimumWindowSubstring.java)
 12. [RangeSumQueryImmutable - Day 16](/August2021/RangeSumQueryImmutable.java)
 13. [CountGoodNodesinBinaryTree - Day 17](/August2021/CountGoodNodesinBinaryTree.java)
+14. [MaximumProductofSplittedBinaryTree - Day 19](/August2021/MaximumProductofSplittedBinaryTree.java)
+

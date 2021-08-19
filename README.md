@@ -94,6 +94,7 @@ It is a place where peers of the community help each other with their queries, s
 11. [MinimumWindowSubstring - Day 15](/August2021/MinimumWindowSubstring.java)
 12. [RangeSumQueryImmutable - Day 16](/August2021/RangeSumQueryImmutable.java)
 13. [CountGoodNodesinBinaryTree - Day 17](/August2021/CountGoodNodesinBinaryTree.java)
+14. [MaximumProductofSplittedBinaryTree - Day 19](/August2021/MaximumProductofSplittedBinaryTree.java)
 
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
