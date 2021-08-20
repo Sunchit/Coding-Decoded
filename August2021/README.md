@@ -16,5 +16,5 @@
 12. [RangeSumQueryImmutable - Day 16](/August2021/RangeSumQueryImmutable.java)
 13. [CountGoodNodesinBinaryTree - Day 17](/August2021/CountGoodNodesinBinaryTree.java)
 14. [MaximumProductofSplittedBinaryTree - Day 19](/August2021/MaximumProductofSplittedBinaryTree.java)
-14. [ValidSudoku - Day 20](/August2021/ValidSudoku.java)
+15. [ValidSudoku - Day 20](/August2021/ValidSudoku.java)
 
