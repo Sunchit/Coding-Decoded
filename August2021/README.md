@@ -20,3 +20,4 @@
 16. [SudokuSolver - Day 21](/August2021/SudokuSolver.java)
 17. [TwoSumIVInputIsABST - Day 23](/August2021/TwoSumIVInputIsABST.java)
 18. [ComplexNumberMultiplication - Day 24](/August2021/ComplexNumberMultiplication.java)
+19. [SumofSquareNumbers - Day 25](/August2021/SumofSquareNumbers.java)

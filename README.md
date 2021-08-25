@@ -103,6 +103,7 @@ It is a place where peers of the community help each other with their queries, s
 16. [SudokuSolver - Day 21](/August2021/SudokuSolver.java)
 17. [TwoSumIVInputIsABST - Day 23](/August2021/TwoSumIVInputIsABST.java)
 18. [ComplexNumberMultiplication - Day 24](/August2021/ComplexNumberMultiplication.java)
+19. [SumofSquareNumbers - Day 25](/August2021/SumofSquareNumbers.java)
 
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
