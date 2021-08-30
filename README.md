@@ -108,7 +108,7 @@ It is a place where peers of the community help each other with their queries, s
 21. [LongestUncommonSubsequenceII - Day 27](/August2021/LongestUncommonSubsequenceII.java)
 22. [MaximumProfitInJobScheduling - Day 28](/August2021/MaximumProfitInJobScheduling.java)
 23. [PatchingArray - Day 29](/August2021/PatchingArray.java)
-
+24. [RangeAdditionII - Day 30](/August2021/RangeAdditionII.java)
 
 ### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
