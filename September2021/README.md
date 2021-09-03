@@ -4,3 +4,4 @@
 
 1. [ArrayNesting - Day 1](/September2021/ArrayNesting.java)
 2. [UniqueBinarySearchTreesII - Day 2](/September2021/UniqueBinarySearchTreesII.java)
+3. [ErectTheFence - Day 3](/September2021/ErectTheFence.java)

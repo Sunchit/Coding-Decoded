@@ -86,6 +86,7 @@ It is a place where peers of the community help each other with their queries, s
 
 1. [ArrayNesting - Day 1](/September2021/ArrayNesting.java)
 2. [UniqueBinarySearchTreesII - Day 2](/September2021/UniqueBinarySearchTreesII.java)
+3. [ErectTheFence - Day 3](/September2021/ErectTheFence.java)
 
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
