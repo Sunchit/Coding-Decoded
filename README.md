@@ -89,6 +89,7 @@ It is a place where peers of the community help each other with their queries, s
 3. [ErectTheFence - Day 3](/September2021/ErectTheFence.java)
 4. [SumOfDistancesInTree - Day 4](/September2021/SumOfDistancesInTree.java)
 5. [OrderlyQueue - Day 5](/September2021/OrderlyQueue.java)
+6. [Slowest Key - Day 5](/September2021/SlowestKey.java)
 
 
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
