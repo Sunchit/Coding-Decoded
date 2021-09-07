@@ -21,7 +21,7 @@ It is a one stop solution for all your technical knowledge. Its primary focus is
 * _Deciphering Interviewer's mindset_
 * _Motivational talks_
 
-In the past 10 months we have solved **_200+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges.
+In the past 10 months we have solved **_350+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges.
 
 #### _A picture is worth 1000 words, and a video is worth 100000+ words_
 
