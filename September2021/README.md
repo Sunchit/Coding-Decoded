@@ -7,4 +7,5 @@
 3. [ErectTheFence - Day 3](/September2021/ErectTheFence.java)
 4. [SumOfDistancesInTree - Day 4](/September2021/SumOfDistancesInTree.java)
 5. [OrderlyQueue - Day 5](/September2021/OrderlyQueue.java)
-6. [Slowest Key - Day 5](/September2021/SlowestKey.java)
+6. [SlowestKey - Day 5](/September2021/SlowestKey.java)
+7. [ReverseLinkedList - Day 5](/September2021/ReverseLinkedList.java)
