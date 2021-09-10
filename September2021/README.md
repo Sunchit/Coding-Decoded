@@ -9,5 +9,6 @@
 5. [OrderlyQueue - Day 5](/September2021/OrderlyQueue.java)
 6. [SlowestKey - Day 6](/September2021/SlowestKey.java)
 7. [ReverseLinkedList - Day 7](/September2021/ReverseLinkedList.java)
-8. [ReverseLinkedList - Day 7](/September2021/ReverseLinkedList.java)
-9. [ReverseLinkedList - Day 7](/September2021/LargestPlusSign.java)
+8. [ShiftingLetter - Day 8](/September2021/ShiftingLetters.java)
+9. [LargestPlusSign - Day 9](/September2021/LargestPlusSign.java)
+10. [ArithmeticSlicesIISubsequence - Day 10](/September2021/ArithmeticSlicesIISubsequence.java)
