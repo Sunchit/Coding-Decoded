@@ -99,6 +99,7 @@ It is a place where peers of the community help each other with their queries, s
 13. [MaximumNumberofBalloons - Day 13](/September2021/MaximumNumberofBalloons.java)
 14. [ReverseOnlyLetters - Day 14](/September2021/ReverseOnlyLetters.java)
 15. [LongestTurbulentSubarray - Day 15](/September2021/LongestTurbulentSubarray.java)
+16. [SpiralMatrix - Day 16](/September2021/SpiralMatrix.java)
 
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
