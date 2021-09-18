@@ -101,7 +101,8 @@ It is a place where peers of the community help each other with their queries, s
 15. [LongestTurbulentSubarray - Day 15](/September2021/LongestTurbulentSubarray.java)
 16. [SpiralMatrix - Day 16](/September2021/SpiralMatrix.java)
 17. [IntersectionOfTwoArraysII - Day 17](/September2021/IntersectionOfTwoArraysII.java)
-18. 
+18. [ExpressionAddOperators - Day 18](/September2021/ExpressionAddOperators.java)
+
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
 ### [August 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/)
