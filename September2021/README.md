@@ -21,4 +21,5 @@
 17. [IntersectionOfTwoArraysII - Day 17](/September2021/IntersectionOfTwoArraysII.java)
 18. [ExpressionAddOperators - Day 18](/September2021/ExpressionAddOperators.java)
 19. [DistinctSubsequences - Day 19](/September2021/DistinctSubsequences.java)
-20. [FindWinneronaTicTacToeGame - Day 19](/September2021/FindWinneronaTicTacToeGame.java)
+20. [FindWinneronaTicTacToeGame - Day 20](/September2021/FindWinneronaTicTacToeGame.java)
+21. [MaxConsecutiveOnes - Day 21](/September2021/MaxConsecutiveOnes.java)
