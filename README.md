@@ -105,6 +105,7 @@ It is a place where peers of the community help each other with their queries, s
 19. [Distinct Subsequences - Day 19](/September2021/DistinctSubsequences.java)
 20. [FindWinneronaTicTacToeGame - Day 19](/September2021/FindWinneronaTicTacToeGame.java)
 21. [MaxConsecutiveOnes - Day 21](/September2021/MaxConsecutiveOnes.java)
+22. [MaximumLengthofaConcatenatedStringwithUniqueCharacters - Day 22](/September2021/MaximumLengthofaConcatenatedStringwithUniqueCharacters.java)
 
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
