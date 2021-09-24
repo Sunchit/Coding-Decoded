@@ -25,3 +25,4 @@
 21. [MaxConsecutiveOnes - Day 21](/September2021/MaxConsecutiveOnes.java)
 22. [MaximumLengthofaConcatenatedStringwithUniqueCharacters - Day 22](/September2021/MaximumLengthofaConcatenatedStringwithUniqueCharacters.java)
 23. [BreakAPalindrome - Day 23](/September2021/BreakAPalindrome.java)
+23. [NthTribonacciNumber - Day 24](/September2021/NthTribonacciNumber.java)
