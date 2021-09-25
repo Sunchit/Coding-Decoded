@@ -108,6 +108,7 @@ It is a place where peers of the community help each other with their queries, s
 22. [MaximumLengthofaConcatenatedStringwithUniqueCharacters - Day 22](/September2021/MaximumLengthofaConcatenatedStringwithUniqueCharacters.java)
 23. [BreakAPalindrome - Day 23](/September2021/BreakAPalindrome.java)
 24. [NthTribonacciNumber - Day 24](/September2021/NthTribonacciNumber.java)
+25. [ShortestPathinaGridwithObstaclesElimination - Day 25](/September2021/ShortestPathinaGridwithObstaclesElimination.java)
 
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
