@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/transform-to-chessboard/discuss/132113/Java-Clear-Code-with-Detailed-Explanations
+// https://leetcode.com/problems/transform-to-chessboard/discuss/234984/C%2B%2B-solution-with-very-detailed-comments-especially-the-swap-counting-part
 class Solution {
     public int movesToChessboard(int[][] board) {
         int N = board.length, colMovesNeeded = 0, rowMovesNeeded = 0, noOfOnesInFirstRow = 0, noOfOnesInFirstCol = 0;
