@@ -31,3 +31,4 @@
 27. [UniqueEmailAddresses - Day 27](/September2021/UniqueEmailAddresses.java)
 28. [SortArrayByParityII - Day 28](/September2021/SortArrayByParityII.java)
 29. [SplitLinkedListinParts - Day 29](/September2021/SplitLinkedListinParts.java)
+30. [PartitiontoKEqualSumSubsets - Day 30](/September2021/PartitiontoKEqualSumSubsets.java)

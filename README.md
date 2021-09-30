@@ -113,6 +113,7 @@ It is a place where peers of the community help each other with their queries, s
 27. [UniqueEmailAddresses - Day 27](/September2021/UniqueEmailAddresses.java)
 28. [SortArrayByParityII - Day 28](/September2021/SortArrayByParityII.java)
 29. [SplitLinkedListinParts - Day 29](/September2021/SplitLinkedListinParts.java)
+30. [PartitiontoKEqualSumSubsets - Day 30](/September2021/PartitiontoKEqualSumSubsets.java)
 
 ### [August 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
