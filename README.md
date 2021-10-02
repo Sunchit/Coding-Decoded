@@ -85,6 +85,7 @@ It is a place where peers of the community help each other with their queries, s
 ### [October 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)
 
 1. [LongestCommonSubsequence - Day 1](/October2021/LongestCommonSubsequence.java)
+2. [DungeonGame - Day 2](/October2021/DungeonGame.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
