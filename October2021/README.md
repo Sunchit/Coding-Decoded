@@ -4,3 +4,4 @@
 
 1. [LongestCommonSubsequence - Day 1](/October2021/LongestCommonSubsequence.java)
 2. [DungeonGame - Day 2](/October2021/DungeonGame.java)
+3. [JumpGame - Day 3](/October2021/JumpGame.java)
