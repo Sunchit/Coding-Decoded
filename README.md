@@ -1,4 +1,3 @@
-
 <a href="https://www.youtube.com/c/CodingDecoded"><img src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Logo.png" align="left" height="100" width="100" ></a>
 
 # **Coding Decoded**
@@ -9,17 +8,17 @@
 <a href="https://github.com/Sunchit/Coding-Decoded/pulls"><img alt="Pull Request" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Pull.png" height="30" width="30">Pull Request</a>
 <a href="https://github.com/Sunchit/Coding-Decoded/issues"><img alt="Issues" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Issues.png" height="30" width="30">Issues</a>
 
-*************
+---
 
-The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) land the job of their dreams and  become a better engineer!
+The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) land the job of their dreams and become a better engineer!
 It is a one stop solution for all your technical knowledge. Its primary focus is to help viewers build strong
 
-* _Data structures and algorithm concepts_
-* _Coding Aptitude_
-* _System Design_
-* _Interviewing Aptitude and process_
-* _Deciphering Interviewer's mindset_
-* _Motivational talks_
+- _Data structures and algorithm concepts_
+- _Coding Aptitude_
+- _System Design_
+- _Interviewing Aptitude and process_
+- _Deciphering Interviewer's mindset_
+- _Motivational talks_
 
 In the past 10 months we have solved **_350+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges.
 
@@ -29,56 +28,53 @@ Each video has a pictorial representation of the algorithm, test cases walk thro
 
 **_Hard work paid off_**. We have already reached our first milestone of **_1k+ subscribers_** and hope to build the largest coding community.
 
-*************
+---
 
 ### Get Aboard
 
 If you also intend to get a job of your dreams, come join us, and become our companion. We will together make it possible.
 
-####  Youtube Channel  
+#### Youtube Channel
 
 <a href="https://www.youtube.com/c/CodingDecoded"><img alt="Coding Decoded" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Youtube.png" height="70" width="70"> Coding Decoded Channel </a>
 
-All the videos are hosted here. 
+All the videos are hosted here.
 
-#### Discord Server 
+#### Discord Server
 
 <a href="https://discord.com/invite/3e5f59rUDK"><img alt="Discord Server" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Discord.png" height="70" width="70"> Coding Decoded Discord</a>
 
 It is a place where peers of the community help each other with their queries, schedule mock interviews among themselves and bring in a little humour.
 
-*************
+---
 
-### Interviewing and building coding Aptitude 
+### Interviewing and building coding Aptitude
 
+| S No |                   Topic                   |                                     Playlist                                     |
+| ---- | :---------------------------------------: | :------------------------------------------------------------------------------: |
+| 1.   | Interviewing and building coding Aptitude | [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSRJ-fqSacEURKkXhbQpSMF) |
+| 2.   |               System Design               | [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTCh8qxBLOGBf88rwElwc0y) |
+| 3.   |              Success Stories              | [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN) |
 
-| S No  | Topic  |  Playlist |  
-| ------------- | :-------------: |  :-------------: |
-| 1.  | Interviewing and building coding Aptitude  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSRJ-fqSacEURKkXhbQpSMF) |
-| 2.  | System Design  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTCh8qxBLOGBf88rwElwc0y)  | 
-| 3.  | Success Stories  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN)  | 
+---
 
-*************
+### Leetcode Monthly Challenges
 
-
-###  Leetcode Monthly Challenges 
-
-
-| S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
-| ------------- | :-------------: |  :-------------: |
-| 1.  | [September 2021](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTNU412xW8kV1xQ8upnrN0a)  |
-| 2.  | [August 2021](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTEQxR2uR-g8DVhSTb2ZAx1)  |
-| 3.  | [July 2021](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRV3Bn3VO1rtgkA0wNkIm-y)  |
-| 4.  | [June 2021](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
-| 5.  | [May 2021](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS8UNo22UA4O3_YjnQczyNp)  | 
-| 6.  | [April 2021](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gStjIegCW3i84AI9L2KjGhJ)  | 
-| 7.  | [March 2021](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTbYRnbU7Np0_-v_GwxYGOb)  | 
-| 8.  | [February 2021](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNUjYwtb53A7SXSCQaJguT)  | 
-| 9.  | [January 2021](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR8EhTsObcgM74NnIiAcRWm)  | 
-| 10.  | [December 2020](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQIB_urBmMV04f_NBelXJEP)  | 
-| 11.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)  | 
-| 12.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
-| 13.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
+| S No |                                    Leetcode Monthly Challenge                                     |                                   Youtube Playlist                                    |
+| ---- | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| 1.   | [September 2021](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/) | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTNU412xW8kV1xQ8upnrN0a) |
+| 2.   |    [August 2021](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/)    | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTEQxR2uR-g8DVhSTb2ZAx1) |
+| 3.   |      [July 2021](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)      | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRV3Bn3VO1rtgkA0wNkIm-y) |
+| 4.   |      [June 2021](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)      | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og) |
+| 5.   |       [May 2021](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)       | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS8UNo22UA4O3_YjnQczyNp) |
+| 6.   |     [April 2021](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)     | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gStjIegCW3i84AI9L2KjGhJ) |
+| 7.   |     [March 2021](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/)     | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTbYRnbU7Np0_-v_GwxYGOb) |
+| 8.   |  [February 2021](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/)  | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNUjYwtb53A7SXSCQaJguT) |
+| 9.   |   [January 2021](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)   | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR8EhTsObcgM74NnIiAcRWm) |
+| 10.  |    [December 2020](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)     | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQIB_urBmMV04f_NBelXJEP) |
+| 11.  |    [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)     |      [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)       |
+| 12.  |   [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)    | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc) |
+| 13.  |      [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)       | [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og) |
 
 ### [October 2021 Leetcode Challenge]
 
@@ -88,6 +84,7 @@ It is a place where peers of the community help each other with their queries, s
 2. [DungeonGame - Day 2](/October2021/DungeonGame.java)
 3. [JumpGame - Day 3](/October2021/.java)
 4. [IslandPerimeter - Day 4](/October2021/IslandPerimeter.java)
+5. [ClimbingStairs - Day 5](/October2021/ClimbingStaris.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
@@ -223,7 +220,6 @@ It is a place where peers of the community help each other with their queries, s
 1. [RemoveAllAdjacentDuplicatesInString - Day 28](/June2021/RemoveAllAdjacentDuplicatesInString.java)
 1. [MaxConsecutiveOnesIII - Day 29](/June2021/MaxConsecutiveOnesIII.java)
 1. [LowestCommonAncestorofaBinaryTree - Day 30](/June2021/LowestCommonAncestorofaBinaryTree.java)
-
 
 ### [May 2021 Leetcode Challenge ](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)
 
@@ -417,7 +413,6 @@ It is a place where peers of the community help each other with their queries, s
 1. [JumpGameIII](November2020/JumpGameIII.java)
 1. [TheSkyLineProblem](November2020/TheSkyLineProblem.java)
 
-
 ### [September 2020 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
 
 1. [Largest Time for Given Digits](September2020/LargestTimeForGivenDigits.java)
@@ -432,16 +427,15 @@ It is a place where peers of the community help each other with their queries, s
 1. [BullsAndCows](September2020/BullsAndCows.java)
 1. [MaximumProductSubArray](September2020/MaximumProductSubArray.java)
 1. Comination Sum III
-   1) [Combination Sum without using Start variable](September2020/CombinationSumIIIA.java)
-   2) [Combination Sum using Start variable](September2020/CombinationSumIIIB.java)
-      -[InsertIntervals](September2020/InsertIntervals.java)
+   1. [Combination Sum without using Start variable](September2020/CombinationSumIIIA.java)
+   2. [Combination Sum using Start variable](September2020/CombinationSumIIIB.java) -[InsertIntervals](September2020/InsertIntervals.java)
 
 ### [August 2020 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/)
 
 1. [Detect Capitals](./August2020/Solution_DetectCapital.java)
 1. Design HashSet
-   1) [Design HashSet Time Extensive](./August2020/MyHashSet.java)
-   2) [Design HashSet Space Extensive](./August2020/MyHashSet_MemoryExtensive.java)
+   1. [Design HashSet Time Extensive](./August2020/MyHashSet.java)
+   2. [Design HashSet Space Extensive](./August2020/MyHashSet_MemoryExtensive.java)
 1. [Valid Palindrome](./August2020/ValidPalindrome.java)
 1. [Power of Four](./August2020/PowerOfFour.java)
 1. [Add and Search Word](./August2020/AddAndSearchWord.java)
@@ -472,8 +466,7 @@ It is a place where peers of the community help each other with their queries, s
 1. [LargestComponentSizebyCommonFactor](./August2020/LargestComponentSizebyCommonFactor.java)
 1. [DeleteANodeInBst](./August2020/DeleteANodeInBst.java)
 
-
-### [Leetcode Contest solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL) 
+### [Leetcode Contest solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL)
 
 1. [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
 1. [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
@@ -481,12 +474,11 @@ It is a place where peers of the community help each other with their queries, s
 1. [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
 1. [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
 
-
 ### [Leetcode General Concepts](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNj67hf58-RiTBMn7iPLPw)
 
 1. [Longest Increasing Subsequence](/Concepts/LongestIncreasingSubsequence.java)
 
-***************
+---
 
 <p align="center"> Follow Us </p>
 <p align="center"> 
