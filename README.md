@@ -86,8 +86,10 @@ It is a place where peers of the community help each other with their queries, s
 
 1. [LongestCommonSubsequence - Day 1](/October2021/LongestCommonSubsequence.java)
 2. [DungeonGame - Day 2](/October2021/DungeonGame.java)
-3. [JumpGame - Day 3](/October2021/.java)
+3. [JumpGame - Day 3](/October2021/JumpGame.java)
 4. [IslandPerimeter - Day 4](/October2021/IslandPerimeter.java)
+5. [ClimbingStairs - Day 5](/October2021/ClimbingStairs.java)
+6. [FindAllDuplicatesinanArray - Day 6](/October2021/FindAllDuplicatesinanArray.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
