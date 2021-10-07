@@ -66,19 +66,20 @@ It is a place where peers of the community help each other with their queries, s
 
 | S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
 | ------------- | :-------------: |  :-------------: |
-| 1.  | [September 2021](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTNU412xW8kV1xQ8upnrN0a)  |
-| 2.  | [August 2021](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTEQxR2uR-g8DVhSTb2ZAx1)  |
-| 3.  | [July 2021](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRV3Bn3VO1rtgkA0wNkIm-y)  |
-| 4.  | [June 2021](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
-| 5.  | [May 2021](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS8UNo22UA4O3_YjnQczyNp)  | 
-| 6.  | [April 2021](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gStjIegCW3i84AI9L2KjGhJ)  | 
-| 7.  | [March 2021](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTbYRnbU7Np0_-v_GwxYGOb)  | 
-| 8.  | [February 2021](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNUjYwtb53A7SXSCQaJguT)  | 
-| 9.  | [January 2021](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR8EhTsObcgM74NnIiAcRWm)  | 
-| 10.  | [December 2020](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQIB_urBmMV04f_NBelXJEP)  | 
-| 11.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)  | 
-| 12.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
-| 13.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
+| 1.  | October 2021  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)  |
+| 2.  | [September 2021](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTNU412xW8kV1xQ8upnrN0a)  |
+| 3.  | [August 2021](https://leetcode.com/explore/featured/card/august-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTEQxR2uR-g8DVhSTb2ZAx1)  |
+| 4.  | [July 2021](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRV3Bn3VO1rtgkA0wNkIm-y)  |
+| 5.  | [June 2021](https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
+| 6.  | [May 2021](https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS8UNo22UA4O3_YjnQczyNp)  | 
+| 7.  | [April 2021](https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gStjIegCW3i84AI9L2KjGhJ)  | 
+| 8.  | [March 2021](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTbYRnbU7Np0_-v_GwxYGOb)  | 
+| 9.  | [February 2021](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNUjYwtb53A7SXSCQaJguT)  | 
+| 10.  | [January 2021](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR8EhTsObcgM74NnIiAcRWm)  | 
+| 11.  | [December 2020](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQIB_urBmMV04f_NBelXJEP)  | 
+| 12.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)  | 
+| 13.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
+| 14.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
 
 ### [October 2021 Leetcode Challenge]
 
@@ -90,6 +91,7 @@ It is a place where peers of the community help each other with their queries, s
 4. [IslandPerimeter - Day 4](/October2021/IslandPerimeter.java)
 5. [ClimbingStairs - Day 5](/October2021/ClimbingStairs.java)
 6. [FindAllDuplicatesinanArray - Day 6](/October2021/FindAllDuplicatesinanArray.java)
+7. [WordSearch - Day 7](/October2021/WordSearch.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
