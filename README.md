@@ -92,6 +92,7 @@ It is a place where peers of the community help each other with their queries, s
 5. [ClimbingStairs - Day 5](/October2021/ClimbingStairs.java)
 6. [FindAllDuplicatesinanArray - Day 6](/October2021/FindAllDuplicatesinanArray.java)
 7. [WordSearch - Day 7](/October2021/WordSearch.java)
+8. [ImplementTrie - Day 7](/October2021/ImplementTrie.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
