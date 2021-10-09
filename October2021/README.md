@@ -9,4 +9,5 @@
 5. [ClimbingStairs - Day 5](/October2021/ClimbingStairs.java)
 6. [FindAllDuplicatesinanArray - Day 6](/October2021/FindAllDuplicatesinanArray.java)
 7. [WordSearch - Day 7](/October2021/WordSearch.java)
-8. [ImplementTrie - Day 7](/October2021/ImplementTrie.java)
+8. [ImplementTrie - Day 8](/October2021/ImplementTrie.java)
+9. [WordSearchII - Day 9](/October2021/WordSearchII.java)
