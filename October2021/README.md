@@ -12,3 +12,4 @@
 8. [ImplementTrie - Day 8](/October2021/ImplementTrie.java)
 9. [WordSearchII - Day 9](/October2021/WordSearchII.java)
 10. [BitwiseAndOfNumbersRange - Day 10](/October2021/BitwiseAndOfNumbersRange.java)
+11. [DiameterOfBinaryTree - Day 11](/October2021/DiameterOfBinaryTree.java)

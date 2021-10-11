@@ -94,6 +94,8 @@ It is a place where peers of the community help each other with their queries, s
 7. [WordSearch - Day 7](/October2021/WordSearch.java)
 8. [ImplementTrie - Day 8](/October2021/ImplementTrie.java)
 9. [WordSearchII - Day 9](/October2021/WordSearchII.java)
+10. [BitwiseAndOfNumbersRange - Day 10](/October2021/BitwiseAndOfNumbersRange.java)
+11. [DiameterOfBinaryTree - Day 11](/October2021/DiameterOfBinaryTree.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
