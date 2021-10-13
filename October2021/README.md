@@ -14,3 +14,4 @@
 10. [BitwiseAndOfNumbersRange - Day 10](/October2021/BitwiseAndOfNumbersRange.java)
 11. [DiameterOfBinaryTree - Day 11](/October2021/DiameterOfBinaryTree.java)
 12. [GuessNumberHigherorLower - Day 12](/October2021/GuessNumberHigherorLower.java)
+13. [ConstructBinarySearchTreeFromPreorderTraversal - Day 13](/October2021/ConstructBinarySearchTreeFromPreorderTraversal.java)
