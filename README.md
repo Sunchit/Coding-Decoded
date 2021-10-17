@@ -99,7 +99,6 @@ It is a place where peers of the community help each other with their queries, s
 12. [GuessNumberHigherorLower - Day 12](/October2021/GuessNumberHigherorLower.java)
 13. [ConstructBinarySearchTreeFromPreorderTraversal - Day 13](/October2021/ConstructBinarySearchTreeFromPreorderTraversal.java)
 14. [PerfectSquares - Day 14](/October2021/PerfectSquares.java)
-    /PerfectSquares.java)
 15. [BestTimeToBuyAndSellStockWithCooldown - Day 15](/October2021/BestTimeToBuyAndSellStockWithCooldown.java)
 16. [BestTimetoBuyandSellStockIII - Day 16](/August2020/BestTimeToBuyAndSellStockIII.java)
 17. [PathSumIII - Day 17](/October2021/PathSumIII.java)
