@@ -103,6 +103,7 @@ It is a place where peers of the community help each other with their queries, s
 16. [BestTimetoBuyandSellStockIII - Day 16](/August2020/BestTimeToBuyAndSellStockIII.java)
 17. [PathSumIII - Day 17](/October2021/PathSumIII.java)
 18. [CousinsInBinaryTree - Day 18](/October2021/CousinsInBinaryTree.java)
+19. [NextGreaterElementI - Day 19](/October2021/NextGreaterElementI.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
