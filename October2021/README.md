@@ -21,3 +21,4 @@
 17. [PathSumIII - Day 17](/October2021/PathSumIII.java)
 18. [CousinsInBinaryTree - Day 18](/October2021/CousinsInBinaryTree.java)
 19. [NextGreaterElementI - Day 19](/October2021/NextGreaterElementI.java)
+20. [ReverseWordsInAString - Day 20](/October2021/ReverseWordsInAString.java)
