@@ -105,6 +105,7 @@ It is a place where peers of the community help each other with their queries, s
 18. [CousinsInBinaryTree - Day 18](/October2021/CousinsInBinaryTree.java)
 19. [NextGreaterElementI - Day 19](/October2021/NextGreaterElementI.java)
 20. [ReverseWordsInAString - Day 20](/October2021/ReverseWordsInAString.java)
+21. [InsertDeleteGetRandomO(1) - Day 20](/October2021/InsertDeleteGetRandomO(1).java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
