@@ -23,4 +23,5 @@
 19. [NextGreaterElementI - Day 19](/October2021/NextGreaterElementI.java)
 20. [ReverseWordsInAString - Day 20](/October2021/ReverseWordsInAString.java)
 21. [InsertDeleteGetRandomO(1) - Day 21](/October2021/InsertDeleteGetRandomO(1).java)
-22. [SortCharactersByFrequency) - Day 22](/October2021/SortCharactersByFrequency.java)
+22. [SortCharactersByFrequency - Day 22](/October2021/SortCharactersByFrequency.java)
+23. [FindMinimumInRotatedSortedArrayII - Day 23](/October2021/FindMinimumInRotatedSortedArrayII.java)
