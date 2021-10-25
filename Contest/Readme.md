@@ -7,3 +7,4 @@
 1) [MinimumElementstoAddtoFormaGivenSum](/Contest/MinimumElementstoAddtoFormaGivenSum.java)
 1) [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
 1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
+1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
