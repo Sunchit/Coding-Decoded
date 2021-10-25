@@ -109,6 +109,7 @@ It is a place where peers of the community help each other with their queries, s
 22. [SortCharactersByFrequency) - Day 22](/October2021/SortCharactersByFrequency.java)
 23. [FindMinimumInRotatedSortedArrayII - Day 23](/October2021/FindMinimumInRotatedSortedArrayII.java)
 24. [CountCompleteTreeNodes - Day 24](/October2021/CountCompleteTreeNodes.java)
+25. [MinStack - Day 25](/October2021/MinStack.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
