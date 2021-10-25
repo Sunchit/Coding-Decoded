@@ -25,3 +25,4 @@
 21. [InsertDeleteGetRandomO(1) - Day 21](/October2021/InsertDeleteGetRandomO(1).java)
 22. [SortCharactersByFrequency - Day 22](/October2021/SortCharactersByFrequency.java)
 23. [FindMinimumInRotatedSortedArrayII - Day 23](/October2021/FindMinimumInRotatedSortedArrayII.java)
+24. [CountCompleteTreeNodes - Day 24](/October2021/CountCompleteTreeNodes.java)
