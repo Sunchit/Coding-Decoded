@@ -27,3 +27,4 @@
 23. [FindMinimumInRotatedSortedArrayII - Day 23](/October2021/FindMinimumInRotatedSortedArrayII.java)
 24. [CountCompleteTreeNodes - Day 24](/October2021/CountCompleteTreeNodes.java)
 25. [MinStack - Day 25](/October2021/MinStack.java)
+26. [InvertBinaryTree - Day 26](/October2021/InvertBinaryTree.java)
