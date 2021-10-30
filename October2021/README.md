@@ -29,3 +29,4 @@
 25. [MinStack - Day 25](/October2021/MinStack.java)
 26. [InvertBinaryTree - Day 26](/October2021/InvertBinaryTree.java)
 27. [SortColors - Day 27](/October2021/SortColors.java)
+28. [LongestDuplicateSubstring - Day 27](/October2021/LongestDuplicateSubstring.java)

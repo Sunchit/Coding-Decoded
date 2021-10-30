@@ -112,6 +112,7 @@ It is a place where peers of the community help each other with their queries, s
 25. [MinStack - Day 25](/October2021/MinStack.java)
 26. [InvertBinaryTree - Day 26](/October2021/InvertBinaryTree.java)
 27. [SortColors - Day 27](/October2021/SortColors.java)
+28. [LongestDuplicateSubstring - Day 27](/October2021/LongestDuplicateSubstring.java)
 
 ### [September 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/september-leetcoding-challenge-2021/)
 
