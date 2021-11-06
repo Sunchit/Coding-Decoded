@@ -5,3 +5,4 @@
 1. [SurroundedRegions - Day 1](/November2021/SurroundedRegions.java)
 1. [UniquePathsIII - Day 2](/November2021/UniquePathsIII.java)
 1. [ArrangingCoins - Day 5](/November2021/ArrangingCoins.java)
+1. [SingleNumbersIII - Day 6](/November2021/SingleNumbersIII.java)
