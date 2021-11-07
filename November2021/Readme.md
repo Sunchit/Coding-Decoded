@@ -6,3 +6,4 @@
 1. [UniquePathsIII - Day 2](/November2021/UniquePathsIII.java)
 1. [ArrangingCoins - Day 5](/November2021/ArrangingCoins.java)
 1. [SingleNumbersIII - Day 6](/November2021/SingleNumbersIII.java)
+1. [MultiplyStrings - Day 7](/November2021/MultiplyStrings.java)
