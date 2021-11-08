@@ -91,6 +91,7 @@ It is a place where peers of the community help each other with their queries, s
 3. [ArrangingCoins - Day 5](/November2021/ArrangingCoins.java)
 4. [SingleNumbersIII - Day 6](/November2021/SingleNumbersIII.java)
 5. [MultiplyStrings - Day 7](/November2021/MultiplyStrings.java)
+6. [UniqueBinarySearchTrees - Day 8](/November2021/UniqueBinarySearchTrees.java)
 
 ### [October 2021 Leetcode Challenge]
 
