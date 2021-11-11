@@ -10,3 +10,4 @@
 1. [UniqueBinarySearchTrees - Day 8](/November2021/UniqueBinarySearchTrees.java)
 1. [NumberOfValidWordsForEachPuzzle - Day 9](/November2021/NumberOfValidWordsForEachPuzzle.java)
 1. [BestTimeToBuyAndSellStockII - Day 10](/November2021/BestTimeToBuyAndSellStockII.java)
+1. [MinimumValueToGetPositiveStepbyStepSum - Day 11](/November2021/MinimumValueToGetPositiveStepbyStepSum.java)
