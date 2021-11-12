@@ -95,6 +95,7 @@ It is a place where peers of the community help each other with their queries, s
 7. [NumberOfValidWordsForEachPuzzle - Day 9](/November2021/NumberOfValidWordsForEachPuzzle.java)
 8. [BestTimeToBuyAndSellStockII - Day 10](/November2021/BestTimeToBuyAndSellStockII.java)
 9. [MinimumValueToGetPositiveStepbyStepSum - Day 11](/November2021/MinimumValueToGetPositiveStepbyStepSum.java)
+10. [RemoveLinkedListElements - Day 12](/November2021/RemoveLinkedListElements.java)
 
 ### [October 2021 Leetcode Challenge]
 
