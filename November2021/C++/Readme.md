@@ -12,4 +12,4 @@
 9. [Minimum Value to Get Positive Step by Step Sum](
     /November2021/C++/Minimium_Value_to_get_Positive.cpp
 )
-10[]
+10 [Remove Linked List Elements](/November2021/C++/Remove_LinkedList_Elments.cpp)
