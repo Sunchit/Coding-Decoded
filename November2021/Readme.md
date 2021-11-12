@@ -11,4 +11,3 @@
 7. [NumberOfValidWordsForEachPuzzle - Day 9](/November2021/NumberOfValidWordsForEachPuzzle.java)
 8. [BestTimeToBuyAndSellStockII - Day 10](/November2021/BestTimeToBuyAndSellStockII.java)
 9. [MinimumValueToGetPositiveStepbyStepSum - Day 11](/November2021/MinimumValueToGetPositiveStepbyStepSum.java)
-10. [Remove Delete Node ]
