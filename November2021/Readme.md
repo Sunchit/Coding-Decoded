@@ -12,3 +12,4 @@
 1. [BestTimeToBuyAndSellStockII - Day 10](/November2021/BestTimeToBuyAndSellStockII.java)
 1. [MinimumValueToGetPositiveStepbyStepSum - Day 11](/November2021/MinimumValueToGetPositiveStepbyStepSum.java)
 1. [RemoveLinkedListElements - Day 12](/November2021/RemoveLinkedListElements.java)
+1. [DailyTemperatures - Day 13](/November2021/DailyTemperatures.java)
