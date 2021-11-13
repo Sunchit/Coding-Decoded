@@ -82,8 +82,6 @@ It is a place where peers of the community help each other with their queries, s
 | 14.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
 | 15.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
 
-### [November 2021 Leetcode Challenge]
-
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
 1. [SurroundedRegions - Day 1](/November2021/SurroundedRegions.java)
@@ -96,8 +94,7 @@ It is a place where peers of the community help each other with their queries, s
 8. [BestTimeToBuyAndSellStockII - Day 10](/November2021/BestTimeToBuyAndSellStockII.java)
 9. [MinimumValueToGetPositiveStepbyStepSum - Day 11](/November2021/MinimumValueToGetPositiveStepbyStepSum.java)
 10. [RemoveLinkedListElements - Day 12](/November2021/RemoveLinkedListElements.java)
-
-### [October 2021 Leetcode Challenge]
+11. [DailyTemperatures - Day 13](/November2021/DailyTemperatures.java)
 
 ### [October 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)
 
