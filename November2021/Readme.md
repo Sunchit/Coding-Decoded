@@ -15,3 +15,4 @@
 1. [DailyTemperatures - Day 13](/November2021/DailyTemperatures.java)
 1. [CombinationIterator - Day 14](/November2021/CombinationIterator.java)
 1. [LargestDivisibleSubset - Day 15](/November2021/LargestDivisibleSubset.java)
+1. [KthNumberinMultiplicationTable - Day 16](/November2021/KthNumberinMultiplicationTable.java)
