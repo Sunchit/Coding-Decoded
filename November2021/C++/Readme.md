@@ -14,3 +14,4 @@
 11. [Daily Temperatures](/November2021/C++/Daily_Temperatures.cpp)
 12. [Iterator for Combination](/November2021/C++/Iterator_for_Combination.cpp)
 13. [Largest_Divisible_Subset](/November2021/C++/Largest_Divisible_Subset.cpp)
+14. [Kth Smallest Number in Multiplication Table](/November2021/C++/Kth_Smallest_Number_in_Multiplication_Table.cpp)
