@@ -98,6 +98,7 @@ It is a place where peers of the community help each other with their queries, s
 12. [CombinationIterator - Day 14](/November2021/CombinationIterator.java)
 13. [LargestDivisibleSubset - Day 15](/November2021/LargestDivisibleSubset.java)
 14. [KthNumberinMultiplicationTable - Day 16](/November2021/KthNumberinMultiplicationTable.java)
+15. [UniquePaths - Day 17](/November2021/UniquePaths.java)
 
 ### [October 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)
 
