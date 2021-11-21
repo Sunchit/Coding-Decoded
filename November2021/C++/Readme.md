@@ -19,3 +19,4 @@
 16. [Find All Numbers Disappeared in an Array](/November2021/C++/Find_All_Numbers_Disappeared_in_an_Array.cpp)
 17. [Hamming Distance](/November2021/C++/Hamming_Distance.cpp)
 18. [Single Element in a Sorted Array](/November2021/C++/Single_Element_in_a_SortedArray.cpp)
+19. [Construct Binary Tree from Inorder and Postorder Traversal](/November2021/C++/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)
