@@ -19,3 +19,5 @@
 1. [UniquePaths - Day 17](/November2021/UniquePaths.java)
 1. [FindAllNumbersDisappearedinanArray - Day 18](/November2021/FindAllNumbersDisappearedinanArray.java)
 1. [HammingDistance - Day 19](/November2021/HammingDistance.java)
+1. [SingleElementinaSortedArray - Day 20](/November2021/SingleElementinaSortedArray.java)
+1. [ConstructBinaryTreeFromInorderAndPostorderTraversal - Day 21](/November2021/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
