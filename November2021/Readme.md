@@ -21,3 +21,4 @@
 1. [HammingDistance - Day 19](/November2021/HammingDistance.java)
 1. [SingleElementinaSortedArray - Day 20](/November2021/SingleElementinaSortedArray.java)
 1. [ConstructBinaryTreeFromInorderAndPostorderTraversal - Day 21](/November2021/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
+1. [LargestComponentSizeByCommonFactor - Day 23](/November2021/LargestComponentSizeByCommonFactor.java)

@@ -101,6 +101,9 @@ It is a place where peers of the community help each other with their queries, s
 15. [UniquePaths - Day 17](/November2021/UniquePaths.java)
 16. [FindAllNumbersDisappearedinanArray - Day 18](/November2021/FindAllNumbersDisappearedinanArray.java)
 17. [HammingDistance - Day 19](/November2021/HammingDistance.java)
+18. [SingleElementinaSortedArray - Day 20](/November2021/SingleElementinaSortedArray.java)
+19. [ConstructBinaryTreeFromInorderAndPostorderTraversal - Day 21](/November2021/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
+20. [LargestComponentSizeByCommonFactor - Day 23](/November2021/LargestComponentSizeByCommonFactor.java)
 
 ### [October 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)
 
