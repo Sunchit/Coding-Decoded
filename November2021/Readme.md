@@ -22,3 +22,4 @@
 1. [SingleElementinaSortedArray - Day 20](/November2021/SingleElementinaSortedArray.java)
 1. [ConstructBinaryTreeFromInorderAndPostorderTraversal - Day 21](/November2021/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
 1. [LargestComponentSizeByCommonFactor - Day 23](/November2021/LargestComponentSizeByCommonFactor.java)
+1. [IntervalListIntersections - Day 24](/November2021/IntervalListIntersections.java)
