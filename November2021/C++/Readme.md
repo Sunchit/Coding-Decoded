@@ -21,3 +21,6 @@
 18. [Single Element in a Sorted Array](/November2021/C++/Single_Element_in_a_SortedArray.cpp)
 19. [Construct Binary Tree from Inorder and Postorder Traversal](/November2021/C++/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)
 20. [Largest Component Size by Common Factor](/November2021/C++/Largest_Component_Size_by_Common_Factor.cpp)
+25. [Interval List Intersections](/November2021/C++/Interval_List_Intersections.cpp)
+26. [Maximum Subarray](/November2021/C++/Maximum_Subarray.cpp)
+27. [Search Insert Position](/November2021/C++/Search_Insert_Position.cpp)
