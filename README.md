@@ -108,6 +108,7 @@ It is a place where peers of the community help each other with their queries, s
 22. [SearchInsertPosition - Day 26](/November2021/SearchInsertPosition.java)
 23. [ProductOfArrayExceptSelf - Day 27](/November2021/ProductOfArrayExceptSelf.java)
 24. [AllPathsFromSourceToTarget - Day 28](/November2021/AllPathsFromSourceToTarget.java)
+25. [AccountsMerge - Day 29](/November2021/AccountsMerge.java)
 
 ### [October 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)
 
