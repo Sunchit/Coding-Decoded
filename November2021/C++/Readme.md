@@ -26,3 +26,4 @@
 27. [Search Insert Position](/November2021/C++/Search_Insert_Position.cpp)
 28. [Product of Array Except Self](/November2021/C++/Product_of_Array_Except_Self.cpp)
 29. [All Paths From Source to Target](/November2021/C++/All_Paths_From_Source_to_Target.cpp)
+30. [Accounts Merge](/November2021/C++/Accounts_Merge.cpp)
