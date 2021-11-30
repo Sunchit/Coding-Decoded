@@ -2,6 +2,8 @@
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
+### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
+
 1. [SurroundedRegions - Day 1](/November2021/SurroundedRegions.java)
 2. [UniquePathsIII - Day 2](/November2021/UniquePathsIII.java)
 3. [ArrangingCoins - Day 5](/November2021/ArrangingCoins.java)
@@ -26,4 +28,5 @@
 22. [SearchInsertPosition - Day 26](/November2021/SearchInsertPosition.java)
 23. [ProductOfArrayExceptSelf - Day 27](/November2021/ProductOfArrayExceptSelf.java)
 24. [AllPathsFromSourceToTarget - Day 28](/November2021/AllPathsFromSourceToTarget.java)
-24. [AccountsMerge - Day 29](/November2021/AccountsMerge.java)
+25. [AccountsMerge - Day 29](/November2021/AccountsMerge.java)
+26. [MaximalRectangle - Day 30](/November2021/MaximalRectangle.java)
