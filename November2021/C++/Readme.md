@@ -9,12 +9,6 @@
 5. [Unique Binary SearchTree](/November2021/C++/Unique_Binary_Search_Trees.cpp)
 7. [Best Time To Buy And Sell Stock](/November2021/C++/Best_Time_To_Buy_And_Sell_Stocks.cpp)
 8. [Number of Valid Words for Each Puzzle](/November2021/C++/Number_of_Valid_Words_for_Each_Puzzle.cpp)
-<<<<<<< HEAD
-9. [Minimum Value to Get Positive Step by Step Sum](
-    /November2021/C++/Minimium_Value_to_get_Positive.cpp
-)
-10 [Remove Linked List Elements](/November2021/C++/Remove_LinkedList_Elments.cpp)
-=======
 9. [Minimum Value to Get Positive Step by Step Sum](/November2021/C++/Minimium_Value_to_get_Positive.cpp)
 10. [Remove Linked List Elements](/November2021/C++/Remove_LinkedList_Elments.cpp)
 11. [Daily Temperatures](/November2021/C++/Daily_Temperatures.cpp)
@@ -34,4 +28,3 @@
 29. [All Paths From Source to Target](/November2021/C++/All_Paths_From_Source_to_Target.cpp)
 30. [Accounts Merge](/November2021/C++/Accounts_Merge.cpp)
 31.[Maximal Rectangle](/November2021/C++/Maximal_Reactangle.cpp)
->>>>>>> daad41bdef519f26d9dfcf06617f81b8df514d4d
