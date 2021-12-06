@@ -5,5 +5,4 @@
 3. [Maximum Product SubArray](/December2021/C++/Maximum_Product_Subarray.cpp)
 4. [Steam Of Characters](/December2021/C++/Stream_of_Characters.cpp) 
 5. [House Robber III](/December2021/C++/House_Robber_III.cpp)
-6. [Minimum Cost to Move Chips to The Same Position
-](/December2021/C++/Min_Cost_to_move_chips_to_same_position.cpp)
+6. [Minimum Cost to Move Chips to The Same Position](/December2021/C++/Min_Cost_to_move_chips_to_same_position.cpp)
