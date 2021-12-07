@@ -85,8 +85,9 @@ It is a place where peers of the community help each other with their queries, s
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
 1. [HouseRobber](/December2021/HouseRobber.java)
-1. [OddEvenLinkedList](/December2021/OddEvenLinkedList.java)
-1. [StreamOfCharacters](/December2021/StreamOfCharacters.java)
+2. [OddEvenLinkedList](/December2021/OddEvenLinkedList.java)
+3. [StreamOfCharacters](/December2021/StreamOfCharacters.java)
+4. [ConvertBinaryNumberInALinkedListToInteger](/December2021/ConvertBinaryNumberInALinkedListToInteger.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 

@@ -3,3 +3,4 @@
 1. [HouseRobber](/December2021/HouseRobber.java)
 1. [OddEvenLinkedList](/December2021/OddEvenLinkedList.java)
 1. [StreamOfCharacters](/December2021/StreamOfCharacters.java)
+1. [ConvertBinaryNumberInALinkedListToInteger](/December2021/ConvertBinaryNumberInALinkedListToInteger.java)
