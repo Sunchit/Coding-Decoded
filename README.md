@@ -85,10 +85,11 @@ It is a place where peers of the community help each other with their queries, s
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
 1. [HouseRobber](/December2021/HouseRobber.java)
-1. [OddEvenLinkedList](/December2021/OddEvenLinkedList.java)
-1. [StreamOfCharacters](/December2021/StreamOfCharacters.java)
-1. [MinCostToMoveChipsToSamePosition](/December2021/MinCostToMoveChipsToSamePosition.java)
-1. [ConvertBinaryNumberInALinkedListToInteger](/December2021/ConvertBinaryNumberInALinkedListToInteger.java)
+2. [OddEvenLinkedList](/December2021/OddEvenLinkedList.java)
+3. [StreamOfCharacters](/December2021/StreamOfCharacters.java)
+4. [MinCostToMoveChipsToSamePosition](/December2021/MinCostToMoveChipsToSamePosition.java)
+5. [ConvertBinaryNumberInALinkedListToInteger](/December2021/ConvertBinaryNumberInALinkedListToInteger.java)
+6. [BinaryTreeTilt](/December2021/BinaryTreeTilt.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
