@@ -8,3 +8,5 @@
 6. [Minimum Cost to Move Chips to The Same Position](/December2021/C++/Min_Cost_to_move_chips_to_same_position.cpp)
 7. [Convert Binary Number in a Linked List to Integer](/December2021/C++/Convert_Binary_Number_In_A_Linked_List_to_Integer.cpp)
 8. [Binary Tree Tilt](/December2021/C++/Binary_Tree_Tilt.cpp)
+9. [Jump Game III](/December2021/C++/Jump_Game_III.cpp)
+10. [Domino and Tromino Tiling](/December2021/C++/Domino_and_Tromino_Tiling.cpp)
