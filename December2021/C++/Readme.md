@@ -10,3 +10,4 @@
 8. [Binary Tree Tilt](/December2021/C++/Binary_Tree_Tilt.cpp)
 9. [Jump Game III](/December2021/C++/Jump_Game_III.cpp)
 10. [Domino and Tromino Tiling](/December2021/C++/Domino_and_Tromino_Tiling.cpp)
+11. [Nth Magical Number](/December2021/C++/Nth_Magical_Number.cpp)
