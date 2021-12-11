@@ -91,6 +91,7 @@ It is a place where peers of the community help each other with their queries, s
 5. [ConvertBinaryNumberInALinkedListToInteger](/December2021/ConvertBinaryNumberInALinkedListToInteger.java)
 6. [BinaryTreeTilt](/December2021/BinaryTreeTilt.java)
 7. [DominoAndTrominoTiling](/December2021/DominoAndTrominoTiling.java)
+8. [NthMagicalNumber](/December2021/NthMagicalNumber.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
