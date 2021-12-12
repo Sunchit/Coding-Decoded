@@ -11,3 +11,4 @@
 9. [Jump Game III](/December2021/C++/Jump_Game_III.cpp)
 10. [Domino and Tromino Tiling](/December2021/C++/Domino_and_Tromino_Tiling.cpp)
 11. [Nth Magical Number](/December2021/C++/Nth_Magical_Number.cpp)
+12. [Partial Equal Subset Sum](/December2021/C++/Partial_Equal_Subset_Sum.cpp)
