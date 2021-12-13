@@ -12,3 +12,4 @@
 10. [Domino and Tromino Tiling](/December2021/C++/Domino_and_Tromino_Tiling.cpp)
 11. [Nth Magical Number](/December2021/C++/Nth_Magical_Number.cpp)
 12. [Partial Equal Subset Sum](/December2021/C++/Partial_Equal_Subset_Sum.cpp)
+13. [Consecutive Characters](/December2021/C++/Consecuteive_Characters.cpp)
