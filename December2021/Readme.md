@@ -9,3 +9,4 @@
 1. [DominoAndTrominoTiling](/December2021/DominoAndTrominoTiling.java)
 1. [NthMagicalNumber](/December2021/NthMagicalNumber.java)
 1. [PartitionEqualSubsetSum](/December2021/PartitionEqualSubsetSum.java)
+1. [ConsecutiveCharacters](/December2021/ConsecutiveCharacters.java)
