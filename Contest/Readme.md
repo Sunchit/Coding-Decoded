@@ -8,3 +8,4 @@
 1) [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
 1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
 1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
+1) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
