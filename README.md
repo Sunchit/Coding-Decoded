@@ -93,7 +93,8 @@ It is a place where peers of the community help each other with their queries, s
 7. [DominoAndTrominoTiling](/December2021/DominoAndTrominoTiling.java)
 8. [NthMagicalNumber](/December2021/NthMagicalNumber.java)
 9. [PartitionEqualSubsetSum](/December2021/PartitionEqualSubsetSum.java)
-1. [ConsecutiveCharacters](/December2021/ConsecutiveCharacters.java)
+10. [ConsecutiveCharacters](/December2021/ConsecutiveCharacters.java)
+11. [RangeSumofBST](/December2021/RangeSumofBST.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
