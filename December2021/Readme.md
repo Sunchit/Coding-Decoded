@@ -11,3 +11,4 @@
 1. [PartitionEqualSubsetSum](/December2021/PartitionEqualSubsetSum.java)
 1. [ConsecutiveCharacters](/December2021/ConsecutiveCharacters.java)
 1. [RangeSumofBST](/December2021/RangeSumofBST.java)
+1. [InsertionSortList](/December2021/InsertionSortList.java)
