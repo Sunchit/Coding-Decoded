@@ -95,6 +95,7 @@ It is a place where peers of the community help each other with their queries, s
 9. [PartitionEqualSubsetSum](/December2021/PartitionEqualSubsetSum.java)
 10. [ConsecutiveCharacters](/December2021/ConsecutiveCharacters.java)
 11. [RangeSumofBST](/December2021/RangeSumofBST.java)
+12. [InsertionSortList](/December2021/InsertionSortList.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
