@@ -14,3 +14,4 @@
 12. [Partial Equal Subset Sum](/December2021/C++/Partial_Equal_Subset_Sum.cpp)
 13. [Consecutive Characters](/December2021/C++/Consecuteive_Characters.cpp)
 14. [Range Sum BST](/December2021/C++/Range_Sum_BST.cpp)
+15. [Insertion Sort List](/December2021/C++/Insertion_Sort_list.cpp)
