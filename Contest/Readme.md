@@ -9,3 +9,4 @@
 1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
 1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
 1) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
+1) [FindGoodDaystoRobtheBank](/Contest/FindGoodDaystoRobtheBank.java)
