@@ -1,4 +1,8 @@
 
+
+
+//time complexity: O(n^2) as there are two while loops that can iterate n or n-1 times in worst conditions.
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
