@@ -12,3 +12,4 @@
 1. [ConsecutiveCharacters](/December2021/ConsecutiveCharacters.java)
 1. [RangeSumofBST](/December2021/RangeSumofBST.java)
 1. [InsertionSortList](/December2021/InsertionSortList.java)
+1. [MinimumHeightTrees](/December2021/MinimumHeightTrees.java)
