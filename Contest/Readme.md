@@ -10,3 +10,4 @@
 1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
 1) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
 1) [FindGoodDaystoRobtheBank](/Contest/FindGoodDaystoRobtheBank.java)
+1) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
