@@ -15,3 +15,5 @@
 13. [Consecutive Characters](/December2021/C++/Consecuteive_Characters.cpp)
 14. [Range Sum BST](/December2021/C++/Range_Sum_BST.cpp)
 15. [Insertion Sort List](/December2021/C++/Insertion_Sort_list.cpp)
+16. [Minimum Height Tree](/December2021/C++/Minimum_Height_Trees.cpp)
+17. [Maximal Square](/December2021/C++/Maximal_Square.cpp)
