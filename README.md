@@ -555,6 +555,7 @@ It is a place where peers of the community help each other with their queries, s
 6) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
 7) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
 8) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
+9) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
 
 ### [Leetcode General Concepts](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNj67hf58-RiTBMn7iPLPw)
 
