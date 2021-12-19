@@ -561,6 +561,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
 1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
 1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
+1) [NumberofSmoothDescentPeriodsofaStock](/Contest/NumberofSmoothDescentPeriodsofaStock.java)
 
 ### [Leetcode General Concepts](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNj67hf58-RiTBMn7iPLPw)
 

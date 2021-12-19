@@ -14,3 +14,4 @@
 1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
 1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
 1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
+1) [NumberofSmoothDescentPeriodsofaStock](/Contest/NumberofSmoothDescentPeriodsofaStock.java)
