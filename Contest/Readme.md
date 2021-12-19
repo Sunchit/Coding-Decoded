@@ -12,3 +12,4 @@
 1) [FindGoodDaystoRobtheBank](/Contest/FindGoodDaystoRobtheBank.java)
 1) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
 1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
+1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
