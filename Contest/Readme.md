@@ -13,3 +13,4 @@
 1) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
 1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
 1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
+1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
