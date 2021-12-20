@@ -14,3 +14,4 @@
 1. [InsertionSortList](/December2021/InsertionSortList.java)
 1. [MinimumHeightTrees](/December2021/MinimumHeightTrees.java)
 1. [MaximalSquare](/December2021/MaximalSquare.java)
+1. [MinimumAbsoluteDifference](/December2021/MinimumAbsoluteDifference.java)
