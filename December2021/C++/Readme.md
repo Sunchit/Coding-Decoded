@@ -17,3 +17,6 @@
 15. [Insertion Sort List](/December2021/C++/Insertion_Sort_list.cpp)
 16. [Minimum Height Tree](/December2021/C++/Minimum_Height_Trees.cpp)
 17. [Maximal Square](/December2021/C++/Maximal_Square.cpp)
+18. [Numbers At Most N Given Digit Set](/December2021/C++/Number_At_Most_N_Given_Integers.cpp)
+19. [Decode String](/December2021/C++/Decode_String.cpp)
+20. [Minimum Absolute Difference](/December2021/C++/Minimum_Absoute_Difference.cpp)
