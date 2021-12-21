@@ -20,3 +20,4 @@
 18. [Numbers At Most N Given Digit Set](/December2021/C++/Number_At_Most_N_Given_Integers.cpp)
 19. [Decode String](/December2021/C++/Decode_String.cpp)
 20. [Minimum Absolute Difference](/December2021/C++/Minimum_Absoute_Difference.cpp)
+21. [Power Of Two ](/December2021/C++/Power_Of_Two.cpp)
