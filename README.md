@@ -100,6 +100,7 @@ It is a place where peers of the community help each other with their queries, s
 13. [MinimumHeightTrees](/December2021/MinimumHeightTrees.java)
 14. [MaximalSquare](/December2021/MaximalSquare.java)
 15. [MinimumAbsoluteDifference](/December2021/MinimumAbsoluteDifference.java)
+16. [PowerOfTwo](/December2021/PowerOfTwo.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
