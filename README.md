@@ -21,7 +21,7 @@ It is a one stop solution for all your technical knowledge. Its primary focus is
 * _Deciphering Interviewer's mindset_
 * _Motivational talks_
 
-In the past 10 months we have solved **_350+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges.
+In the last year we have solved **_450+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges. We also solve leetcode weekly contest questions as well.
 
 #### _A picture is worth 1000 words, and a video is worth 100000+ words_
 
@@ -57,9 +57,29 @@ It is a place where peers of the community help each other with their queries, s
 | 1.  | Interviewing and building coding Aptitude  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSRJ-fqSacEURKkXhbQpSMF) |
 | 2.  | System Design  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTCh8qxBLOGBf88rwElwc0y)  | 
 | 3.  | Success Stories  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN)  | 
+| 3.  | Weekly Contest Problem  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN)  | 
 
 *************
 
+### [Leetcode Contest solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL)
+
+### <em> Java Solutions </em>
+1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
+1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
+1) [MinimumElementstoAddtoFormaGivenSum](/Contest/MinimumElementstoAddtoFormaGivenSum.java)
+1) [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
+1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
+1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
+1) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
+1) [FindGoodDaystoRobtheBank](/Contest/FindGoodDaystoRobtheBank.java)
+1) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
+1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
+1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
+1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
+1) [NumberofSmoothDescentPeriodsofaStock](/Contest/NumberofSmoothDescentPeriodsofaStock.java)
+1) [MinimumOperationstoMaketheArrayKIncreasing](/Contest/MinimumOperationstoMaketheArrayKIncreasing.java)
+
+*************
 
 ###  Leetcode Monthly Challenges 
 
@@ -546,25 +566,6 @@ It is a place where peers of the community help each other with their queries, s
 1. [PancakeSorting](./August2020/PancakeSorting.java)
 1. [LargestComponentSizebyCommonFactor](./August2020/LargestComponentSizebyCommonFactor.java)
 1. [DeleteANodeInBst](./August2020/DeleteANodeInBst.java)
-
-
-### [Leetcode Contest solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL) 
-
-### <em> Java Solutions </em>
-1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
-1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
-1) [MinimumElementstoAddtoFormaGivenSum](/Contest/MinimumElementstoAddtoFormaGivenSum.java)
-1) [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
-1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
-1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
-1) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
-1) [FindGoodDaystoRobtheBank](/Contest/FindGoodDaystoRobtheBank.java)
-1) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
-1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
-1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
-1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
-1) [NumberofSmoothDescentPeriodsofaStock](/Contest/NumberofSmoothDescentPeriodsofaStock.java)
-1) [MinimumOperationstoMaketheArrayKIncreasing](/Contest/MinimumOperationstoMaketheArrayKIncreasing.java)
 
 ### [Leetcode General Concepts](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNj67hf58-RiTBMn7iPLPw)
 
