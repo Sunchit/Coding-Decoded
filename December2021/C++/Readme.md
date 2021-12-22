@@ -21,3 +21,4 @@
 19. [Decode String](/December2021/C++/Decode_String.cpp)
 20. [Minimum Absolute Difference](/December2021/C++/Minimum_Absoute_Difference.cpp)
 21. [Power Of Two ](/December2021/C++/Power_Of_Two.cpp)
+22. [Reorder List](/December2021/C++/Reorder_List.cpp)
