@@ -122,6 +122,7 @@ It is a place where peers of the community help each other with their queries, s
 15. [MinimumAbsoluteDifference](/December2021/MinimumAbsoluteDifference.java)
 16. [PowerOfTwo](/December2021/PowerOfTwo.java)
 17. [CourseScheduleII](/December2021/CourseScheduleII.java)
+18. [MergeInterval](/December2021/MergeInterval.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 
