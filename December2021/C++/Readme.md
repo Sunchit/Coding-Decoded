@@ -23,3 +23,7 @@
 21. [Power Of Two ](/December2021/C++/Power_Of_Two.cpp)
 22. [Reorder List](/December2021/C++/Reorder_List.cpp)
 23. [Course Schedule II](/December2021/C++/Course_Schedule_II.cpp)
+24. [Merge Intervals](/December2021/C++/Merge_intervals.cpp)
+25. [Basic Calculator II](/December2021/C++/Basic_Calculator_II.cpp)
+26. [K Closest Point To Origin](/December2021/C++/K_Closest_Points.cpp)
+
