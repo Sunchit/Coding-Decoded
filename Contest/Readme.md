@@ -16,3 +16,5 @@
 1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
 1) [NumberofSmoothDescentPeriodsofaStock](/Contest/NumberofSmoothDescentPeriodsofaStock.java)
 1) [MinimumOperationstoMaketheArrayKIncreasing](/Contest/MinimumOperationstoMaketheArrayKIncreasing.java)
+1) [IntervalsBetweenIdenticalElements](/Contest/IntervalsBetweenIdenticalElements.java)
+1) [ANumberAfteraDoubleReversal](/Contest/ANumberAfteraDoubleReversal.java)
