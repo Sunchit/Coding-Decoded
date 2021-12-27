@@ -19,3 +19,4 @@
 1) [IntervalsBetweenIdenticalElements](/Contest/IntervalsBetweenIdenticalElements.java)
 1) [ExecutionofAllSuffixInstructionsStayinginaGrid](/Contest/ExecutionofAllSuffixInstructionsStayinginaGrid.java)
 1) [ANumberAfteraDoubleReversal](/Contest/ANumberAfteraDoubleReversal.java)
+1) [RecovertheOriginalArray](/Contest/RecovertheOriginalArray.java)
