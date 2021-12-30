@@ -130,6 +130,8 @@ It is a place where peers of the community help each other with their queries, s
 1. [KClosestPointstoOrigin](/December2021/KClosestPointstoOrigin.java)
 1. [NumberComplement](/December2021/NumberComplement.java)
 1. [MiddleoftheLinkedList](/December2021/MiddleoftheLinkedList.java)
+1. [PopulatingNextRightPointersInEachNode](/December2021/PopulatingNextRightPointersInEachNode.java)
+1. [SmallestIntegerDivisiblebyK](/December2021/SmallestIntegerDivisiblebyK.java)
 
 ### [November 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)
 

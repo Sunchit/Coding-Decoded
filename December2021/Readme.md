@@ -22,3 +22,4 @@
 1. [NumberComplement](/December2021/NumberComplement.java)
 1. [MiddleoftheLinkedList](/December2021/MiddleoftheLinkedList.java)
 1. [PopulatingNextRightPointersInEachNode](/December2021/PopulatingNextRightPointersInEachNode.java)
+1. [SmallestIntegerDivisiblebyK](/December2021/SmallestIntegerDivisiblebyK.java)
