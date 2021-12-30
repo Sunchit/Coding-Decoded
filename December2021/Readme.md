@@ -21,3 +21,4 @@
 1. [KClosestPointstoOrigin](/December2021/KClosestPointstoOrigin.java)
 1. [NumberComplement](/December2021/NumberComplement.java)
 1. [MiddleoftheLinkedList](/December2021/MiddleoftheLinkedList.java)
+1. [PopulatingNextRightPointersInEachNode](/December2021/PopulatingNextRightPointersInEachNode.java)
