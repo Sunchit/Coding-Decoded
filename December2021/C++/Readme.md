@@ -27,4 +27,8 @@
 25. [Basic Calculator II](/December2021/C++/Basic_Calculator_II.cpp)
 26. [K Closest Point To Origin](/December2021/C++/K_Closest_Points.cpp)
 27. [Number Compliment](/December2021/C++/Number_Compliment.cpp)
+28. [Middle of the Linked List](/December2021/C++/Middle_of_the_Linked_List.cpp)
+29. [Populating Next Right Pointers in Each Node](/December2021/C++/Populating_Next_Right_Pointers_in_Each_Node.cpp)
+30. [Smallest Integer Divisible by K](/December2021/C++/Smallest_Integer_Divisible_by_K.cpp)
+31. [Maximum Difference Between Node and Ancestor](/December2021/C++/Max_Diff_Node_And_Ancestor.cpp)
 
