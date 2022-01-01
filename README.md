@@ -110,7 +110,10 @@ It is a place where peers of the community help each other with their queries, s
 
 
 ### [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
-1.[BurstBalloon](/December2021/HouseRobber.java) 
+
+S.NO | Code Link            | Video Link 
+:-------------------------:|:-------------------------:|:-------------------------:
+ 1 |[HouseRobber](/December2021/HouseRobber.java)  |  ![](https://...Ocean.png)
 
 1. [HouseRobber](/December2021/HouseRobber.java)
 
