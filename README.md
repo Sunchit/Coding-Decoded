@@ -113,9 +113,8 @@ It is a place where peers of the community help each other with their queries, s
 
 S.NO | Code Link            | Video Link 
 :-------------------------:|:-------------------------:|:-------------------------:
- 1 |[HouseRobber](/December2021/HouseRobber.java)  |  ![](https://...Ocean.png)
+ 1 |[BurstBalloon](/January2022/Java/BurstBalloon.java)  |  
 
-1. [HouseRobber](/December2021/HouseRobber.java)
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
