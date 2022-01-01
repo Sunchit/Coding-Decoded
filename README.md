@@ -113,7 +113,7 @@ It is a place where peers of the community help each other with their queries, s
 
 S.NO | Code Link            | Video Link 
 :-------------------------:|:-------------------------:|:-------------------------:
- 1 |[BurstBalloon](/January2022/Java/BurstBalloon.java)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="70" width="70"></a> 
+ 1 |[BurstBalloon](/January2022/Java/BurstBalloon.java)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="100" width="100"></a> 
 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
