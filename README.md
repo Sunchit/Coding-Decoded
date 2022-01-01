@@ -57,7 +57,7 @@ It is a place where peers of the community help each other with their queries, s
 | 1.  | Interviewing and building coding Aptitude  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSRJ-fqSacEURKkXhbQpSMF) |
 | 2.  | System Design  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTCh8qxBLOGBf88rwElwc0y)  | 
 | 3.  | Success Stories  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN)  | 
-| 3.  | Weekly Contest Problem  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR6ydh41qD6XPMyv9lMSWSN)  | 
+| 3.  | Weekly Contest Problem  |  [Link](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL)  | 
 
 *************
 
@@ -113,7 +113,7 @@ It is a place where peers of the community help each other with their queries, s
 
 S.NO | Code Link            | Video Link 
 :-------------------------:|:-------------------------:|:-------------------------:
- 1 |[BurstBalloon](/January2022/Java/BurstBalloon.java)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 1 |[BurstBalloon](/January2022/)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
