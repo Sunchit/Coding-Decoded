@@ -22,3 +22,4 @@
 1) [RecovertheOriginalArray](/Contest/RecovertheOriginalArray.java)
 1) [CheckifAllAsAppearsBeforeAllBs](/Contest/CheckifAllAsAppearsBeforeAllBs.java)
 1) [NumberofLaserBeamsinaBank](/Contest/NumberofLaserBeamsinaBank.java)
+1) [MaximumEmployeestoBeInvitedtoaMeeting](/Contest/MaximumEmployeestoBeInvitedtoaMeeting.java)
