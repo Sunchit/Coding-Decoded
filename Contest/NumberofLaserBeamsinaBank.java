@@ -1,35 +1,21 @@
 class Solution {
+	// TC : O(n * len String)
+	// SC : O(1)
 	public int numberOfBeams(String[] bank) {
-		int ans = 0;
-		int[] countOne = new int[bank.length];
-		int i=0;
-		for(String row : bank){
-			int freq = 0;
-			for(char c: row.toCharArray()){
-				if(c == '1'){
-					freq++;
+		int pSecurityDevicesFreq=0;
+		int ans=0;
+		for(String s: bank){
+			int cSecurityDevicesFreq=0;
+			for(char c: s.toCharArray()){
+				if(c=='1'){
+					cSecurityDevicesFreq++;
 				}
 			}
-			countOne[i++] = freq;
-		}
-		for(int k = 0;k<bank.length;k++){
-			if(countOne[k]==0){
-				continue;
-			} else {
-				int el = countOne[k];
-				int p = k+1;
-				while(p<bank.length && countOne[p]==0){
-					p++;
-				}
-				if(p<bank.length){
-					ans += countOne[k] *countOne[p];
-				}
-
-
+			if(cSecurityDevicesFreq>0){
+				ans+=(cSecurityDevicesFreq*pSecurityDevicesFreq);
+				pSecurityDevicesFreq=cSecurityDevicesFreq;
 			}
-
 		}
 		return ans;
-
 	}
 }
