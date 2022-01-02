@@ -114,6 +114,7 @@ It is a place where peers of the community help each other with their queries, s
 S.NO | Code Link            | Video Link 
 :-------------------------:|:-------------------------:|:-------------------------:
  1 |[BurstBalloon](/January2022/)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 1 |[PairsofSongsWithTotalDurationsDivisibleby60](/January2022/)  | <a href="https://www.youtube.com/watch?v=Nm17fNO3gXU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
