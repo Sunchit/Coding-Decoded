@@ -82,6 +82,8 @@ It is a place where peers of the community help each other with their queries, s
 1) [ExecutionofAllSuffixInstructionsStayinginaGrid](/Contest/ExecutionofAllSuffixInstructionsStayinginaGrid.java)
 1) [ANumberAfteraDoubleReversal](/Contest/ANumberAfteraDoubleReversal.java)
 1) [RecovertheOriginalArray](/Contest/RecovertheOriginalArray.java)
+1) [CheckifAllAsAppearsBeforeAllBs](/Contest/CheckifAllAsAppearsBeforeAllBs.java)
+1) [NumberofLaserBeamsinaBank](/Contest/NumberofLaserBeamsinaBank.java)
 
 *************
 
