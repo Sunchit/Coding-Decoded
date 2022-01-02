@@ -2,6 +2,7 @@ class Solution {
     int N;
     Map<Integer, List<Integer>> graph = new HashMap<>();
     int singleMaxCycleSize = 0;
+    // pairs of 2 length cycles nodes
     List<List<Integer>> pairs = new ArrayList<>();
     int[] favorite;
     public int maximumInvitations(int[] favorite) {
