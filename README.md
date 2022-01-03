@@ -94,7 +94,7 @@ It is a place where peers of the community help each other with their queries, s
 
 | S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
 | ------------- | :-------------: |  :-------------: |
-| 1.  | January 2021  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)  |
+| 1.  | January 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)  |
 | 2.  | December 2021  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)  |
 | 3.  | November 2021  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gT2IeinxSocuxyOKMB4H2zF)  |
 | 4.  | October 2021  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS6j6MsP_pIznL01a52dLAd)  |
