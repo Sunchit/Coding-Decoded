@@ -433,7 +433,7 @@ S.NO | Code Link            | Video Link
 1. [RussianDollEnvelopes](/March2021/RussianDollEnvelopes.java)
 1. [StampingTheSequence](/March2021/StampingTheSequence.java)
 
-### [February 2021 Leetcode Challenge ](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/)
+### [February 2021 Leetcode Challenge Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNUjYwtb53A7SXSCQaJguT)
 
 1. [No Of 1 bits](/February2021/NoOf1Bits.java)
 1. [Trim Binary Search Tree](/February2021/TrimBinarySearchTree.java)
