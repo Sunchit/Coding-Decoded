@@ -113,14 +113,14 @@ It is a place where peers of the community help each other with their queries, s
 | 17.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRlTdk0HLywRLq1jX0SxELK)  |
 
 
-### [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
+## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
-S.NO | Code Link            | Video Link 
+S.NO| Code Link            | Video Link 
 :-------------------------:|:-------------------------:|:-------------------------:
  1 |[BurstBalloon](/January2022/Java/BurstBalloon.java)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 1 |[PairsofSongsWithTotalDurationsDivisibleby60](/January2022/Java/PairsofSongsWithTotalDurationsDivisibleby60.java)  | <a href="https://www.youtube.com/watch?v=Nm17fNO3gXU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 1 |[FindTheTownJudge](/January2022/Java/FindTheTownJudge.java)  | <a href="https://www.youtube.com/watch?v=_dJO6BFU07M"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 1 |[ComplementofBase10Integer](/January2022/Java/ComplementofBase10Integer.java)  | <a href="https://www.youtube.com/watch?v=_dJO6BFU07M"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 2 |[PairsofSongsWithTotalDurationsDivisibleby60](/January2022/Java/PairsofSongsWithTotalDurationsDivisibleby60.java)  | <a href="https://www.youtube.com/watch?v=Nm17fNO3gXU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 3 |[FindTheTownJudge](/January2022/Java/FindTheTownJudge.java)  | <a href="https://www.youtube.com/watch?v=_dJO6BFU07M"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 4 |[ComplementofBase10Integer](/January2022/Java/ComplementofBase10Integer.java)  | <a href="https://www.youtube.com/watch?v=spYyufevhK8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
