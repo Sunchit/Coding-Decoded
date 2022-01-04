@@ -110,7 +110,7 @@ It is a place where peers of the community help each other with their queries, s
 | 14.  | [December 2020](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQIB_urBmMV04f_NBelXJEP)  | 
 | 15.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)  | 
 | 16.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
-| 17.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)  |
+| 17.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRlTdk0HLywRLq1jX0SxELK)  |
 
 
 ### [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
@@ -558,7 +558,7 @@ S.NO | Code Link            | Video Link
    2) [Combination Sum using Start variable](September2020/CombinationSumIIIB.java)
       -[InsertIntervals](September2020/InsertIntervals.java)
    
-### [August 2020 Leetcode Challenge Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
+### [August 2020 Leetcode Challenge Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRlTdk0HLywRLq1jX0SxELK)
 
 1. [Detect Capitals](./August2020/Solution_DetectCapital.java)
 1. Design HashSet
