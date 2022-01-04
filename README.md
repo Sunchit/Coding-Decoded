@@ -108,7 +108,7 @@ It is a place where peers of the community help each other with their queries, s
 | 12.  | [February 2021](https://leetcode.com/explore/featured/card/february-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRNUjYwtb53A7SXSCQaJguT)  | 
 | 13.  | [January 2021](https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gR8EhTsObcgM74NnIiAcRWm)  | 
 | 14.  | [December 2020](https://leetcode.com/explore/featured/card/december-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQIB_urBmMV04f_NBelXJEP)  | 
-| 15.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)  | 
+| 15.  | [November 2020](https://leetcode.com/explore/featured/card/november-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQzs-8as3lZF2GdQiTMI0TO)  | 
 | 16.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
 | 17.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRlTdk0HLywRLq1jX0SxELK)  |
 
@@ -523,7 +523,7 @@ S.NO | Code Link            | Video Link
 1. [Game Of Life](/December2020/GameOfLife.java)
 1. [LaregstAreaOfHistorgam](/December2020/LaregstAreaOfHistorgam.java)
 
-### [November 2020 Leetcode Challenge ](https://www.youtube.com/playlist?list=PLEI-8as3lZF2GdQiTMI0TO)
+### [November 2020 Leetcode Challenge ](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQzs-8as3lZF2GdQiTMI0TO)
 
 1. [Merge Intervals](November2020/MergeIntervals.java)
 1. [Decode String](November2020/DecodeString.java)
