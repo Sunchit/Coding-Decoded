@@ -121,6 +121,8 @@ S.NO| Code Link            | Video Link
  2 |[PairsofSongsWithTotalDurationsDivisibleby60](/January2022/Java/PairsofSongsWithTotalDurationsDivisibleby60.java)  | <a href="https://www.youtube.com/watch?v=Nm17fNO3gXU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  3 |[FindTheTownJudge](/January2022/Java/FindTheTownJudge.java)  | <a href="https://www.youtube.com/watch?v=_dJO6BFU07M"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  4 |[ComplementofBase10Integer](/January2022/Java/ComplementofBase10Integer.java)  | <a href="https://www.youtube.com/watch?v=spYyufevhK8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 4 |[ComplementofBase10Integer](/January2022/Java/ComplementofBase10Integer.java)  | <a href="https://www.youtube.com/watch?v=spYyufevhK8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 5 |[PalindromePartitioning](/January2022/Java/PalindromePartitioning.java)  | <a href="https://www.youtube.com/watch?v=vt6_SPRaNC0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
