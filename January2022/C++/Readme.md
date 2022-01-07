@@ -6,3 +6,4 @@
 3. [Complement of Base 10 Integer](/January2022/C++/Complement_of_Base_10_Integer.cpp)
 4. [Palindrome Paritioning](/January2022/C++/Palindrome_Partitioning.cpp)
 5. [Car Pooling](/January2022/C++/Car_Pooling.cpp)
+6. [Linked List Random Nodes](/January2022/C++/Linked_List_Random_Node.cpp)
