@@ -86,6 +86,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [NumberofLaserBeamsinaBank](/Contest/NumberofLaserBeamsinaBank.java)
 1) [DestroyingAsteroids](/Contest/DestroyingAsteroids.java)
 1) [MaximumEmployeestoBeInvitedtoaMeeting](/Contest/MaximumEmployeestoBeInvitedtoaMeeting.java)
+1) [CheckifEveryRowandColumnContainsAllNumbers](/Contest/CheckifEveryRowandColumnContainsAllNumbers.java)
 
 *************
 
