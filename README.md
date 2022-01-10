@@ -123,8 +123,9 @@ S.NO| Code Link            | Video Link
  4 |[ComplementofBase10Integer](/January2022/Java/ComplementofBase10Integer.java)  | <a href="https://www.youtube.com/watch?v=spYyufevhK8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  4 |[ComplementofBase10Integer](/January2022/Java/ComplementofBase10Integer.java)  | <a href="https://www.youtube.com/watch?v=spYyufevhK8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  5 |[PalindromePartitioning](/January2022/Java/PalindromePartitioning.java)  | <a href="https://www.youtube.com/watch?v=vt6_SPRaNC0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 5 |[CarPooling](/January2022/Java/CarPooling.java)  | <a href="https://www.youtube.com/watch?v=z4eDRBgYmpo"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 5 |[LinkedListrRandomNode](/January2022/Java/LinkedListrRandomNode.java)  | <a href="https://www.youtube.com/watch?v=Rl7dOXde_2s"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 6 |[CarPooling](/January2022/Java/CarPooling.java)  | <a href="https://www.youtube.com/watch?v=z4eDRBgYmpo"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 7 |[LinkedListrRandomNode](/January2022/Java/LinkedListrRandomNode.java)  | <a href="https://www.youtube.com/watch?v=Rl7dOXde_2s"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 8 |[CherryPickerII](/January2022/Java/CherryPickerII.java)  | <a href="https://www.youtube.com/watch?v=xahW8BxfTZU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
