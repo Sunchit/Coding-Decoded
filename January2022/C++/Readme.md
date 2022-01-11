@@ -9,4 +9,6 @@
 6. [Linked List Random Nodes](/January2022/C++/Linked_List_Random_Node.cpp)
 8. [Robot Bounded In a Circle](/January2022/C++/Robot_Bounded_In_a_Circle.cpp)
 9. [Add_Binary](/January2022/C++/Add_Binary.cpp)
-10. [Sum Of Root To Leaf Binary](/January2022/C++/Sum_Of_Root_Leaf)
+10. [Add Binary](/January2022/C++/add_binary.cpp)
+11. [Sum Of Root To Leaf Binary](/January2022/C++/Sum_Of_Root_Leaf)
+
