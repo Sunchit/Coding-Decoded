@@ -132,6 +132,7 @@ S.NO| Code Link            | Video Link
  8 |[CherryPickerII](/January2022/Java/CherryPickerII.java)  | <a href="https://www.youtube.com/watch?v=xahW8BxfTZU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  9 |[RobotBoundedInCircle](/January2022/Java/RobotBoundedInCircle.java)  | <a href="https://www.youtube.com/watch?v=RNCRxxQx44I"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  9 |[AddBinary](/January2022/Java/AddBinary.java)  | <a href="https://www.youtube.com/watch?v=xahW8BxfTZU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 10 |[SumofRootToLeafBinaryNumbers](/January2022/Java/SumofRootToLeafBinaryNumbers.java)  | <a href="https://www.youtube.com/watch?v=z3qqaAl-VNY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
