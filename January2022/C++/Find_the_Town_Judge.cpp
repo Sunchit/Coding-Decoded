@@ -20,3 +20,26 @@ public:
         return res;
     }
 };
+
+
+
+
+//c++ code
+public:
+    int findJudge(int n, vector<vector<int>>& trust) {
+        vector<int>in(n+1,0);
+        for(int i=0;i<trust.size();i++){
+            in[trust[i][1]]++;
+            in[trust[i][0]]--;
+        }
+        int ans = -1;
+        for(int i=1;i<n+1;i++){
+            if(in[i] == n-1){
+                ans = i;
+            }
+        }
+        return ans;
+    }
+};
+
+//Contributed by Ankit Ghosh
