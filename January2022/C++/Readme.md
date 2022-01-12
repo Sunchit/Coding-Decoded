@@ -12,4 +12,4 @@
 10. [Add Binary](/January2022/C++/add_binary.cpp)
 11. [Sum Of Root To Leaf Binary](/January2022/C++/Sum_Of_Root_Leaf)
 12. [Sum_Of_Root_To_Leaf_Binary_Number](/January2022/C++/sum_of_root_to_leaf_binary_number.cpp)
-
+13. [Insert_Into_BST](/January2022/C++/insert_into_BST.cpp)
