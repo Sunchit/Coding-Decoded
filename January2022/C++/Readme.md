@@ -18,3 +18,4 @@
 15. [Minimum Number of Arrows to Burst Balloons](/January2022/C++/minimum_number_of_arrows_to_burst_balloons.cpp)
 16. [Minimum_Number_Of_Arrow_To_Burst_Ballons](/January2022/C++/Minimum_Number_of_Arrows_to_Burst_Balloons.cpp)
 17. [String To Integer](/January2022/C++/String_To_Integer.cpp)
+18. [String To Integer(atoi)](/January2022/C++/string_to_int.cpp)
