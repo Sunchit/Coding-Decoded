@@ -92,6 +92,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [EarliestPossibleDayOfFullBloom](/Contest/EarliestPossibleDayOfFullBloom.java)
 1) [DivideAStringIntoGroupsOfSizek](/Contest/DivideAStringIntoGroupsOfSizek.java)
 1) [MinimumMovesToReachTargetScore](/Contest/MinimumMovesToReachTargetScore.java)
+1) [SolvingQuestionsWithBrainpower](/Contest/SolvingQuestionsWithBrainpower.java)
 
 *************
 
