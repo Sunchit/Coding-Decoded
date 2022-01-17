@@ -17,3 +17,5 @@
 15. [Insert_Into_BST](/January2022/C++/insert_into_BST.cpp)
 16. [Minimum_Number_Of_Arrow_To_Burst_Ballons](/January2022/C++/Minimum_Number_of_Arrows_to_Burst_Balloons.cpp)
 17. [String To Integer](/January2022/C++/String_To_Integer.cpp)
+19. [Maximum Distance To the Closest Person](/January2022/C++/Max_distance_to_Closest_person.cpp)
+20. [Word Pattern](/January2022/C++/Word_Pattern.cpp)
