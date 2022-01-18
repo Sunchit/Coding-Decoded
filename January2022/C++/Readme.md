@@ -26,4 +26,5 @@
 23. [Solving_Questions_With_Brainpower](/January2022/C++/Solving_Questions_With_Brainpower.cpp)
 24. [Maximum Distance To the Closest Person](/January2022/C++/Max_distance_to_Closest_person.cpp)
 25. [Word Pattern](/January2022/C++/Word_Pattern.cpp)
-28. [Can Place Flowers](/January2022/C++/can_place_flowers.cpp)
+26. [Can Place Flowers](/January2022/C++/can_place_flowers.cpp)
+27. [Word_Pattern](/January2022/C++/word_pattern.cpp)
