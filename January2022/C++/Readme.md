@@ -24,3 +24,6 @@
 21. [Divide_a_String_Into_Groups_of_Size_k](/January2022/C++/Divide_a_String_Into_Groups_of_Size_k.cpp)
 22. [Minimum_Moves_to_Reach_Target_Score](/January2022/C++/Minimum_Moves_to_Reach_Target_Score.cpp)
 23. [Solving_Questions_With_Brainpower](/January2022/C++/Solving_Questions_With_Brainpower.cpp)
+24. [Maximum Distance To the Closest Person](/January2022/C++/Max_distance_to_Closest_person.cpp)
+25. [Word Pattern](/January2022/C++/Word_Pattern.cpp)
+26. [Word_Pattern](/January2022/C++/word_pattern.cpp)
