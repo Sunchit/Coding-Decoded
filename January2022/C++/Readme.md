@@ -27,3 +27,4 @@
 24. [Maximum Distance To the Closest Person](/January2022/C++/Max_distance_to_Closest_person.cpp)
 25. [Word Pattern](/January2022/C++/Word_Pattern.cpp)
 26. [Word_Pattern](/January2022/C++/word_pattern.cpp)
+27. [Can_Place_Flowers](/January2022/C++/Can_Place_Flowers.cpp)
