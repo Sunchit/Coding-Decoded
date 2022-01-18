@@ -28,3 +28,5 @@
 25. [Word Pattern](/January2022/C++/Word_Pattern.cpp)
 26. [Word_Pattern](/January2022/C++/word_pattern.cpp)
 27. [Can_Place_Flowers](/January2022/C++/Can_Place_Flowers.cpp)
+28. [Can Place Flowers](/January2022/C++/can_place_flowers.cpp)
+
