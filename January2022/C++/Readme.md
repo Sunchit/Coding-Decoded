@@ -19,3 +19,4 @@
 17. [String To Integer](/January2022/C++/String_To_Integer.cpp)
 19. [Maximum Distance To the Closest Person](/January2022/C++/Max_distance_to_Closest_person.cpp)
 20. [Word Pattern](/January2022/C++/Word_Pattern.cpp)
+21. [Can Place Flowers](/January2022/C++/can_place_flowers.cpp)
