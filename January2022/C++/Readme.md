@@ -30,3 +30,4 @@
 27. [Can_Place_Flowers](/January2022/C++/Can_Place_Flowers.cpp)
 28. [Can Place Flowers](/January2022/C++/can_place_flowers.cpp)
 29. [Linked_List_Cycle_II](/January2022/C++/Linked_List_Cycle_II.cpp)
+29. [Linked_List_Cycle_II](/January2022/C++/142.Linked_List_Cycle_II.cpp)
