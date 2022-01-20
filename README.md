@@ -143,7 +143,7 @@ S.NO| Code Link            | Video Link
  14 |[JumpGameIV.java](/January2022/Java/JumpGameIV.java)  | <a href="https://www.youtube.com/watch?v=tO0tX9FCrss"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  15 |[MaximizeDistancetoClosestPerson.java](/January2022/Java/MaximizeDistancetoClosestPerson.java )  | <a href="https://www.youtube.com/watch?v=AyQarOkptdw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  16 |[CanPlaceFlowers.java](/January2022/Java/CanPlaceFlowers.java )  | <a href="https://www.youtube.com/watch?v=psTabsG-H9c"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 16 |[CanPlaceFlowers.java](/January2022/Java/CanPlaceFlowers.java )  | <a href="https://www.youtube.com/watch?v=JpU9T3BPLlo"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 17 |[KokoEatingBananas.java](/January2022/Java/KokoEatingBananas.java )  | <a href="https://www.youtube.com/watch?v=SN0JzIeyzlY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
