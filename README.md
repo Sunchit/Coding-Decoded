@@ -96,6 +96,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [MaximumRunningTimeofNComputers](/Contest/MaximumRunningTimeofNComputers.java)
 1) [CountElementsWithStrictlySmallerandGreaterElements](/Contest/CountElementsWithStrictlySmallerandGreaterElements.java)
 1) [RearrangeArrayElementsbySign](/Contest/RearrangeArrayElementsbySign.java)
+1) [FindAllLonelyNumbersInTheArray](/Contest/FindAllLonelyNumbersInTheArray.java)
 
 *************
 
