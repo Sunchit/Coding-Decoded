@@ -93,8 +93,9 @@ It is a place where peers of the community help each other with their queries, s
 1) [DivideAStringIntoGroupsOfSizek](/Contest/DivideAStringIntoGroupsOfSizek.java)
 1) [MinimumMovesToReachTargetScore](/Contest/MinimumMovesToReachTargetScore.java)
 1) [SolvingQuestionsWithBrainpower](/Contest/SolvingQuestionsWithBrainpower.java)
-1) [MaximumRunningTimeofNComputers.](/Contest/MaximumRunningTimeofNComputers.java)
-1) [CountElementsWithStrictlySmallerandGreaterElements.](/Contest/CountElementsWithStrictlySmallerandGreaterElements.java)
+1) [MaximumRunningTimeofNComputers](/Contest/MaximumRunningTimeofNComputers.java)
+1) [CountElementsWithStrictlySmallerandGreaterElements](/Contest/CountElementsWithStrictlySmallerandGreaterElements.java)
+1) [RearrangeArrayElementsbySign](/Contest/RearrangeArrayElementsbySign.java)
 
 *************
 
