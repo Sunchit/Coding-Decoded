@@ -1,3 +1,4 @@
+// Author: Deepal
 // Problem: Detect Capital
 // Link: https://leetcode.com/problems/detect-capital/
 // Category: Easy
