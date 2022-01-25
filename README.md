@@ -151,7 +151,8 @@ S.NO| Code Link            | Video Link
  18 |[GasStation.java](/January2022/Java/GasStation.java )  | <a href="https://www.youtube.com/watch?v=ZUL3_p0MJio"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  19 |[StoneGameIV.java](/January2022/Java/StoneGameIV.java )  | <a href="https://www.youtube.com/watch?v=4l5teiw13Jk"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  20 |[SequentialDigits.java](/January2022/Java/SequentialDigits.java )  | <a href="https://www.youtube.com/watch?v=XzY68n0geZ4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
- 20 |[DetectCapital.java](/January2022/Java/DetectCapital.java )  | <a href="https://www.youtube.com/watch?v=XzY68n0geZ4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 21 |[DetectCapital.java](/January2022/Java/DetectCapital.java )  | <a href="https://www.youtube.com/watch?v=XzY68n0geZ4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 22 |[ValidMountain.java](/January2022/Java/ValidMountain.java )  | <a href="https://www.youtube.com/watch?v=zCf23oWRBKI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
