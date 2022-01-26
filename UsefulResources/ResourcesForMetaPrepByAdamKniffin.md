@@ -27,7 +27,7 @@ These are some resources I used throughout my long time studying for interviews.
 ### Mock Interviews
 
 I honestly don’t really like these because a lot of the people don’t have a great background so you may just waste time listening to people talk about stuff they aren’t very knowledgeable on. I would find someone (or a group of people) who are at similar processes in their learning journey and do some mock interviews for practice. Here are some options though.
-* https://interviewing.io/*
+* https://interviewing.io/
 * https://www.pramp.com/
 
 ### Linkedin
