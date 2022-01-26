@@ -93,7 +93,11 @@ It is a place where peers of the community help each other with their queries, s
 1) [DivideAStringIntoGroupsOfSizek](/Contest/DivideAStringIntoGroupsOfSizek.java)
 1) [MinimumMovesToReachTargetScore](/Contest/MinimumMovesToReachTargetScore.java)
 1) [SolvingQuestionsWithBrainpower](/Contest/SolvingQuestionsWithBrainpower.java)
-1) [MaximumRunningTimeofNComputers.](/Contest/MaximumRunningTimeofNComputers.java)
+1) [MaximumRunningTimeofNComputers](/Contest/MaximumRunningTimeofNComputers.java)
+1) [CountElementsWithStrictlySmallerandGreaterElements](/Contest/CountElementsWithStrictlySmallerandGreaterElements.java)
+1) [RearrangeArrayElementsbySign](/Contest/RearrangeArrayElementsbySign.java)
+1) [FindAllLonelyNumbersInTheArray](/Contest/FindAllLonelyNumbersInTheArray.java)
+1) [MaximumGoodPeopleBasedOnStatements](/Contest/MaximumGoodPeopleBasedOnStatements.java)
 
 *************
 
@@ -143,6 +147,11 @@ S.NO| Code Link            | Video Link
  14 |[JumpGameIV.java](/January2022/Java/JumpGameIV.java)  | <a href="https://www.youtube.com/watch?v=tO0tX9FCrss"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  15 |[MaximizeDistancetoClosestPerson.java](/January2022/Java/MaximizeDistancetoClosestPerson.java )  | <a href="https://www.youtube.com/watch?v=AyQarOkptdw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  16 |[CanPlaceFlowers.java](/January2022/Java/CanPlaceFlowers.java )  | <a href="https://www.youtube.com/watch?v=psTabsG-H9c"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 17 |[KokoEatingBananas.java](/January2022/Java/KokoEatingBananas.java )  | <a href="https://www.youtube.com/watch?v=SN0JzIeyzlY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 18 |[GasStation.java](/January2022/Java/GasStation.java )  | <a href="https://www.youtube.com/watch?v=ZUL3_p0MJio"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 19 |[StoneGameIV.java](/January2022/Java/StoneGameIV.java )  | <a href="https://www.youtube.com/watch?v=4l5teiw13Jk"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 20 |[SequentialDigits.java](/January2022/Java/SequentialDigits.java )  | <a href="https://www.youtube.com/watch?v=XzY68n0geZ4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 20 |[DetectCapital.java](/January2022/Java/DetectCapital.java )  | <a href="https://www.youtube.com/watch?v=XzY68n0geZ4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
