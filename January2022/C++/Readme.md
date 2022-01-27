@@ -31,3 +31,4 @@
 28. [Can Place Flowers](/January2022/C++/can_place_flowers.cpp)
 29. [Linked_List_Cycle_II](/January2022/C++/Linked_List_Cycle_II.cpp)
 29. [Linked_List_Cycle_II](/January2022/C++/142.Linked_List_Cycle_II.cpp)
+30. [Maximum XOR of Two Number In an Array](/January2022/C++/Max_XOR_of_Two_Numbers_In_Array.cpp)
