@@ -154,6 +154,7 @@ S.NO| Code Link            | Video Link
  21 |[DetectCapital.java](/January2022/Java/DetectCapital.java )  | <a href="https://www.youtube.com/watch?v=XzY68n0geZ4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  22 |[ValidMountain.java](/January2022/Java/ValidMountain.java )  | <a href="https://www.youtube.com/watch?v=zCf23oWRBKI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  22 |[MaximumXorOfTwoNumbersInAnArray.java](/January2022/Java/MaximumXorOfTwoNumbersInAnArray.java )  | <a href="https://www.youtube.com/watch?v=bAeJ04b84QM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 22 |[AddAndSearchWord.java](/January2022/Java/AddAndSearchWord.java )  | <a href="https://www.youtube.com/watch?v=LWJT6Ui19yY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
