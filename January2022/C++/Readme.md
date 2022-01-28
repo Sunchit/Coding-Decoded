@@ -32,3 +32,4 @@
 29. [Linked_List_Cycle_II](/January2022/C++/Linked_List_Cycle_II.cpp)
 29. [Linked_List_Cycle_II](/January2022/C++/142.Linked_List_Cycle_II.cpp)
 30. [Maximum XOR of Two Number In an Array](/January2022/C++/Max_XOR_of_Two_Numbers_In_Array.cpp)
+31 [Design Add and Search Words Data Structure](/January2022/C++/Design_Add_and_Search_Words_Data_Structure.cpp)
