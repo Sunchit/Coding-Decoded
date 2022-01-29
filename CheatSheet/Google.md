@@ -342,4 +342,4 @@ These questions are intended for those who are preparing for Google.
 | 336 |	Backspace String Compare	| [Link](	https://leetcode.com/problems/backspace-string-compare	) | PENDING | 	Two PointersStack
 | 337 |	Evaluate Division	| [Link](	https://leetcode.com/problems/evaluate-division	) | PENDING | 	Union FindGraph
 
-Disclaimer : It does not have any connection with Google company.
+Disclaimer : It does not have any connection with Google as a company.
