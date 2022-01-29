@@ -1,7 +1,9 @@
 ### GOOGLE DSA CHEATSHEET  
 
-| S No  | Question  |  Link | Status | Concept |
-| ------------- | :--------------------: |    :-------------: |  :-----------: |  :-------------: |
+These questions are intended for those who are preparing for Google. 
+
+| <div style="width:90px"><h4 style="color:green;">S No</h4></div>   | <div style="width:290px"><h4 style="color:green;">Question</h4></div>  |  <div style="width:40px"><h4 style="color:green;">Link</h4></div> | <div style="width:40px"><h4 style="color:green;">Status</h4></div> | <div style="width:40px"><h4 style="color:green;">Concept</h4></div> |
+| :-------------: | :--------------------: |    :----: |  :-----: |  :-------------: |
 | 1 |	Magic Squares In Grid	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | PENDING | 	Array 
 | 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PENDING | 	Array 
 | 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
@@ -339,3 +341,5 @@
 | 335 |	Fruit Into Baskets	| [Link](	https://leetcode.com/problems/fruit-into-baskets	) | PENDING | 	Two Pointers
 | 336 |	Backspace String Compare	| [Link](	https://leetcode.com/problems/backspace-string-compare	) | PENDING | 	Two PointersStack
 | 337 |	Evaluate Division	| [Link](	https://leetcode.com/problems/evaluate-division	) | PENDING | 	Union FindGraph
+
+Disclaimer : It does not have any connection with Google company.
