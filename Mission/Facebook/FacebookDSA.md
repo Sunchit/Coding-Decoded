@@ -1,4 +1,4 @@
-### Facebook/Meta DSA CHEATSHEET
+###     FACEBOOK/META DSA CHEATSHEET
 
 These questions are intended for those who are preparing for Facebook/Meta.
 
