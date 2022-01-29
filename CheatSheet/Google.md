@@ -237,16 +237,16 @@
 | 233 |	Meeting Rooms II	| [Link](	https://leetcode.com/problems/meeting-rooms-ii	) | PENDING | 	HeapGreedySort
 | 234 |	Sliding Window Maximum	| [Link](	https://leetcode.com/problems/sliding-window-maximum	) | PENDING | 	HeapSliding Window
 | 235 |	Meeting Scheduler	| [Link](	https://leetcode.com/problems/meeting-scheduler	) | PENDING | 	Line Sweep
-| 236 |	Merge Two Sorted Lists	| [Link](	https://leetcode.com/problems/merge-two-sorted-lists	) | PENDING | 	| [Link](ed List
-| 237 |	Reverse | [Link](ed List	| [Link](	https://leetcode.com/problems/reverse-| Linked List	) | PENDING | 	| [Link](ed List
-| 238 |	Reverse | [Link](ed List II	| [Link](	https://leetcode.com/problems/reverse-| Linked List-ii	) | PENDING | 	| [Link](ed List
-| 239 |	Odd Even | [Link](ed List	| [Link](	https://leetcode.com/problems/odd-even-| Linked List	) | PENDING | 	| [Link](ed List
-| 240 |	Swap Nodes in Pairs	| [Link](	https://leetcode.com/problems/swap-nodes-in-pairs	) | PENDING | 	| [Link](ed List
-| 241 |	Intersection of Two | [Link](ed Lists	| [Link](	https://leetcode.com/problems/intersection-of-two-| [Link](ed-lists	) | PENDING | 	| [Link](ed List
-| 242 |	Convert Sorted List to Binary Search Tree	| [Link](	https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree	) | PENDING | 	| [Link](ed ListDepth-first Search
-| 243 |	Merge k Sorted Lists	| [Link](	https://leetcode.com/problems/merge-k-sorted-lists	) | PENDING | 	| [Link](ed ListDivide and ConquerHeap
-| 244 |	Add Two Numbers	| [Link](	https://leetcode.com/problems/add-two-numbers	) | PENDING | 	| [Link](ed ListMath
-| 245 |	Palindrome | [Link](ed List	| [Link](	https://leetcode.com/problems/palindrome-| Linked List	) | PENDING | 	| [Link](ed ListTwo Pointers
+| 236 |	Merge Two Sorted Lists	| [Link](	https://leetcode.com/problems/merge-two-sorted-lists	) | PENDING | 	| Linked List
+| 237 |	Reverse | Linked List	| [Link](	https://leetcode.com/problems/reverse-| Linked List	) | PENDING | 	| Linked List
+| 238 |	Reverse | Linked List II	| [Link](	https://leetcode.com/problems/reverse-| Linked List-ii	) | PENDING | 	| Linked List
+| 239 |	Odd Even | Linked List	| [Link](	https://leetcode.com/problems/odd-even-| Linked List	) | PENDING | 	| Linked List
+| 240 |	Swap Nodes in Pairs	| [Link](	https://leetcode.com/problems/swap-nodes-in-pairs	) | PENDING | 	| Linked List
+| 241 |	Intersection of Two | Linked Lists	| [Link](	https://leetcode.com/problems/intersection-of-two-| Linked-lists	) | PENDING | 	| Linked List
+| 242 |	Convert Sorted List to Binary Search Tree	| [Link](	https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree	) | PENDING | 	| Linked ListDepth-first Search
+| 243 |	Merge k Sorted Lists	| [Link](	https://leetcode.com/problems/merge-k-sorted-lists	) | PENDING | 	| Linked ListDivide and ConquerHeap
+| 244 |	Add Two Numbers	| [Link](	https://leetcode.com/problems/add-two-numbers	) | PENDING | 	| Linked ListMath
+| 245 |	Palindrome | Linked List	| [Link](	https://leetcode.com/problems/palindrome-| Linked List	) | PENDING | 	| Linked ListTwo Pointers
 | 246 |	Self Crossing	| [Link](	https://leetcode.com/problems/self-crossing	) | PENDING | 	Math
 | 247 |	Valid Square	| [Link](	https://leetcode.com/problems/valid-square	) | PENDING | 	Math
 | 248 |	Largest Time for Given Digits	| [Link](	https://leetcode.com/problems/largest-time-for-given-digits	) | PENDING | 	Math
