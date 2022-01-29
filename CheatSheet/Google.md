@@ -240,13 +240,13 @@
 | 236 |	Merge Two Sorted Lists	| [Link](	https://leetcode.com/problems/merge-two-sorted-lists	) | PENDING | 	| Linked List
 | 237 |	Reverse Linked List	| [Link](	https://leetcode.com/problems/reverse-linked-list  )| PENDING | 	| Linked List
 | 238 |	Reverse Linked List II	| [Link](	https://leetcode.com/problems/reverse-linked-list-ii	) | PENDING | 	| Linked List
-| 239 |	Odd Even | Linked List	| [Link](	https://leetcode.com/problems/odd-even-linked-list	) | PENDING | 	| Linked List
+| 239 |	Odd Even Linked List	| [Link](	https://leetcode.com/problems/odd-even-linked-list	) | PENDING | 	| Linked List
 | 240 |	Swap Nodes in Pairs	| [Link](	https://leetcode.com/problems/swap-nodes-in-pairs	) | PENDING | 	| Linked List
 | 241 |	Intersection of Two Linked Lists	| [Link](	https://leetcode.com/problems/intersection-of-two-linked-list	)  | PENDING | 	| Linked List
 | 242 |	Convert Sorted List to Binary Search Tree	| [Link](	https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree	) | PENDING | 	| Linked ListDepth-first Search
 | 243 |	Merge k Sorted Lists	| [Link](	https://leetcode.com/problems/merge-k-sorted-lists	) | PENDING | 	| Linked ListDivide and ConquerHeap
 | 244 |	Add Two Numbers	| [Link](	https://leetcode.com/problems/add-two-numbers	) | PENDING | 	| Linked ListMath
-| 245 |	Palindrome Linked List	| [Link](	https://leetcode.com/problems/palindrome-| Linked List	) | PENDING | 	| Linked ListTwo Pointers
+| 245 |	Palindrome Linked List	| [Link](	https://leetcode.com/problems/palindrome-linked-list) | PENDING | 	| Linked ListTwo Pointers
 | 246 |	Self Crossing	| [Link](	https://leetcode.com/problems/self-crossing	) | PENDING | 	Math
 | 247 |	Valid Square	| [Link](	https://leetcode.com/problems/valid-square	) | PENDING | 	Math
 | 248 |	Largest Time for Given Digits	| [Link](	https://leetcode.com/problems/largest-time-for-given-digits	) | PENDING | 	Math
