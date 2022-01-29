@@ -65,7 +65,7 @@
 | 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | PENDING | 	ArrayTwo Pointers
 | 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
 | 63 |	Move Zeroes	| [Link](	https://leetcode.com/problems/move-zeroes	) | PENDING | 	ArrayTwo Pointers
-| 64 |	Remove Duplicates from Sorted Array	| [Link](	Remove Duplicates from Sorted Array	) | PENDING | 	ArrayTwo Pointers
+| 64 |	Remove Duplicates from Sorted Array	| [Link](	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	) | PENDING | 	ArrayTwo Pointers
 | 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
 | 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | PENDING | 	Array Union Find
 | 67 |	Brace Expansion	| [Link](	https://leetcode.com/problems/brace-expansion	) | PENDING | 	Backtracking
