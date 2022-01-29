@@ -2,8 +2,8 @@
 
 These questions are intended for those who are preparing for Google. 
 
-| <div style="width:90px"><h4 style="color:green;">S No</h4></div>   | <div style="width:290px"><h4 style="color:green;">Question</h4></div>  |  <div style="width:40px"><h4 style="color:green;">Link</h4></div> | <div style="width:40px"><h4 style="color:green;">Status</h4></div> | <div style="width:40px"><h4 style="color:green;">Concept</h4></div> |
-| :-------------: | :--------------------: |    :----: |  :-----: |  :-------------: |
+| S No  | Question  |  Link | Status | Concept |
+| ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
 | 1 |	Magic Squares In Grid	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | PENDING | 	Array 
 | 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PENDING | 	Array 
 | 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
