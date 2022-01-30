@@ -98,6 +98,8 @@ It is a place where peers of the community help each other with their queries, s
 1) [RearrangeArrayElementsbySign](/Contest/RearrangeArrayElementsbySign.java)
 1) [FindAllLonelyNumbersInTheArray](/Contest/FindAllLonelyNumbersInTheArray.java)
 1) [MaximumGoodPeopleBasedOnStatements](/Contest/MaximumGoodPeopleBasedOnStatements.java)
+1) [AllDivisionsWiththeHighestScoreofaBinaryArray](/Contest/AllDivisionsWiththeHighestScoreofaBinaryArray.java)
+1) [KeepMultiplyingFoundValuesbyTwo](/Contest/KeepMultiplyingFoundValuesbyTwo.java)
 
 *************
 
@@ -156,6 +158,7 @@ S.NO| Code Link            | Video Link
  22 |[MaximumXorOfTwoNumbersInAnArray.java](/January2022/Java/MaximumXorOfTwoNumbersInAnArray.java )  | <a href="https://www.youtube.com/watch?v=bAeJ04b84QM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  22 |[AddAndSearchWord.java](/January2022/Java/AddAndSearchWord.java )  | <a href="https://www.youtube.com/watch?v=LWJT6Ui19yY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
  23 |[LaregstAreaOfHistorgam.java](/January2022/Java/LaregstAreaOfHistorgam.java )  | <a href="https://www.youtube.com/watch?v=rKwzpADdpkY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
+ 23 |[RotateArray.java](/January2022/Java/RotateArray.java )  | <a href="https://www.youtube.com/watch?v=rKwzpADdpkY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="50" width="50"></a> 
 
 ### [December 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)
 
