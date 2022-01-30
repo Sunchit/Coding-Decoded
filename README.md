@@ -100,6 +100,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [MaximumGoodPeopleBasedOnStatements](/Contest/MaximumGoodPeopleBasedOnStatements.java)
 1) [AllDivisionsWiththeHighestScoreofaBinaryArray](/Contest/AllDivisionsWiththeHighestScoreofaBinaryArray.java)
 1) [KeepMultiplyingFoundValuesbyTwo](/Contest/KeepMultiplyingFoundValuesbyTwo.java)
+1) [FindSubstringWithGivenHashValue](/Contest/FindSubstringWithGivenHashValue.java)
 
 *************
 
