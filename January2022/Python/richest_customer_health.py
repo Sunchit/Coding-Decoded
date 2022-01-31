@@ -1,6 +1,6 @@
 # Author :  Karthik K (https://www.linkedin.com/in/karthikmunirathinam/)
 
-# TC : O(N)
+# TC : O(M*N)
 # SC : O(1)
 
 class Solution:
