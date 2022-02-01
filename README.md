@@ -133,7 +133,7 @@ It is a place where peers of the community help each other with their queries, s
 
 S.NO| Code Link            | Video Link
 :-------------------------:|:-------------------------:|:-------------------------:
-1 |[BestTimetoBuyandSellStock](/February2022/Java/BestTimetoBuyandSellStock.java)  | <a href="https://www.youtube.com/watch?v=mN5u_WYpm6w"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[BestTimetoBuyandSellStock](/February2022/Java/BestTimetoBuyandSellStock.java)  | <a href="https://www.youtube.com/watch?v=-rJGASSpPvY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
