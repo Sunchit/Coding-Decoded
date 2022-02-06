@@ -30,6 +30,20 @@ func removeDuplicates(_ nums: inout [Int]) -> Int {
 // TC: O(N)
 // SC: O(1)
 
+func removeDuplicates(_ nums: inout [Int]) -> Int {
+    var index = 0
+    for (_, element) in nums.enumerated() {
+        if index == 0 || index == 1 || element != nums[index - 2] {
+            nums[index] = element
+            index += 1
+        }
+    }
+    return index
+}
+
+// TC: O(N)
+// SC: O(1)
+
 /*
  
  Example 1:
