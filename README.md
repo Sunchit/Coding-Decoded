@@ -105,6 +105,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [SortEvenandOddIndicesIndependently](/Contest/SortEvenandOddIndicesIndependently.java)
 1) [SmallestValueoftheRearrangedNumber](/Contest/SmallestValueoftheRearrangedNumber.java)
 1) [DesignBitset](/Contest/DesignBitset.java)
+1) [MinimumTimetoRemoveAllCarsContainingIllegal](/Contest/MinimumTimetoRemoveAllCarsContainingIllegal.java)
 
 *************
 
