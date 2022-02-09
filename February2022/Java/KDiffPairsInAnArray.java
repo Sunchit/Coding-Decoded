@@ -35,3 +35,35 @@ class Solution {
         
     }
 }
+
+
+// Another Approach with two sets
+
+class Solution {
+    public int findPairs(int[] nums, int k) {
+        if(nums == null || nums.length == 0) {
+            return 0;
+        }
+        
+    
+        Set<String> pairs = new HashSet<>();
+        
+        Set<Integer> visited = new HashSet<>();
+        
+        for(int num : nums) {
+            int greater = num + k;
+            int lesser = num - k;
+            
+            if(visited.contains(greater)) {
+                pairs.add(num + " " + greater);
+            }
+            if(visited.contains(lesser)) {
+                pairs.add(lesser + " " + num);
+            }
+            
+            visited.add(num);
+        }
+        
+        return pairs.size();
+    }
+}
