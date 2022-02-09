@@ -6,3 +6,4 @@
 3. [Merge K Sorted Lists](/)
 4. [525. Contiguous Array] https://leetcode.com/problems/contiguous-array/
 5. [389. Find the Difference] https://leetcode.com/problems/find-the-difference/
+6. [532. K-diff Pairs in an Array] https://leetcode.com/problems/k-diff-pairs-in-an-array/
