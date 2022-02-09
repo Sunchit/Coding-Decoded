@@ -39,6 +39,16 @@ func addDigits(_ num: Int) -> Int {
 // TC: O(Log N)
 // SC: O(1)
 
+///////////////////////////////////////////////
+
+func addDigits(_ num: Int) -> Int {
+    if num == 0 { return 0 }
+    return num % 9 == 0 ? 9 : num % 9
+}
+
+// TC: O(1)
+// SC: O(1)
+
 /*
  
  Example 1:
