@@ -8,3 +8,6 @@
 5. [389. Find the Difference] https://leetcode.com/problems/find-the-difference/
 6. [Add Digits](/February2022/C++/Add_Digits.cpp)
 7. [Subarray Sum Equals K](/February2022/C++/Subarray_sum_equals_k.cpp)
+6. [532. K-diff Pairs in an Array] https://leetcode.com/problems/k-diff-pairs-in-an-array/
+7. [Add Digits](/February2022/C++/Add_Digits.cpp)
+
