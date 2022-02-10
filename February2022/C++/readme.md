@@ -7,3 +7,4 @@
 4. [525. Contiguous Array] https://leetcode.com/problems/contiguous-array/
 5. [389. Find the Difference] https://leetcode.com/problems/find-the-difference/
 6. [Add Digits](/February2022/C++/Add_Digits.cpp)
+7. [Subarray Sum Equals K](/February2022/C++/Subarray_sum_equals_k.cpp)
