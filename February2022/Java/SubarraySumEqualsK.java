@@ -1,3 +1,4 @@
+// Author : Shobhit Behl (LC : shobhitbruh)
 class Solution {
     public int subarraySum(int[] nums, int k) {
        HashMap<Integer,Integer> hs=new HashMap<>();

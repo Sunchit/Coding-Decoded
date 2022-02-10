@@ -1,3 +1,4 @@
+// Author : Shobhit Behl (LC : shobhitbruh)
 class Solution {
     fun subarraySum(nums: IntArray, k: Int): Int {
         val hs = HashMap<Int, Int>()
