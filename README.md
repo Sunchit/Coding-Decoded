@@ -102,6 +102,10 @@ It is a place where peers of the community help each other with their queries, s
 1) [KeepMultiplyingFoundValuesbyTwo](/Contest/KeepMultiplyingFoundValuesbyTwo.java)
 1) [FindSubstringWithGivenHashValue](/Contest/FindSubstringWithGivenHashValue.java)
 1) [GroupOfStrings](/Contest/GroupOfStrings.java)
+1) [SortEvenandOddIndicesIndependently](/Contest/SortEvenandOddIndicesIndependently.java)
+1) [SmallestValueoftheRearrangedNumber](/Contest/SmallestValueoftheRearrangedNumber.java)
+1) [DesignBitset](/Contest/DesignBitset.java)
+1) [MinimumTimetoRemoveAllCarsContainingIllegal](/Contest/MinimumTimetoRemoveAllCarsContainingIllegal.java)
 
 *************
 
@@ -137,6 +141,9 @@ S.NO| Code Link            | Video Link
 1 |[FindAllAnagramsinaString](/February2022/Java/FindAllAnagramsinaString.java)  | <a href="https://www.youtube.com/watch?v=WQkdPaMPlYw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[4SUMII](/February2022/Java/4SUMII.java)  | <a href="https://www.youtube.com/watch?v=Gp1Kw_gvBx0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[ContiguousArray](/February2022/Java/ContiguousArray.java)  | <a href="https://www.youtube.com/watch?v=xpuhcOKTWXg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[FindtheDifference](/February2022/Java/FindtheDifference.java)  | <a href="https://www.youtube.com/watch?v=xpuhcOKTWXg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[KdiffPairsinanArray](/February2022/Java/KdiffPairsinanArray.java)  | <a href="https://www.youtube.com/watch?v=V5TYeIGr66A"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[SubarraySumEqualsK](/February2022/Java/SubarraySumEqualsK.java)  | <a href="https://www.youtube.com/watch?v=-0P9julJV8c"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
