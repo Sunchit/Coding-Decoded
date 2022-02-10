@@ -35,3 +35,71 @@ class Solution {
         
     }
 }
+
+// Problem : https://leetcode.com/problems/k-diff-pairs-in-an-array/
+// @romitdutta10
+// TC : O(n)
+// Another Approach with two sets
+
+class Solution {
+    public int findPairs(int[] nums, int k) {
+        if(nums == null || nums.length == 0) {
+            return 0;
+        }
+        
+    
+        Set<String> pairs = new HashSet<>();
+        
+        Set<Integer> visited = new HashSet<>();
+        
+        for(int num : nums) {
+            int greater = num + k;
+            int lesser = num - k;
+            
+            if(visited.contains(greater)) {
+                pairs.add(num + " " + greater);
+            }
+            if(visited.contains(lesser)) {
+                pairs.add(lesser + " " + num);
+            }
+            
+            visited.add(num);
+        }
+        
+        return pairs.size();
+    }
+}
+
+// Problem : https://leetcode.com/problems/k-diff-pairs-in-an-array/
+// @romitdutta10
+// TC : O(nlogn)
+// Solution with O(1) space 
+
+class Solution {
+    public int findPairs(int[] nums, int k) {
+        Arrays.sort(nums);
+        int left=0,right=1;
+        int ans=0;
+        
+        while(left<nums.length && right<nums.length)
+        {
+            if(left==right || nums[right] - nums[left] < k)
+                right++;
+            
+            else if(nums[right] - nums[left] > k)
+                left++;
+            else
+            {
+                left++;
+                ans++;
+                while(left<nums.length && nums[left] == nums[left-1])
+                {
+                    left++;
+                }
+            }
+            
+            
+        }
+        return ans;
+    }
+}
