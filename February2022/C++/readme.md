@@ -11,4 +11,4 @@
 6. [532. K-diff Pairs in an Array] https://leetcode.com/problems/k-diff-pairs-in-an-array/
 7. [Add Digits](/February2022/C++/Add_Digits.cpp)
 8. [560. Subarray Sum Equals K] https://leetcode.com/problems/subarray-sum-equals-k/
-
+9. [567. Permutation in String] https://leetcode.com/problems/permutation-in-string/
