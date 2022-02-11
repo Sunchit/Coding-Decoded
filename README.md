@@ -144,6 +144,7 @@ S.NO| Code Link            | Video Link
 1 |[FindtheDifference](/February2022/Java/FindtheDifference.java)  | <a href="https://www.youtube.com/watch?v=xpuhcOKTWXg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[KdiffPairsinanArray](/February2022/Java/KdiffPairsinanArray.java)  | <a href="https://www.youtube.com/watch?v=V5TYeIGr66A"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[SubarraySumEqualsK](/February2022/Java/SubarraySumEqualsK.java)  | <a href="https://www.youtube.com/watch?v=-0P9julJV8c"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[PermutationInString](/February2022/Java/PermutationInString.java)  | <a href="https://www.youtube.com/watch?v=KflCAUrhgj0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
