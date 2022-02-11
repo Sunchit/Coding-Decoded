@@ -12,3 +12,5 @@
 7. [Add Digits](/February2022/C++/Add_Digits.cpp)
 8. [560. Subarray Sum Equals K] https://leetcode.com/problems/subarray-sum-equals-k/
 9. [567. Permutation in String] https://leetcode.com/problems/permutation-in-string/
+8. [Perumatation String](/February2022/C++/Permutation_String.cpp)
+9. [560. Subarray Sum Equals K] https://leetcode.com/problems/subarray-sum-equals-k/
