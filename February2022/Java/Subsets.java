@@ -23,3 +23,33 @@ class Solution {
 		}
 	}
 }
+
+// Another shorter solution but same approach
+// Author : @romitdutta10
+// Problem : https://leetcode.com/problems/subsets/
+
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        
+        
+        if(nums == null || nums.length == 0)
+            return result;
+
+
+        generateSubSets(nums, nums.length, 0, new ArrayList<>(), result);
+
+        return result;
+    }
+    
+    private static void generateSubSets(int nums[], int n, int index, List<Integer> temp,
+                                       List<List<Integer>> result){
+        result.add(new ArrayList<>(temp));
+
+        for(int i=index;i<n;i++){
+            temp.add(nums[i]);
+            generateSubSets(nums, n, i + 1, temp, result);
+            temp.remove(temp.size() - 1);
+        }
+    }
+}
