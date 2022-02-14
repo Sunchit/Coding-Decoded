@@ -106,6 +106,9 @@ It is a place where peers of the community help each other with their queries, s
 1) [SmallestValueoftheRearrangedNumber](/Contest/SmallestValueoftheRearrangedNumber.java)
 1) [DesignBitset](/Contest/DesignBitset.java)
 1) [MinimumTimetoRemoveAllCarsContainingIllegal](/Contest/MinimumTimetoRemoveAllCarsContainingIllegal.java)
+1) [CountOperationstoObtainZero](/Contest/CountOperationstoObtainZero.java)
+1) [MinimumOperationstoMaketheArrayAlternating](/Contest/MinimumOperationstoMaketheArrayAlternating.java)
+1) [RemovingMinimumNumberofMagicBeans](/Contest/RemovingMinimumNumberofMagicBeans.java)
 
 *************
 
@@ -145,6 +148,7 @@ S.NO| Code Link            | Video Link
 1 |[KdiffPairsinanArray](/February2022/Java/KdiffPairsinanArray.java)  | <a href="https://www.youtube.com/watch?v=V5TYeIGr66A"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[SubarraySumEqualsK](/February2022/Java/SubarraySumEqualsK.java)  | <a href="https://www.youtube.com/watch?v=-0P9julJV8c"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[PermutationInString](/February2022/Java/PermutationInString.java)  | <a href="https://www.youtube.com/watch?v=KflCAUrhgj0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[Subsets](/February2022/Java/Subsets.java)  | <a href="https://www.youtube.com/watch?v=W1YmOnuTGoU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
