@@ -18,3 +18,6 @@
 9. [560. Subarray Sum Equals K] https://leetcode.com/problems/subarray-sum-equals-k/.  
 10.[78. Subsets] https://leetcode.com/problems/subsets/
 11.[136. Single Number] https://leetcode.com/problems/single-number/
+12 [24. Swap Nodes in Pairs] https://leetcode.com/problems/swap-nodes-in-pairs/
+13 [39. Combination Sum]https://leetcode.com/problems/combination-sum/
+14 [402. Remove K Digits] https://leetcode.com/problems/remove-k-digits/
