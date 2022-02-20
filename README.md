@@ -111,6 +111,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [RemovingMinimumNumberofMagicBeans](/Contest/RemovingMinimumNumberofMagicBeans.java)
 1) [MergeNodesinBetweenZeros](/Contest/MergeNodesinBetweenZeros.java)
 1) [CountIntegersWithEvenDigitSum](/Contest/CountIntegersWithEvenDigitSum.java)
+1) [ConstructStringWithRepeatLimit](/Contest/ConstructStringWithRepeatLimit.java)
 
 *************
 
