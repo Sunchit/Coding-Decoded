@@ -151,6 +151,7 @@ S.NO| Code Link            | Video Link
 1 |[Subsets](/February2022/Java/Subsets.java)  | <a href="https://www.youtube.com/watch?v=W1YmOnuTGoU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[CombinationSum](/February2022/Java/CombinationSum.java)  | <a href="https://www.youtube.com/watch?v=NxgNBx11A2s"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[RemoveKDigits](/February2022/Java/RemoveKDigits.java)  | <a href="https://www.youtube.com/watch?v=ZdWqQs7ADhw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[RemoveCoveredIntervals](/February2022/Java/RemoveCoveredIntervals.java)  | <a href="https://www.youtube.com/watch?v=3e2Ul8KRbsw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
