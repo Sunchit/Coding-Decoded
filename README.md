@@ -109,6 +109,8 @@ It is a place where peers of the community help each other with their queries, s
 1) [CountOperationstoObtainZero](/Contest/CountOperationstoObtainZero.java)
 1) [MinimumOperationstoMaketheArrayAlternating](/Contest/MinimumOperationstoMaketheArrayAlternating.java)
 1) [RemovingMinimumNumberofMagicBeans](/Contest/RemovingMinimumNumberofMagicBeans.java)
+1) [MergeNodesinBetweenZeros](/Contest/MergeNodesinBetweenZeros.java)
+1) [CountIntegersWithEvenDigitSum](/Contest/CountIntegersWithEvenDigitSum.java)
 
 *************
 
