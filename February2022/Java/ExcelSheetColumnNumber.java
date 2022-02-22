@@ -41,3 +41,17 @@ class Solution {
     }
 }
 
+// @romitdutta10
+// Problem : https://leetcode.com/problems/excel-sheet-column-number/
+// TC = O(numberOfDigits)
+// SC = O(1)  
+
+class Solution {
+    public int titleToNumber(String columnTitle) {
+        int res=0;
+        for(int i=0;i<columnTitle.length();i++) 
+            res=res*26+(columnTitle.charAt(i)-64);
+       return res; 
+    }
+}
+
