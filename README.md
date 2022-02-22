@@ -102,6 +102,17 @@ It is a place where peers of the community help each other with their queries, s
 1) [KeepMultiplyingFoundValuesbyTwo](/Contest/KeepMultiplyingFoundValuesbyTwo.java)
 1) [FindSubstringWithGivenHashValue](/Contest/FindSubstringWithGivenHashValue.java)
 1) [GroupOfStrings](/Contest/GroupOfStrings.java)
+1) [SortEvenandOddIndicesIndependently](/Contest/SortEvenandOddIndicesIndependently.java)
+1) [SmallestValueoftheRearrangedNumber](/Contest/SmallestValueoftheRearrangedNumber.java)
+1) [DesignBitset](/Contest/DesignBitset.java)
+1) [MinimumTimetoRemoveAllCarsContainingIllegal](/Contest/MinimumTimetoRemoveAllCarsContainingIllegal.java)
+1) [CountOperationstoObtainZero](/Contest/CountOperationstoObtainZero.java)
+1) [MinimumOperationstoMaketheArrayAlternating](/Contest/MinimumOperationstoMaketheArrayAlternating.java)
+1) [RemovingMinimumNumberofMagicBeans](/Contest/RemovingMinimumNumberofMagicBeans.java)
+1) [MergeNodesinBetweenZeros](/Contest/MergeNodesinBetweenZeros.java)
+1) [CountIntegersWithEvenDigitSum](/Contest/CountIntegersWithEvenDigitSum.java)
+1) [ConstructStringWithRepeatLimit](/Contest/ConstructStringWithRepeatLimit.java)
+1) [CountArrayPairsDivisiblebyK](/Contest/CountArrayPairsDivisiblebyK.java)
 
 *************
 
@@ -136,6 +147,16 @@ S.NO| Code Link            | Video Link
 1 |[BestTimetoBuyandSellStock](/February2022/Java/BestTimetoBuyandSellStock.java)  | <a href="https://www.youtube.com/watch?v=-rJGASSpPvY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[FindAllAnagramsinaString](/February2022/Java/FindAllAnagramsinaString.java)  | <a href="https://www.youtube.com/watch?v=WQkdPaMPlYw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[4SUMII](/February2022/Java/4SUMII.java)  | <a href="https://www.youtube.com/watch?v=Gp1Kw_gvBx0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[ContiguousArray](/February2022/Java/ContiguousArray.java)  | <a href="https://www.youtube.com/watch?v=xpuhcOKTWXg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[FindtheDifference](/February2022/Java/FindtheDifference.java)  | <a href="https://www.youtube.com/watch?v=xpuhcOKTWXg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[KdiffPairsinanArray](/February2022/Java/KdiffPairsinanArray.java)  | <a href="https://www.youtube.com/watch?v=V5TYeIGr66A"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[SubarraySumEqualsK](/February2022/Java/SubarraySumEqualsK.java)  | <a href="https://www.youtube.com/watch?v=-0P9julJV8c"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[PermutationInString](/February2022/Java/PermutationInString.java)  | <a href="https://www.youtube.com/watch?v=KflCAUrhgj0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[Subsets](/February2022/Java/Subsets.java)  | <a href="https://www.youtube.com/watch?v=W1YmOnuTGoU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[CombinationSum](/February2022/Java/CombinationSum.java)  | <a href="https://www.youtube.com/watch?v=NxgNBx11A2s"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[RemoveKDigits](/February2022/Java/RemoveKDigits.java)  | <a href="https://www.youtube.com/watch?v=ZdWqQs7ADhw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[RemoveCoveredIntervals](/February2022/Java/RemoveCoveredIntervals.java)  | <a href="https://www.youtube.com/watch?v=3e2Ul8KRbsw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[MajorityElement](/February2022/Java/MajorityElement.java)  | <a href="https://www.youtube.com/watch?v=ABb3A4BelUc"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [January 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)
 
