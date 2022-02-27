@@ -115,6 +115,7 @@ It is a place where peers of the community help each other with their queries, s
 1) [CountArrayPairsDivisiblebyK](/Contest/CountArrayPairsDivisiblebyK.java)
 1) [MinimumNumberofStepstoMakeTwoStringsAnagramII](/Contest/MinimumNumberofStepstoMakeTwoStringsAnagramII.java)
 1) [CountingWordsWithaGivenPrefix](/Contest/CountingWordsWithaGivenPrefix.java)
+1) [MinimumTimetoCompleteTrips](/Contest/MinimumTimetoCompleteTrips.java)
 
 *************
 
