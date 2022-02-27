@@ -113,6 +113,8 @@ It is a place where peers of the community help each other with their queries, s
 1) [CountIntegersWithEvenDigitSum](/Contest/CountIntegersWithEvenDigitSum.java)
 1) [ConstructStringWithRepeatLimit](/Contest/ConstructStringWithRepeatLimit.java)
 1) [CountArrayPairsDivisiblebyK](/Contest/CountArrayPairsDivisiblebyK.java)
+1) [MinimumNumberofStepstoMakeTwoStringsAnagramII](/Contest/MinimumNumberofStepstoMakeTwoStringsAnagramII.java)
+1) [CountingWordsWithaGivenPrefix](/Contest/CountingWordsWithaGivenPrefix.java)
 
 *************
 
