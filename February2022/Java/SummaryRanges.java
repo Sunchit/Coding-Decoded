@@ -69,3 +69,42 @@ class Solution {
         return ans;
     }
 }
+
+// Author : @romitdutta10
+// TC : O(n)
+// SC: O(n)
+// Problem : https://leetcode.com/problems/summary-ranges/
+
+class Solution {
+    public List<String> summaryRanges(int[] nums) {
+        List<String> result = new ArrayList<>();
+        if(nums == null || nums.length == 0)
+            return result;
+
+        int i=0, j=0;
+
+        while(i<nums.length){
+            StringBuilder sb = new StringBuilder();
+            sb.append(nums[i]);
+            j = i+1;
+
+            boolean isRange = false;
+
+            while(j < nums.length){
+                if(nums[j] - nums[i] == 1){
+                    isRange = true;
+                    i++;
+                    j++;
+                } else
+                    break;
+            }
+
+            if(isRange)
+                sb.append("->" + nums[j-1]);
+            result.add(sb.toString());
+            i=j;
+        }
+
+        return result;
+    }
+}
