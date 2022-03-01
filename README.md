@@ -144,6 +144,12 @@ It is a place where peers of the community help each other with their queries, s
 | 16.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
 | 17.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRlTdk0HLywRLq1jX0SxELK)  |
 
+## [March 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSI8OyQVyIOwon_1ULolbOg)
+
+S.NO| Code Link            | Video Link
+:-------------------------:|:-------------------------:|:-------------------------:
+1 |[CountingBits](/March2022/Java/CountingBits.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+
 ## [February 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS2qlM3JnCVkciH4k7op4q-)
 
 S.NO| Code Link            | Video Link
