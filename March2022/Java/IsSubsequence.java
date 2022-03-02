@@ -46,3 +46,59 @@ class Solution {
         return i == s.length();
     }
 }
+
+// Author : @romitdutta10
+// TC : O(len(s + t))
+// SC : O(1)
+// Problem : https://leetcode.com/problems/is-subsequence/
+class Solution {
+    public boolean isSubsequence(String s, String t) {
+        int n = s.length();
+        
+        if(n > t.length()) {
+            return false;
+        }
+        
+        
+        if(s == null || s.length() == 0) {
+            return true;
+        }
+        int index = 0;
+        
+        
+        
+        
+        for(char c : t.toCharArray()) {
+            if(c == s.charAt(index)) {
+                index++;
+                
+                if(index == n) {
+                    return true;
+                }
+            }
+            
+        }
+        
+        return false;
+    }
+}
+
+// Author : @romitdutta10
+// TC : O(len(s + t))
+// SC : O(1)
+// Problem : https://leetcode.com/problems/is-subsequence/
+// Another interesting approach but space and time complexity remains same
+class Solution {
+	public boolean isSubsequence(String s, String t) {
+		for (char ch : s.toCharArray()) {
+			int find = t.indexOf(ch);
+			if (find == -1) {
+				return false;
+			} else {
+				t = t.substring(find + 1);
+			}
+		}
+
+		return true;
+	}
+}
