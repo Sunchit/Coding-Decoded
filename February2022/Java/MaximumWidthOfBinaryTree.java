@@ -1,50 +1,33 @@
-
-
-// @saorav21994
-// TC - O(n)
-// SC - O(depth)
-
-
-
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-
-
 class Solution {
-    
-    List<Integer> nodeids = new ArrayList<Integer>();
-    
-    public int widthOfBinaryTree(TreeNode root) {
-        int [] maxWidth = new int[1];
-        maxWidth[0] = 1;      // only root exists case
-        recursiveBFS(root, 1, maxWidth, 0);
-        return maxWidth[0];
-    }
-    
-    public void recursiveBFS(TreeNode root, int curNodeId, int [] maxWidth, int depth) {
-        if (root == null)
-            return;
-        if (depth == nodeids.size())
-            nodeids.add(curNodeId);
-        else
-            maxWidth[0] = Math.max(maxWidth[0], curNodeId-nodeids.get(depth) + 1);
-        
-        recursiveBFS(root.left, curNodeId*2, maxWidth, depth+1);
-        recursiveBFS(root.right, curNodeId*2+1, maxWidth, depth+1);
-        
-    }
-    
+	public int widthOfBinaryTree(TreeNode root) {
+		if(root==null || (root.left==null &&root.right==null)){
+			return 1;
+		}
+
+		int maxWidth = 0;
+		// <Nodee, Weight>
+		Map<TreeNode, Integer> map = new HashMap<>();
+		map.put(root, 0);
+		Queue<TreeNode> qu = new LinkedList<>();
+		qu.offer(root);
+		while(!qu.isEmpty()){
+			int size = qu.size();
+			int left = map.get(qu.peek());
+			while(size-->0){
+				TreeNode head = qu.poll();
+				maxWidth = Math.max(maxWidth , map.get(head) - left+1);
+				if(head.left!=null){
+					qu.offer(head.left);
+					map.put(head.left, 2*map.get(head) );
+				}
+
+				if(head.right!=null){
+
+					qu.offer(head.right);
+					map.put(head.right, 2*map.get(head)+1 );
+				}
+			}
+		}
+		return maxWidth;
+	}
 }
