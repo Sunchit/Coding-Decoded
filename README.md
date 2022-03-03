@@ -150,6 +150,7 @@ S.NO| Code Link            | Video Link
 :-------------------------:|:-------------------------:|:-------------------------:
 1 |[CountingBits](/March2022/Java/CountingBits.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[IsSubsequence](/March2022/Java/IsSubsequence.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[ArithmeticSlices](/March2022/Java/ArithmeticSlices.java)  | <a href="https://www.youtube.com/watch?v=qRHWAKCOLxM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [February 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS2qlM3JnCVkciH4k7op4q-)
 
