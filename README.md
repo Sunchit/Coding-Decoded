@@ -117,6 +117,11 @@ It is a place where peers of the community help each other with their queries, s
 1) [CountingWordsWithaGivenPrefix](/Contest/CountingWordsWithaGivenPrefix.java)
 1) [MinimumTimetoCompleteTrips](/Contest/MinimumTimetoCompleteTrips.java)
 1) [MinimumTimeToFinishTheRace](/Contest/MinimumTimeToFinishTheRace.java)
+1) [MinimumTimeToFinishTheRace](/Contest/MinimumTimeToFinishTheRace.java)
+1) [CellsinaRangeonanExcelSheet](/Contest/CellsinaRangeonanExcelSheet.java)
+1) [AppendKIntegersWithMinimalSum](/Contest/AppendKIntegersWithMinimalSum.java)
+1) [CreateBinaryTreeFromDescriptions](/Contest/CreateBinaryTreeFromDescriptions.java)
+1) [ReplaceNonCoprimeNumbersinArray](/Contest/ReplaceNonCoprimeNumbersinArray.java)
 
 *************
 
