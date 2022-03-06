@@ -12,7 +12,7 @@ class Solution {
             
             arr[i]=c;
         }
-        
+        Integer.parseInt(s)
         return arr;
     }
 }
