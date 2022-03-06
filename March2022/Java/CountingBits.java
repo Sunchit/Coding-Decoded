@@ -12,7 +12,6 @@ class Solution {
             
             arr[i]=c;
         }
-        
         return arr;
     }
 }
