@@ -15,3 +15,26 @@ class Solution {
         return arr;
     }
 }
+
+// @Coding Decoded
+class Solution {
+
+    // TC : O(n) // SC: O(n)
+    public int[] countBits(int num) {
+        // 0 ..n
+        int[] ans = new int[num + 1];
+        ans[0] = 0;
+
+        for(int i = 1; i <= num; i++){
+            // even in nature
+            if((i %2) == 0){
+                ans[i] = ans[i/2];
+            }else{
+                // i is odd
+                ans[i] = ans[i - 1] + 1;
+            }
+        }
+
+        return ans;
+    }
+}
