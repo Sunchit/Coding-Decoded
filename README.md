@@ -122,6 +122,8 @@ It is a place where peers of the community help each other with their queries, s
 1) [AppendKIntegersWithMinimalSum](/Contest/AppendKIntegersWithMinimalSum.java)
 1) [CreateBinaryTreeFromDescriptions](/Contest/CreateBinaryTreeFromDescriptions.java)
 1) [ReplaceNonCoprimeNumbersinArray](/Contest/ReplaceNonCoprimeNumbersinArray.java)
+1) [FindAllKDistantIndicesinanArray](/Contest/FindAllKDistantIndicesinanArray.java)
+1) [CountArtifactsThatCanBeExtracted](/Contest/CountArtifactsThatCanBeExtracted.java)
 
 *************
 
