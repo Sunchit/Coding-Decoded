@@ -38,3 +38,71 @@ class Solution {
             return res.substring(0, res.length()-1);
     }
 }
+
+// Author: @romitdutta10
+// TC : O(N)
+// SC: O(N)
+// Problem : https://leetcode.com/problems/simplify-path/
+// Solution without using stack
+
+class Solution {
+    public String simplifyPath(String path) {
+        String paths[] = path.split("/");
+        
+        StringBuilder res = new StringBuilder();
+        
+        for(String p : paths) {
+            if(p.length() <= 0 || p.equals(".")) {
+                continue;
+            }
+            if(p.equals("..")) {
+                if(res.length() > 0) {
+                    res.setLength(res.lastIndexOf("/"));
+                }
+            }  else {
+                res.append("/").append(p);
+            }
+            
+        }
+        
+        
+        return res.length() == 0 ? "/" : res.toString();
+    }
+}
+
+// Author: @romitdutta10
+// TC : O(N)
+// SC: O(N)
+// Problem : https://leetcode.com/problems/simplify-path/
+// Solution with using stack
+
+class Solution {
+
+    public String simplifyPath(String path) {
+        Stack<String> st = new Stack<>();
+        String[] pathList = path.split("\\/");
+
+        for(String p : pathList){
+            if(p.length() == 0 || p.equals(".")){
+                continue;
+            } else if(p.equals("..")){
+                if(!st.empty()){
+                    st.pop();
+                }
+            } else {
+                st.push(p);
+            }
+        }
+        StringBuilder ans = new StringBuilder();
+        while(!st.empty()){
+            ans.insert(0, st.pop() + "/");
+        }
+
+        if(ans.length() == 0){
+            return "/";
+        }else{
+            return "/" + ans.substring(0, ans.length() -1);
+        }
+
+    }
+}
