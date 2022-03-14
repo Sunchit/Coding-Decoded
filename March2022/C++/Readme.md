@@ -8,3 +8,4 @@
 4. [Adding Two Number](/March2022/C++/Adding_two_numbers.cpp)
 5. [Rotate List](/March2022/C++/Rotate_List.cpp)
 6. [Copy List with Random Pointer](/March2022/C++/Copy_List_With_Random_Pointer.cpp)
+7. [Simplify Path](/March2022/C++/Simplify_Path.cpp)
