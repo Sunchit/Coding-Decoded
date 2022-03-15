@@ -61,75 +61,14 @@ It is a place where peers of the community help each other with their queries, s
 
 *************
 
-### [Leetcode Contest solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL)
+###  Leetcode Challenges
 
-### <em> Java Solutions </em>
-1) [Tuple with Same Product](/Contest/TupleWithSameProduct.java)
-1) [FindKthXORedCordinate](/Contest/FindKthXORedCordinate.java)
-1) [MinimumElementstoAddtoFormaGivenSum](/Contest/MinimumElementstoAddtoFormaGivenSum.java)
-1) [MaximumAveragePassRatio](/Contest/MaximumAveragePassRatio.java)
-1) [FindtheWinneroftheCircularGame](/Contest/FindtheWinneroftheCircularGame.java)
-1) [CountNodesWiththeHighestScore](/Contest/CountNodesWiththeHighestScore.java)
-1) [FindSubsequenceOfLengthKWithTheLargestSum](/Contest/FindSubsequenceOfLengthKWithTheLargestSum.java)
-1) [FindGoodDaystoRobtheBank](/Contest/FindGoodDaystoRobtheBank.java)
-1) [DetonatetheMaximumBombs](/Contest/DetonatetheMaximumBombs.java)
-1) [SequentiallyOrdinalRankTracker](/Contest/SequentiallyOrdinalRankTracker.java)
-1) [FindFirstPalindromicStringintheArray](/Contest/FindFirstPalindromicStringintheArray.java)
-1) [AddingSpacesToAString](/Contest/AddingSpacesToAString.java)
-1) [NumberofSmoothDescentPeriodsofaStock](/Contest/NumberofSmoothDescentPeriodsofaStock.java)
-1) [MinimumOperationstoMaketheArrayKIncreasing](/Contest/MinimumOperationstoMaketheArrayKIncreasing.java)
-1) [IntervalsBetweenIdenticalElements](/Contest/IntervalsBetweenIdenticalElements.java)
-1) [ExecutionofAllSuffixInstructionsStayinginaGrid](/Contest/ExecutionofAllSuffixInstructionsStayinginaGrid.java)
-1) [ANumberAfteraDoubleReversal](/Contest/ANumberAfteraDoubleReversal.java)
-1) [RecovertheOriginalArray](/Contest/RecovertheOriginalArray.java)
-1) [CheckifAllAsAppearsBeforeAllBs](/Contest/CheckifAllAsAppearsBeforeAllBs.java)
-1) [NumberofLaserBeamsinaBank](/Contest/NumberofLaserBeamsinaBank.java)
-1) [DestroyingAsteroids](/Contest/DestroyingAsteroids.java)
-1) [MaximumEmployeestoBeInvitedtoaMeeting](/Contest/MaximumEmployeestoBeInvitedtoaMeeting.java)
-1) [CheckifEveryRowandColumnContainsAllNumbers](/Contest/CheckifEveryRowandColumnContainsAllNumbers.java)
-1) [MinimumSwapstoGroupAll1sTogetherII](/Contest/MinimumSwapstoGroupAll1sTogetherII.java)
-1) [CountWordsObtainedAfterAddingALetter](/Contest/CountWordsObtainedAfterAddingALetter.java)
-1) [EarliestPossibleDayOfFullBloom](/Contest/EarliestPossibleDayOfFullBloom.java)
-1) [DivideAStringIntoGroupsOfSizek](/Contest/DivideAStringIntoGroupsOfSizek.java)
-1) [MinimumMovesToReachTargetScore](/Contest/MinimumMovesToReachTargetScore.java)
-1) [SolvingQuestionsWithBrainpower](/Contest/SolvingQuestionsWithBrainpower.java)
-1) [MaximumRunningTimeofNComputers](/Contest/MaximumRunningTimeofNComputers.java)
-1) [CountElementsWithStrictlySmallerandGreaterElements](/Contest/CountElementsWithStrictlySmallerandGreaterElements.java)
-1) [RearrangeArrayElementsbySign](/Contest/RearrangeArrayElementsbySign.java)
-1) [FindAllLonelyNumbersInTheArray](/Contest/FindAllLonelyNumbersInTheArray.java)
-1) [MaximumGoodPeopleBasedOnStatements](/Contest/MaximumGoodPeopleBasedOnStatements.java)
-1) [AllDivisionsWiththeHighestScoreofaBinaryArray](/Contest/AllDivisionsWiththeHighestScoreofaBinaryArray.java)
-1) [KeepMultiplyingFoundValuesbyTwo](/Contest/KeepMultiplyingFoundValuesbyTwo.java)
-1) [FindSubstringWithGivenHashValue](/Contest/FindSubstringWithGivenHashValue.java)
-1) [GroupOfStrings](/Contest/GroupOfStrings.java)
-1) [SortEvenandOddIndicesIndependently](/Contest/SortEvenandOddIndicesIndependently.java)
-1) [SmallestValueoftheRearrangedNumber](/Contest/SmallestValueoftheRearrangedNumber.java)
-1) [DesignBitset](/Contest/DesignBitset.java)
-1) [MinimumTimetoRemoveAllCarsContainingIllegal](/Contest/MinimumTimetoRemoveAllCarsContainingIllegal.java)
-1) [CountOperationstoObtainZero](/Contest/CountOperationstoObtainZero.java)
-1) [MinimumOperationstoMaketheArrayAlternating](/Contest/MinimumOperationstoMaketheArrayAlternating.java)
-1) [RemovingMinimumNumberofMagicBeans](/Contest/RemovingMinimumNumberofMagicBeans.java)
-1) [MergeNodesinBetweenZeros](/Contest/MergeNodesinBetweenZeros.java)
-1) [CountIntegersWithEvenDigitSum](/Contest/CountIntegersWithEvenDigitSum.java)
-1) [ConstructStringWithRepeatLimit](/Contest/ConstructStringWithRepeatLimit.java)
-1) [CountArrayPairsDivisiblebyK](/Contest/CountArrayPairsDivisiblebyK.java)
-1) [MinimumNumberofStepstoMakeTwoStringsAnagramII](/Contest/MinimumNumberofStepstoMakeTwoStringsAnagramII.java)
-1) [CountingWordsWithaGivenPrefix](/Contest/CountingWordsWithaGivenPrefix.java)
-1) [MinimumTimetoCompleteTrips](/Contest/MinimumTimetoCompleteTrips.java)
-1) [MinimumTimeToFinishTheRace](/Contest/MinimumTimeToFinishTheRace.java)
-1) [MinimumTimeToFinishTheRace](/Contest/MinimumTimeToFinishTheRace.java)
-1) [CellsinaRangeonanExcelSheet](/Contest/CellsinaRangeonanExcelSheet.java)
-1) [AppendKIntegersWithMinimalSum](/Contest/AppendKIntegersWithMinimalSum.java)
-1) [CreateBinaryTreeFromDescriptions](/Contest/CreateBinaryTreeFromDescriptions.java)
-1) [ReplaceNonCoprimeNumbersinArray](/Contest/ReplaceNonCoprimeNumbersinArray.java)
-1) [FindAllKDistantIndicesinanArray](/Contest/FindAllKDistantIndicesinanArray.java)
-1) [CountArtifactsThatCanBeExtracted](/Contest/CountArtifactsThatCanBeExtracted.java)
-1) [MaximizetheTopmostElementAfterKMoves](/Contest/MaximizetheTopmostElementAfterKMoves.java)
-1) [MinimumWeightedSubgraphWiththeRequiredPaths](/Contest/MinimumWeightedSubgraphWiththeRequiredPaths.java)
+| S No  | Leetcode Weekly Contest Challenges  | Youtube Playlist |  
+| ------------- | :-------------: |  :-------------: |
+| 1.  | Leetcode Weekly Contest  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRwAEYzYkvVTsYHDi2-ffdL)  |
+
 
 *************
-
-###  Leetcode Monthly Challenges 
 
 
 | S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
@@ -154,6 +93,9 @@ It is a place where peers of the community help each other with their queries, s
 | 16.  | [September 2020](https://leetcode.com/explore/featured/card/september-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS_4qlY6KNMz9FzjK420gHc)  | 
 | 17.  | [August 2020](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRlTdk0HLywRLq1jX0SxELK)  |
 
+*************
+
+  
 ## [March 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSI8OyQVyIOwon_1ULolbOg)
 
 S.NO| Code Link            | Video Link
