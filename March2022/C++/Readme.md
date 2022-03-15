@@ -9,3 +9,4 @@
 5. [Rotate List](/March2022/C++/Rotate_List.cpp)
 6. [Copy List with Random Pointer](/March2022/C++/Copy_List_With_Random_Pointer.cpp)
 7. [Simplify Path](/March2022/C++/Simplify_Path.cpp)
+8. [Minimimum Remove To Make Valid Paranthesis](/March2022/C++/Min_Remove_To_Make_Valid_Paranthesis.cpp)
