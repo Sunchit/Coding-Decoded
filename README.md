@@ -21,7 +21,7 @@ It is a one stop solution for all your technical knowledge. Its primary focus is
 * _Deciphering Interviewer's mindset_
 * _Motivational talks_
 
-In the last year we have solved **_450+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges. We also solve leetcode weekly contest questions as well.
+In the last year we have solved **_600+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges. We also solve leetcode weekly contest questions as well.
 
 #### _A picture is worth 1000 words, and a video is worth 100000+ words_
 
@@ -134,6 +134,7 @@ It is a place where peers of the community help each other with their queries, s
 
 | S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
 | ------------- | :-------------: |  :-------------: |
+| 1.  | March 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSI8OyQVyIOwon_1ULolbOg)  |
 | 1.  | February 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS2qlM3JnCVkciH4k7op4q-)  |
 | 1.  | January 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRj95BhBa1_JF1yrYFW9S2C)  |
 | 2.  | December 2021  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRN3LsF0zArurVSz3HQyKZP)  |
@@ -158,11 +159,19 @@ It is a place where peers of the community help each other with their queries, s
 S.NO| Code Link            | Video Link
 :-------------------------:|:-------------------------:|:-------------------------:
 1 |[CountingBits](/March2022/Java/CountingBits.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
-1 |[IsSubsequence](/March2022/Java/IsSubsequence.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[IsSubsequence](/March2022/Java/IsSubsequence.java)  | <a href="https://www.youtube.com/watch?v=QmGQImp6vtMoGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[ArithmeticSlices](/March2022/Java/ArithmeticSlices.java)  | <a href="https://www.youtube.com/watch?v=qRHWAKCOLxM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[ChampagneTower](/March2022/Java/ChampagneTower.java)  | <a href="https://www.youtube.com/watch?v=PbdeSn67Kfs"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
-1 |[DeleteAndEarn](/March2022/Java/DeleteAndEarn.java)  | <a href="https://www.youtube.com/watch?v=UM_FKcU_BNI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
-1 |[CountAllValidPickupAndDeliveryOptions](/March2022/Java/CountAllValidPickupAndDeliveryOptions.java)  | <a href="https://www.youtube.com/watch?v=UM_FKcU_BNI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[DeleteAndEarn](/March2022/Java/DeleteAndEarn.java)  | <a href="https://www.youtube.com/watch?v=fevOTPYq2p8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[CountAllValidPickupAndDeliveryOptions](/March2022/Java/CountAllValidPickupAndDeliveryOptions.java)  | <a href="https://www.youtube.com/watch?v=p1tvA-eQFqk"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[MergeTwoSortedLists](/March2022/Java/MergeTwoSortedLists.java)  | <a href="https://www.youtube.com/watch?v=TOVQiBRlq_s"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[LinkedListCycle](/March2022/Java/LinkedListCycle.java)  | <a href="https://www.youtube.com/watch?v=x961rzsjCTs"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[RemoveDuplicatesfromSortedListII](/March2022/Java/RemoveDuplicatesfromSortedListII.java)  | <a href="https://www.youtube.com/watch?v=OrC64geufjw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[AddTwoNumbers](/March2022/Java/AddTwoNumbers.java)  | <a href="https://www.youtube.com/watch?v=mIQR5CQpivk"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[RotateList](/March2022/Java/RotateList.java)  | <a href="https://www.youtube.com/watch?v=QxevnZTKvXc"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[CopyListWithRandomPointer](/March2022/Java/CopyListWithRandomPointer.java)  | <a href="https://www.youtube.com/watch?v=boklNAqDe50"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[ValidParentheses](/March2022/Java/ValidParentheses.java)  | <a href="https://www.youtube.com/watch?v=hz8zfh7V0AE"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[SimplifyPath](/March2022/Java/SimplifyPath.java)  | <a href="https://www.youtube.com/watch?v=T378Ql3ryig"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [February 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS2qlM3JnCVkciH4k7op4q-)
 
