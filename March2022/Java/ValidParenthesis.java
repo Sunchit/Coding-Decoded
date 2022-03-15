@@ -78,3 +78,60 @@ class Solution {
         return (li.size()==0);
     }
 }
+
+// Author : @romitdutta10
+// TC: O(N)
+// SC: O(N)
+// Problem : https://leetcode.com/problems/valid-parentheses/
+
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        
+        for(char c : s.toCharArray()) {
+            if(c == ')') {
+                if(stack.size() == 0 || stack.peek() != '(') {
+                    return false;
+                }
+                stack.pop();
+            } else if(c == '}') {
+                if(stack.size() == 0 || stack.peek() != '{') {
+                    return false;
+                }
+                stack.pop();
+            } else if(c == ']') {
+                if(stack.size() == 0 || stack.peek() != '[') {
+                    return false;
+                }
+                stack.pop();
+            } else {
+                stack.push(c);
+            }
+        }
+        
+       return stack.isEmpty();
+    }
+}
+
+// Author : @romitdutta10
+// TC: O(N)
+// SC: O(N)
+// Problem : https://leetcode.com/problems/valid-parentheses/
+// Another shorter solution but with similar time and space complexity
+
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<Character>();
+	for (char c : s.toCharArray()) {
+		if (c == '(')
+			stack.push(')');
+		else if (c == '{')
+			stack.push('}');
+		else if (c == '[')
+			stack.push(']');
+		else if (stack.isEmpty() || stack.pop() != c)
+			return false;
+	}
+	return stack.isEmpty();
+    }
+}
