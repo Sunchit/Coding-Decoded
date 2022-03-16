@@ -23,3 +23,33 @@ class Solution {
         return false;
     }
 }
+
+// Author: @romitdutta10
+// TC : O(n)
+// SC : O(n)
+// Problem : https://leetcode.com/problems/validate-stack-sequences/
+
+class Solution {
+    public boolean validateStackSequences(int[] pushed, int[] popped) {
+        
+        
+        int index = 0;
+        int n = popped.length;
+        
+        Stack<Integer> stack = new Stack<>();
+        
+        for(int i=0; i<n; i++) {
+            stack.push(pushed[i]);
+            
+                
+                
+            while(!stack.isEmpty() && index < n && popped[index] == stack.peek() ) {
+                stack.pop();
+                index++;
+            }
+            
+        }
+        
+        return stack.isEmpty();
+    }
+}
