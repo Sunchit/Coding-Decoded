@@ -11,3 +11,4 @@
 7. [Simplify Path](/March2022/C++/Simplify_Path.cpp)
 8. [Minimimum Remove To Make Valid Paranthesis](/March2022/C++/Min_Remove_To_Make_Valid_Paranthesis.cpp)
 9. [Validate Stack Sequences](/March2022/C++/Validate_Stack_Sequences.cpp)
+10. [Score Of Paranthesis](/March2022/C++/Score_Of_Parantesis.cpp)
