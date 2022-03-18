@@ -20,3 +20,38 @@ class Solution {
         return res;
     }
 }
+
+// Author : @romitdutta10
+// TC : O(n)
+// SC : O(n)
+// Problem : https://leetcode.com/problems/score-of-parentheses/
+
+class Solution {
+    public int scoreOfParentheses(String s) {
+        Stack<String> stack = new Stack<>();
+        
+        for(char c : s.toCharArray()) {
+            if(c == ')') {
+                int innerCount = 0;
+                
+                while(!stack.isEmpty() && !stack.peek().equals("(")) {
+                    innerCount += Integer.parseInt(stack.pop());
+                }
+                stack.pop();
+                stack.push(String.valueOf(Math.max(2 * innerCount, 1)));
+                
+            } else {
+                stack.push(String.valueOf(c));
+            }
+        }
+        
+        int res = 0;
+        
+        while(!stack.isEmpty()) {
+            res += Integer.parseInt(stack.pop());
+        }
+        
+        
+        return res;
+    }
+}
