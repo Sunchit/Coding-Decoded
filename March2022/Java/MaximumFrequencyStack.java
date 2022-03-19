@@ -40,3 +40,49 @@ class FreqStack {
  * obj.push(val);
  * int param_2 = obj.pop();
  */
+
+
+// Author: @romitdutta10
+// TC: O(1)
+// SC: O(N)
+// Problem: https://leetcode.com/problems/maximum-frequency-stack/
+
+class FreqStack {
+
+    Map<Integer, Integer> freq;
+    Map<Integer, Stack<Integer>> group;
+    int maxFreq;
+    public FreqStack() {
+        freq = new HashMap<>();
+        group = new HashMap<>();
+        maxFreq = 0;
+    }
+    
+    public void push(int val) {
+        freq.put(val, freq.getOrDefault(val, 0) + 1);
+        int currFreq = freq.get(val);
+        if(!group.containsKey(currFreq)) {
+            group.put(currFreq, new Stack<>());
+        }
+        
+        group.get(currFreq).push(val);
+        maxFreq = Math.max(currFreq, maxFreq);
+    }
+    
+    public int pop() {
+        int ele = group.get(maxFreq).pop();
+        if(group.get(maxFreq).isEmpty()) {
+            maxFreq--;
+        }
+        freq.put(ele, freq.get(ele) - 1);
+        return ele;
+        
+    }
+}
+
+/**
+ * Your FreqStack object will be instantiated and called as such:
+ * FreqStack obj = new FreqStack();
+ * obj.push(val);
+ * int param_2 = obj.pop();
+ */
