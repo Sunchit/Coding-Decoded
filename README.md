@@ -114,6 +114,7 @@ S.NO| Code Link            | Video Link
 1 |[CopyListWithRandomPointer](/March2022/Java/CopyListWithRandomPointer.java)  | <a href="https://www.youtube.com/watch?v=boklNAqDe50"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[ValidParentheses](/March2022/Java/ValidParentheses.java)  | <a href="https://www.youtube.com/watch?v=hz8zfh7V0AE"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 1 |[SimplifyPath](/March2022/Java/SimplifyPath.java)  | <a href="https://www.youtube.com/watch?v=T378Ql3ryig"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[PartitionLabels](/March2022/Java/PartitionLabels.java)  | <a href="https://www.youtube.com/watch?v=X1X_6dJSmq4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 ## [February 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS2qlM3JnCVkciH4k7op4q-)
 
