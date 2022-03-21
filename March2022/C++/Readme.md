@@ -14,3 +14,4 @@
 10. [Score Of Paranthesis](/March2022/C++/Score_Of_Parantesis.cpp)
 11. [Maximum Frequency Stack](/March2022/C++/max_freq_stack.cpp)
 12. [Minimum Domino Rotations For Equal Row](/March2022/C++/Min_Moves_Dominoes.cpp)
+13. [Partition Labels](/March2022/C++/partition_labels.cpp)
