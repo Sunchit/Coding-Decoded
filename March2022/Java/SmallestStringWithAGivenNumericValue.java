@@ -41,3 +41,32 @@ class Solution {
 
 	}
 }
+
+// Author: @romitdutta10
+// TC: O(N)
+// SC: O(N)
+// Problem : https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
+
+
+class Solution {
+    public String getSmallestString(int n, int k) {
+        k = k - n;
+        
+        int zcount = k / 25;
+        int value = k % 25;
+        
+        int count = n-1;
+        
+        char c[] = new char[n];
+        Arrays.fill(c, 'a');
+        
+        while(zcount-- > 0) {
+            c[count--] = 'z';
+        }
+        
+        if(value > 0)
+            c[count--] = (char)('a' + value);
+        
+        return new String(c);
+    }
+}
