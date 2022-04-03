@@ -90,3 +90,90 @@ class Solution {
         
     }
 }
+
+// Author: @romitdutta10
+// TC : O(N)
+// SC: O(1)
+// Problem : https://leetcode.com/problems/next-permutation/
+
+
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int n = nums.length - 1;
+        
+        int first = n;
+        
+        while(first > 0 && nums[first-1] >= nums[first] ) {
+            first--;
+        }
+        
+        
+        
+        if(first == 0) {
+            reverse(nums, 0, n);
+            return;
+        }
+        
+        first--;
+        
+        int second = n;
+        
+        while(first < second && nums[second] <= nums[first]) {
+            second--;
+        }
+        
+        swap(nums, first, second);
+        reverse(nums, first + 1, n);
+        
+    }
+    
+    private void swap(int[] nums, int first, int second) {
+        if(first != second) {
+            int temp = nums[first];
+            nums[first] = nums[second];
+            nums[second] = temp;
+        }
+    }
+    
+    private void reverse(int[] nums, int start, int end) {
+        while(start < end) {
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
+        }
+    }
+}
+
+
+// @saorav21994
+
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int l = nums.length;
+        int flag = -1;
+        
+        for (int i = l-2; i >= 0; i--) {
+            if (nums[i] < nums[i+1]) {
+                flag = i;
+                break;
+            }
+        }
+        if (flag != -1) {
+            int max = Integer.MAX_VALUE;
+            int idx = -1;
+            for (int i = flag+1; i < l; i++) {
+                if (nums[i] > nums[flag] && nums[i] < max) {
+                    max = nums[i];
+                    idx = i;
+                }
+            }
+            
+            int tmp = nums[flag];
+            nums[flag] = nums[idx];
+            nums[idx] = tmp;
+        }
+        Arrays.sort(nums, flag+1, l);
+    }
+}
