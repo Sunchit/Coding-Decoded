@@ -96,6 +96,16 @@ It is a place where peers of the community help each other with their queries, s
 
 *************
 
+
+## [April 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSI8OyQVyIOwon_1ULolbOg)
+
+S.NO| Code Link            | Video Link
+:-------------------------:|:-------------------------:|:-------------------------:
+1 |[CountingBits](/March2022/Java/CountingBits.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+2 |[IsSubsequence](/March2022/Java/IsSubsequence.java)  | <a href="https://www.youtube.com/watch?v=QmGQImp6vtMoGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+
+*************
+
   
 ## [March 2022 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSI8OyQVyIOwon_1ULolbOg)
 
