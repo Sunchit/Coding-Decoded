@@ -145,3 +145,35 @@ class Solution {
         }
     }
 }
+
+
+// @saorav21994
+
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int l = nums.length;
+        int flag = -1;
+        
+        for (int i = l-2; i >= 0; i--) {
+            if (nums[i] < nums[i+1]) {
+                flag = i;
+                break;
+            }
+        }
+        if (flag != -1) {
+            int max = Integer.MAX_VALUE;
+            int idx = -1;
+            for (int i = flag+1; i < l; i++) {
+                if (nums[i] > nums[flag] && nums[i] < max) {
+                    max = nums[i];
+                    idx = i;
+                }
+            }
+            
+            int tmp = nums[flag];
+            nums[flag] = nums[idx];
+            nums[idx] = tmp;
+        }
+        Arrays.sort(nums, flag+1, l);
+    }
+}
