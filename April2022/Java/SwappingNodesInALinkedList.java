@@ -44,3 +44,46 @@ class Solution {
         return head;
     }
 }
+
+// Author: @romitdutta10
+// TC : O(n)
+// SC : O(1)
+// Problem : https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode swapNodes(ListNode head, int k) {
+        ListNode first = null;
+        
+        ListNode slow = head;
+        ListNode fast = head;
+        int count = 1;
+        
+        while(count < k) {
+            fast = fast.next;
+            count++;
+        }
+        
+        first = fast;
+        
+        while(fast.next != null) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+        
+        int temp = first.val;
+        first.val = slow.val;
+        slow.val = temp;
+        
+        return head;
+    }
+}
