@@ -97,3 +97,34 @@ class Solution {
 		return ans;
 	}
 }
+
+
+// TC : O(n)
+// SC : O(n)
+// Problem : https://leetcode.com/problems/baseball-game/
+
+class Solution {
+    public int calPoints(String[] ops) {
+        Stack<Integer> st = new Stack<>();
+        for(String c : ops) {
+            if(c.equals("C")) {
+                st.pop();
+            } else if(c.equals("D")) {
+                st.push(st.peek() * 2);
+            } else if(c.equals("+")) {
+                int t = st.pop() + st.peek();
+                st.push(t - st.peek());
+                st.push(t);
+            } else {
+                st.push(Integer.parseInt(c));
+            }
+        }
+        
+        int sum = 0;
+        while(!st.isEmpty()) {
+            sum += st.pop();
+        }
+        
+        return sum;
+    }
+}
