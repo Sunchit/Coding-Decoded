@@ -149,3 +149,58 @@ class Solution {
 		return activeNeigh;
 	}
 }
+
+// Author: @romitdutta10
+// TC : O(n*m)
+// SC : O(1)
+// PRoblem : https://leetcode.com/problems/game-of-life/
+
+class Solution {
+    int around[][] = new int[][]{{0,1},{0,-1},{1,0},{-1,0},{-1,1},{-1,-1},{1,1},{1,-1}};
+    public void gameOfLife(int[][] board) {
+        // 3 -> earlier alive now dead
+        // 4 => earlier dead, now alive
+        int m = board.length;
+        int n = board[0].length;
+        
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                int alive = returnAliveNeighbours(board, i, j, m, n);
+                if(board[i][j] == 1) {
+                    if(alive < 2 || alive > 3) {
+                        board[i][j] = 3;
+                    } 
+                } else {
+                    if(alive == 3) {
+                        board[i][j] = 4;
+                    }
+                }
+            }
+        }
+        
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
+                if(board[i][j] == 3) {
+                    board[i][j] = 0;
+                } else if(board[i][j] == 4) {
+                    board[i][j] = 1;
+                }
+            }
+        }
+    }
+    
+    private int returnAliveNeighbours(int[][] board, int i, int j, int m, int n) {
+        int count = 0;
+        for(int[] a : around) {
+            int newx = a[0] + i;
+            int newy = a[1] + j;
+            
+            if(newx >= 0 && newx < m && newy >=0 && newy < n && (board[newx][newy] == 1 || board[newx][newy] == 3)) {
+                count++;
+            }
+        }
+        
+        return count;
+    }
+     
+}
