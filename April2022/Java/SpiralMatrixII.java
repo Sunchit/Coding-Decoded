@@ -23,3 +23,51 @@ class Solution {
         return ans;
     }
 }
+
+
+// Author: @romitdutta10
+// TC : O (n^2)
+// SC : O (n^2)
+// Problem : https://leetcode.com/problems/spiral-matrix-ii/
+
+class Solution {
+    public int[][] generateMatrix(int n) {
+        int top = 0;
+        int bottom = n;
+        int right = n;
+        int left = 0;
+        
+        int[][] arr = new int[n][n];
+        
+        int num = 1;
+        while(top < bottom && left < right) {
+            for(int j=left; j< right; j++) {
+                arr[top][j] = num++;
+            }
+            
+            
+            
+            top++;
+            
+            for(int i=top; i<bottom; i++) {
+                arr[i][right-1] = num++;
+            }
+            
+            right--;
+            
+            for(int j=right-1; j>=left; j--) {
+                arr[bottom-1][j] = num++;
+            }
+            
+            bottom--;
+            
+            for(int i=bottom-1; i>=top; i--) {
+                arr[i][left] = num++;
+            }
+            
+            left++;
+        }
+        
+        return arr;
+    }
+}
