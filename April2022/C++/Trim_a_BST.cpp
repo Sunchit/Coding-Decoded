@@ -27,7 +27,6 @@ public:
              return trimBST(root -> left, low, high);
         }
         else{
-            
             TreeNode* l = trimBST(root -> left, low, high);
             TreeNode* r = trimBST(root -> right, low, high);
             
