@@ -7,4 +7,5 @@
 4. [Trim_a_Binary_Search_Tree](/April2022/C++/Trim_a_Binary_Search_Tree.cpp)
 4. [Search in a Binary Search Tree](/April2022/C%2B%2B/Search_in_a_binarySearchTree.cpp)
 5. [Trim a Binary Search Tree](/April2022/C%2B%2B/Trim_a_BST.cpp)
+6. [Convert BST to Greater Tree](/April2022/C%2B%2B/Convert_BST_to_greater_tree.cpp)
 
