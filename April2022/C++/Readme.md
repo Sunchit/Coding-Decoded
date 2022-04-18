@@ -9,5 +9,6 @@
 5. [Trim a Binary Search Tree](/April2022/C%2B%2B/Trim_a_BST.cpp)
 6. [Convert BST to Greater Tree](/April2022/C++/Convert_BST_to_Greater_Tree.cpp)
 6. [Convert BST to Greater Tree](/April2022/C%2B%2B/Convert_BST_to_greater_tree.cpp)
+7.[Kth Smallest In BST](/April2022/C++/Kth_Smallest_In_BST.cpp)
 
 
