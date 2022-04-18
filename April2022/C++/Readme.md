@@ -9,7 +9,7 @@
 5. [Search in a Binary Search Tree](/April2022/C%2B%2B/Search_in_a_binarySearchTree.cpp)
 6. (i)[Convert BST to Greater Tree](/April2022/C++/Convert_BST_to_Greater_Tree.cpp)
    &nbsp;(ii)[Convert BST to Greater Tree](/April2022/C%2B%2B/Convert_BST_to_greater_tree.cpp)
-7. (i)[Kth Smallest In BST](/April2022/C++/Kth_Smallest_In_BST.cpp) &nbsp;(ii)[Kth Smallest In BST](/April2022/C++/kth_smallest_ele_iterative.cpp)
+7. (i)[Kth Smallest In BST](/April2022/C++/Kth_Smallest_In_BST.cpp) &nbsp;(ii)[Kth Smallest In BST (iterative)](/April2022/C++/kth_smallest_ele_iterative.cpp)
 8. [Increasing Order Search Tree](/April2022/C%2B%2B/Increasing_Order_Seach_Tree.cpp)
 9. [Reverse String](/April2022/C%2B%2B/reverse_string.cpp)
 10. [Valid Palindrome II](/April2022/C%2B%2B/valid-palindrome-ii.cpp)
