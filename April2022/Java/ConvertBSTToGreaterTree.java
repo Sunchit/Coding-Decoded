@@ -1,8 +1,32 @@
+// Author: Shobhit Behl (LC: shobhitbruh)
+class Solution {
+    public TreeNode convertBST(TreeNode root) {
+       int v=rec(root,0);
+        return root;
+    }
+    
+    public int rec(TreeNode root,int add){
+        if(root==null){
+            return 0;
+        }
+        int r=rec(root.right,add);
+        if(root.right==null){
+            root.val+=add;
+        }else{
+            root.val+=r;
+        }
+        int l=rec(root.left,root.val);
+        if(root.left!=null){
+            return l;
+        }
+        return root.val;
+    }
+}
 
-// @saorav21994
-// TC : O(n)
-// SC : O(1) -> recursion internal stack
-// reverese inorder parse tree and keep on adding prev sum to current node value
+// Author: @romitdutta10
+// TC: O(n)
+// SC: O(log n)
+// Problem: https://leetcode.com/problems/convert-bst-to-greater-tree/
 
 
 /**
@@ -21,20 +45,18 @@
  * }
  */
 class Solution {
-    
     int sum = 0;
-    
-    public void reverseInorder(TreeNode root) {
-        if (root == null) 
-            return;
-        reverseInorder(root.right);
+    public TreeNode convertBST(TreeNode root) {
+        if(root == null) {
+            return null;
+        }
+        
+        convertBST(root.right);
         sum += root.val;
         root.val = sum;
-        reverseInorder(root.left);
-    }
-    
-    public TreeNode convertBST(TreeNode root) {
-        reverseInorder(root);
+        
+        convertBST(root.left);
         return root;
+        
     }
 }
