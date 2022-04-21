@@ -18,6 +18,7 @@
 13. [Container With Most Water](/April2022/C%2B%2B/conatiner_with_most_water.cpp)
 14. [Recover Binary Search Tree](/April2022/C%2B%2B/recover_BST.cpp)
 15. [Binary Search Tree Iterator](/April2022/C%2B%2B/BST_iterator.cpp)
+16. [Design HashSet](/April2022/C%2B%2B/Design_hashSet.cpp)
 
 
 
