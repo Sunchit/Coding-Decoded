@@ -4,6 +4,7 @@ public:
     vector<bool> v;
     MyHashSet() {
          v.resize(1e6 + 1,false); 
+        // e means "times 10-to-the" so here means 1 times 10 to the power 6 according to constraints given in the question
     }
     
     void add(int key) {
