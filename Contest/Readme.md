@@ -64,4 +64,7 @@
 1) [CountArtifactsThatCanBeExtracted](/Contest/CountArtifactsThatCanBeExtracted.java)
 1) [MaximizetheTopmostElementAfterKMoves](/Contest/MaximizetheTopmostElementAfterKMoves.java)
 1) [MinimumWeightedSubgraphWiththeRequiredPaths](/Contest/MinimumWeightedSubgraphWiththeRequiredPaths.java)
+1) [CountLatticePointsInsideaCircle](/Contest/CountLatticePointsInsideaCircle.java)
+1) [IntersectionofMultipleArrays](/Contest/IntersectionofMultipleArrays.java)
+1) [CountNumberofRectanglesContainingEachPoint](/Contest/CountNumberofRectanglesContainingEachPoint.java)
 
