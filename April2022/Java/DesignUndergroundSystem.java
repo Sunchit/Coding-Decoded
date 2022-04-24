@@ -74,3 +74,75 @@ class UndergroundSystem {
  * obj.checkOut(id,stationName,t);
  * double param_3 = obj.getAverageTime(startStation,endStation);
  */
+
+// Author: @romitdutta10
+// TC: O(1)
+// SC: O(1)
+// Problem: https://leetcode.com/problems/design-underground-system/
+
+class UndergroundSystem {
+
+    Map<Integer, Station> stations;
+    Map<String, Time> averageTimes;
+    public UndergroundSystem() {
+        stations = new HashMap<>();
+        averageTimes = new HashMap<>();
+    }
+    
+    public void checkIn(int id, String stationName, int t) {
+        stations.put(id, new Station(stationName, t));
+    }
+    
+    public void checkOut(int id, String stationName, int t) {
+        Station inPoint = stations.get(id);
+        
+        int travelTime = t - inPoint.time;
+        String key = inPoint.stationName + " " + stationName;
+        
+        
+        Time time = averageTimes.getOrDefault(key, new Time());
+        time.total += travelTime;
+        time.noOfPassegers++;
+        averageTimes.put(key, time);
+    }
+    
+    public double getAverageTime(String startStation, String endStation) {
+        String key = startStation + " " + endStation;
+        Time time = averageTimes.get(key);
+        return time.total * 1.0 / time.noOfPassegers;
+    }
+    
+    class Station {
+        String stationName;
+        int time;
+        
+        Station(String stationName, int time) {
+            this.stationName = stationName;
+            this.time = time;
+        }
+    }
+    
+    class Time {
+        int total;
+        int noOfPassegers;
+        
+        Time() {
+            this.total = 0;
+            this.noOfPassegers = 0;
+        }
+        
+        Time(int total, int noOfPassegers) {
+            this.noOfPassegers = noOfPassegers;
+            this.total = total;
+        }
+        
+    }
+}
+
+/**
+ * Your UndergroundSystem object will be instantiated and called as such:
+ * UndergroundSystem obj = new UndergroundSystem();
+ * obj.checkIn(id,stationName,t);
+ * obj.checkOut(id,stationName,t);
+ * double param_3 = obj.getAverageTime(startStation,endStation);
+ */
