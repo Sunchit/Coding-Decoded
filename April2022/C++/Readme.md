@@ -19,6 +19,8 @@
 14. [Recover Binary Search Tree](/April2022/C%2B%2B/recover_BST.cpp)
 15. [Binary Search Tree Iterator](/April2022/C%2B%2B/BST_iterator.cpp)
 16. [Design HashSet](/April2022/C%2B%2B/Design_hashSet.cpp)
+17. [Design HashMap](/April2022/C%2B%2B/Design_hashMap.cpp)
+18. [Encode and Decode TinyURL](/April2022/C%2B%2B/enocode_decodeTinyURL.cpp)
 
 
 
