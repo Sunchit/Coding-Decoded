@@ -7,6 +7,7 @@ public:
         
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         pq.push({0,0});
+        // here first element of pair is taken as for storing distance because it can save us from writing custom comparing function of our own 
         bool visited[n];
         int ans = 0;
         memset(visited,false,n);
