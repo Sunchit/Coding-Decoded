@@ -22,6 +22,8 @@
 17. [Design HashMap](/April2022/C%2B%2B/Design_hashMap.cpp)
 18. [Encode and Decode TinyURL](/April2022/C%2B%2B/enocode_decodeTinyURL.cpp)
 19. [Peeking Iterator](/April2022/C%2B%2B/peeking_iter.cpp)
+20. [Min Cost to Connect All Points](/April2022/C%2B%2B/min_cost_to_conn.cpp)
+21. [Path With Minimum Effort](/April2022/C%2B%2B/path_w_minEffort.cpp)
 
 
 
