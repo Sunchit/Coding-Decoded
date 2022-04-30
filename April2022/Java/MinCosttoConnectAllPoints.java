@@ -1,39 +1,46 @@
+
+// @saorav21994
+// TC : O(n^2) -> we need to find cost of all possible edges
+// SC : O(n)
+
+// Prim's algorithm for finding minimum spanning tree without using heap to reduce time complexity.
+
 class Solution {
-	// TC : O(n2logn)
-	// SC : O(N)
-	public int minCostConnectPoints(int[][] points) {
-		// prims algorithm similar to dijkstra algo
-		// Min Heap
-		PriorityQueue<int[]> pq = new PriorityQueue<int[]>((a, b) -> (a[2] - b[2]));
-
-		int cost = 0;
-
-		// StartId, EndId, DistanceBetweenStartToEnd
-		pq.offer(new int[] {0, 0, 0});
-
-		Set<Integer> visited = new HashSet<Integer>();
-
-		int num = points.length;
-		while(!pq.isEmpty() && visited.size() < num ) {
-			int[] curr = pq.poll();
-			int endId = curr[1];
-			int currCost = curr[2];
-			if (visited.contains(curr[1])) continue;
-
-
-			cost += currCost;
-			visited.add(endId);
-			for (int i = 0 ; i < num ; i++) {
-				if (!visited.contains(i)) {
-					pq.offer(new int[] {endId, i, distance(points, endId, i)});
-				}
-			}
-		}
-
-		return cost;
-	}
-
-	private int distance(int[][] points, int i, int j) {
-		return Math.abs(points[i][0] - points[j][0]) + Math.abs(points[i][1] - points[j][1]);
-	}
+    public int minCostConnectPoints(int[][] points) {
+        int n = points.length;
+        int minCost = 0;
+        int edges = 0;
+        
+        int [] cost = new int[n];
+        boolean [] visited = new boolean[n];
+        
+        Arrays.fill(cost, Integer.MAX_VALUE);
+        
+        cost[0] = 0;        // starting node
+        
+        for ( ; edges < n; edges++) {
+            int curCost = Integer.MAX_VALUE;
+            int curPoint = -1;
+            
+            for (int i = 0; i < n; i++) {
+                if (!visited[i] && cost[i] < curCost) {
+                    curCost = cost[i];
+                    curPoint = i;
+                }
+            }
+            
+            minCost += curCost;
+            visited[curPoint] = true;
+            
+            for (int i = 0; i < n; i++) {
+                curCost = Math.abs(points[i][0] - points[curPoint][0]) + Math.abs(points[i][1] - points[curPoint][1]);
+                
+                if (!visited[i] && cost[i] > curCost)
+                    cost[i] = curCost;
+            }
+        }
+        
+        return minCost;
+        
+    }
 }
