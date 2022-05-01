@@ -67,4 +67,8 @@
 1) [CountLatticePointsInsideaCircle](/Contest/CountLatticePointsInsideaCircle.java)
 1) [IntersectionofMultipleArrays](/Contest/IntersectionofMultipleArrays.java)
 1) [CountNumberofRectanglesContainingEachPoint](/Contest/CountNumberofRectanglesContainingEachPoint.java)
+1) [TotalAppealofAString](/Contest/TotalAppealofAString.java)
+1) [RemoveDigitFromNumbertoMaximizeResult](/Contest/RemoveDigitFromNumbertoMaximizeResult.java)
+1) [MinimumConsecutiveCardstoPickUp](/Contest/MinimumConsecutiveCardstoPickUp.java)
+1) [KDivisibleElementsSubarrays](/Contest/KDivisibleElementsSubarrays.java)
 
