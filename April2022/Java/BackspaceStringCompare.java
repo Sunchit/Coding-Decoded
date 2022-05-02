@@ -25,3 +25,55 @@ class Solution {
         return st1.equals(st2);
     }
 }
+
+
+// @saorav21994
+// TC : O(n)
+// SC : O(1)
+// Follow up solution with O(1) space 
+
+
+class Solution {
+    public boolean backspaceCompare(String s, String t) {
+        int sl = s.length();
+        int tl = t.length();
+        StringBuffer sb = new StringBuffer("");
+        int back = 0;
+        for (int i = sl-1; i >= 0; i--) {
+            if (s.charAt(i) == '#')
+                back += 1;
+            else {
+                if (back > 0) {
+                    back -= 1;
+                    continue;
+                }
+                sb.insert(0, s.charAt(i));
+            }
+        }
+        
+        back = 0;
+        int j = sb.length();
+        
+        for (int i = tl-1; i >= 0; i--) {
+            if (t.charAt(i) == '#') {
+                back += 1;
+            }
+            else {
+                if (back > 0) {
+                    back -= 1;
+                    continue;
+                }
+                j -= 1;
+                if (j >= 0) {
+                    if (t.charAt(i) != sb.charAt(j))
+                        return false;
+                }
+            }
+        }
+        
+        if (j != 0)
+            return false;
+        
+        return true;
+    } 
+}
