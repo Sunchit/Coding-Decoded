@@ -73,7 +73,7 @@ It is a place where peers of the community help each other with their queries, s
 
 | S No  | Leetcode Monthly Challenge  | Youtube Playlist |  
 | ------------- | :-------------: |  :-------------: |
-| 1.  | May 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRC22Lx3_u4baMaIUXAD67L)  |
+| 1.  | May 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gTBWjMLTv4AFJ6EacOJfnom)  |
 | 2.  | April 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRC22Lx3_u4baMaIUXAD67L)  |
 | 3.  | March 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gSI8OyQVyIOwon_1ULolbOg)  |
 | 4.  | February 2022  |  [Solutions](https://www.youtube.com/playlist?list=PLEI-q7w3s9gS2qlM3JnCVkciH4k7op4q-)  |
@@ -102,7 +102,7 @@ It is a place where peers of the community help each other with their queries, s
 
 S.NO| Code Link            | Video Link
 :-------------------------:|:-------------------------:|:-------------------------:
-1 |[CountingBits](/May2022/BackspaceStringCompare.java)  | <a href="https://www.youtube.com/watch?v=f4uuTt6WfuM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+1 |[CountingBits](/May2022/Java/BackspaceStringCompare.java)  | <a href="https://www.youtube.com/watch?v=f4uuTt6WfuM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 
 *************
@@ -114,7 +114,36 @@ S.NO| Code Link            | Video Link
 :-------------------------:|:-------------------------:|:-------------------------:
 1 |[CountingBits](/April2022/Java/CountingBits.java)  | <a href="https://www.youtube.com/watch?v=uAcxY2w-oGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 2 |[IsSubsequence](/April2022/Java/IsSubsequence.java)  | <a href="https://www.youtube.com/watch?v=QmGQImp6vtMoGI"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
-2 |[BaseballGame](/April2022/Java/BaseballGame.java)  | <a href="https://www.youtube.com/watch?v=c-FNrcrTTnA"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+3 |[BaseballGame](/April2022/Java/BaseballGame.java)  | <a href="https://www.youtube.com/watch?v=c-FNrcrTTnA"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+4 |[BackspaceStringCompare](/April2022/Java/BackspaceStringCompare.java)  | <a href="https://www.youtube.com/watch?v=f4uuTt6WfuM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+5 |[EvaluateDivision](/April2022/Java/EvaluateDivision.java)  | <a href="https://www.youtube.com/watch?v=gPtkIxy9bUo"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+6 |[IsGraphBipartite](/April2022/Java/IsGraphBipartite.java)  | <a href="https://www.youtube.com/watch?v=Kmc0vBcL3G8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+7 |[SmallestStringWithSwaps](/April2022/Java/SmallestStringWithSwaps.java)  | <a href="https://www.youtube.com/watch?v=O3jr8HOpkUU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+8 |[MinCostToConnectAllPoints](/April2022/Java/MinCostToConnectAllPoints.java)  | <a href="https://www.youtube.com/watch?v=K7LqWeA9WSg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+9 |[MinCostToConnectAllPoints](/April2022/Java/MinCostToConnectAllPoints.java)  | <a href="https://www.youtube.com/watch?v=K7LqWeA9WSg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+10 |[MinCostToConnectAllPoints](/April2022/Java/MinCostToConnectAllPoints.java)  | <a href="https://www.youtube.com/watch?v=K7LqWeA9WSg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+11 |[MinCostToConnectAllPoints](/April2022/Java/MinCostToConnectAllPoints.java)  | <a href="https://www.youtube.com/watch?v=K7LqWeA9WSg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+12 |[PeekingIterator](/April2022/Java/PeekingIterator.java)  | <a href="https://www.youtube.com/watch?v=2dMP0mcsRnA"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+13 |[DesignUndergroundSystem](/April2022/Java/DesignUndergroundSystem.java)  | <a href="https://www.youtube.com/watch?v=TJeLYaeZqEs"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+14 |[DesignHashSet](/April2022/Java/DesignHashSet.java)  | <a href="https://www.youtube.com/watch?v=8ctl-axq-aA"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+15 |[DesignHashMap](/April2022/Java/DesignHashMap.java)  | <a href="https://www.youtube.com/watch?v=m0zQrTatDWM"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+16 |[BinarySearchTreeIterator](/April2022/Java/BinarySearchTreeIterator.java)  | <a href="https://www.youtube.com/watch?v=A4ei0aoy-J8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+17 |[RecoverBinarySearchTree](/April2022/Java/RecoverBinarySearchTree.java)  | <a href="https://www.youtube.com/watch?v=VxyAPV9nsCw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+18 |[KthSmallestElementInABST](/April2022/Java/KthSmallestElementInABST.java)  | <a href="https://www.youtube.com/watch?v=_CgsDntYvVA-J8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+19 |[IncreasingOrderSearchTree](/April2022/Java/IncreasingOrderSearchTree.java)  | <a href="https://www.youtube.com/watch?v=WTjpa7GGH0M"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+20 |[TrimABinarySearchTree](/April2022/Java/TrimABinarySearchTree.java)  | <a href="https://www.youtube.com/watch?v=wflyu0QimUg"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+21 |[SearchinaBinarySearchTree](/April2022/Java/SearchInABinarySearchTree.java)  | <a href="https://www.youtube.com/watch?v=bqwZ7UKhfo0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+22 |[ConvertBSTtoGreaterTree](/April2022/Java/ConvertBSTToGreaterTree.java)  | <a href="https://www.youtube.com/watch?v=nJqoSEyttp0"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+23 |[SpiralMatrixII](/April2022/Java/SpiralMatrixII.java)  | <a href="https://www.youtube.com/watch?v=AXfCV7z7pb4"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+24 |[GameofLife](/April2022/Java/GameofLife.java)  | <a href="https://www.youtube.com/watch?v=l2mkUZG6CLU"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+25 |[Shift2DGrid](/April2022/Java/Shift2DGrid.java)  | <a href="https://www.youtube.com/watch?v=7-ytX01i9vA"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+26 |[KthLargestElementinaStream](/April2022/Java/KthLargestElementInAStream.java)  | <a href="https://www.youtube.com/watch?v=eMimpcEaEIo"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+27 |[3SumWithMultiplicity](/April2022/Java/3SumWithMultiplicity.java)  | <a href="https://www.youtube.com/watch?v=eLA3OmxNu58"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+28 |[ContainerWithMostWater](/April2022/Java/ContainerWithMostWater.java)  | <a href="https://www.youtube.com/watch?v=Bi-21L2dooo"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+29 |[SwappingNodesinaLinkedList](/April2022/Java/SwappingNodesInALinkedList.java)  | <a href="https://www.youtube.com/watch?v=Uu5BQSencbY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+30 |[NextPermutation](/April2022/Java/NextPermutation.java)  | <a href="https://www.youtube.com/watch?v=phzNpsbZLOY"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+31 |[ValidPalindromeII](/April2022/Java/ValidPalindromeII.java)  | <a href="https://www.youtube.com/watch?v=mJzhuJstwhw"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
+32 |[ReverseString](/April2022/Java/LastStoneWeight.java)  | <a href="https://www.youtube.com/watch?v=DA9yg_6VYT8"><img alt="Solution" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Video.png" height="20" width="20"></a>
 
 *************
 
