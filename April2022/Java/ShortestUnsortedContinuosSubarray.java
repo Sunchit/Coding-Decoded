@@ -6,23 +6,21 @@ class Solution {
             arr[i]=nums[i];
         }
         Arrays.sort(arr);
-        boolean[] a=new boolean[nums.length];
-        Arrays.fill(a,true);
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]!=nums[i]){
-                a[i]=false;
-            }
-        }
         int st=-1;
         int en=-1;
-        for(int i=0;i<a.length;i++){
-            if(!a[i]){
-                if(st==-1){
-                    st=i;
-                }
-                en=i;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]!=nums[i]){
+                st=i;
+                break;
             }
         }
+        for(int i=arr.length-1;i>=0;i--){
+            if(arr[i]!=nums[i]){
+                en=i;
+                break;
+            }
+        }
+        
         
         if(st==-1&&en==-1){
             return 0;
