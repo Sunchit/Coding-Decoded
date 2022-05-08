@@ -8,3 +8,4 @@
 5. [225. Implement Stack using Queues](/May2022/C%2B%2B/225.md)  (ii) [225. Implement Stack using Queues](/May2022/C++/Implementing_stack_using_queues.cpp)
 6. [1209. Remove All Adjacent Duplicates in String II](/May2022/C%2B%2B/1209.md)
 7. [456. 132 Pattern](/May2022/C%2B%2B/456.md)
+8. [341. Flatten Nested List Iterator](/May2022/C%2B%2B/341.md)
