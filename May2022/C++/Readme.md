@@ -11,5 +11,5 @@
 8. [341. Flatten Nested List Iterator](/May2022/C%2B%2B/341.md)
 9. [17. Letter Combinations of a Phone Number](/May2022/C%2B%2B/17.md)
 10. [216. Combination Sum III](/May2022/C%2B%2B/216.md)
-10. [1641. Count Sorted Vowel Strings](/May2022/C++/Count_Sorted_Vowel_Strings.cpp)
+11. (i) [1641. Count Sorted Vowel Strings](/May2022/C++/Count_Sorted_Vowel_Strings.cpp)  (ii) [1641. Count Sorted Vowel Strings](/May2022/C%2B%2B/1641.md)
 
