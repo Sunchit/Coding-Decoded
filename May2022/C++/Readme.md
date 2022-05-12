@@ -12,4 +12,5 @@
 9. [17. Letter Combinations of a Phone Number](/May2022/C%2B%2B/17.md)
 10. [216. Combination Sum III](/May2022/C%2B%2B/216.md)
 11. (i) [1641. Count Sorted Vowel Strings](/May2022/C++/Count_Sorted_Vowel_Strings.cpp)  (ii) [1641. Count Sorted Vowel Strings](/May2022/C%2B%2B/1641.md)
+12. [47. Permutations II](/May2022/C%2B%2B/47.md)
 
