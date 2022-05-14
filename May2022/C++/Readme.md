@@ -13,6 +13,6 @@
 10. [216. Combination Sum III](/May2022/C%2B%2B/216.md)
 11. (i) [1641. Count Sorted Vowel Strings](/May2022/C++/Count_Sorted_Vowel_Strings.cpp)  (ii) [1641. Count Sorted Vowel Strings](/May2022/C%2B%2B/1641.md)
 12. [47. Permutations II](/May2022/C%2B%2B/47.md)
-13. [117. Populating Next Right Pointers in Each Node II
-](/May2022/C++/Populatin_Next_Right_pointers_in_each_Node.cpp)
+13. [117. Populating Next Right Pointers in Each Node II](/May2022/C++/Populatin_Next_Right_pointers_in_each_Node.cpp)
+14. [743. Network Delay Time](/May2022/C%2B%2B/nw_Delay_time.cpp)
 
