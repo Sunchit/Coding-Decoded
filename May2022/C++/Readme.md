@@ -15,3 +15,5 @@
 12. [47. Permutations II](/May2022/C%2B%2B/47.md)
 13. [117. Populating Next Right Pointers in Each Node II](/May2022/C%2B%2B/117.md)
 14. [743. Network Delay Time](/May2022/C%2B%2B/743.md)
+13. [117. Populating Next Right Pointers in Each Node II](/May2022/C++/Populatin_Next_Right_pointers_in_each_Node.cpp)
+
