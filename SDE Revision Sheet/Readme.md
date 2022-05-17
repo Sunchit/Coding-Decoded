@@ -7,5 +7,6 @@
 * [Graphs](https://bit.ly/3sfp8H4)
 * [Binary Search - Regular/Range Based/TreeSet](https://bit.ly/3sfp8H4)
 * [Backtracking](https://bit.ly/3FCzMwQ)
+* [BitManipulation](https://bit.ly/3LkVNSe)
 
 
