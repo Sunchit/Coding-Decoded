@@ -1,48 +1,40 @@
-
-// @saorav21994
-// TC : O(log <base 62> (number of test cases))
-// SC : O(n)
-
-// This question is more focussed on system design.
-
+// Author: Shobhit Behl (LC: shobhitbruh)
 public class Codec {
-    
-    String baseString = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-    char [] base = baseString.toCharArray();
-    Map<String, Integer> shortMap = new HashMap<>();
-    Map<Integer, String> longMap = new HashMap<>();
-    static int id = 0;
-    final int MAX = 62;
-    
+
     // Encodes a URL to a shortened URL.
+
+    /*
+    
+    Here i have decoded the string by taking the int value of its each character 
+    and by adding '.' in front of it.
+
+    For e.g in string = "add" the encoded string would be "97.100.100."
+    
+    
+    */
+
     public String encode(String longUrl) {
-        
-        id += 1;
-        int copy = id;
-        StringBuffer buffer = new StringBuffer();
-        while (copy > 0) {
-            buffer.append(base[copy%MAX]);
-            copy /= MAX;
+        char[] l=longUrl.toCharArray();
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<l.length;i++){
+            int k=(int)l[i];
+            sb.append(k);
+            sb.append('.');
         }
-        String shortUrl = buffer.reverse().toString();
-        shortMap.put(shortUrl, id);
-        longMap.put(id, longUrl);
-        return shortUrl;
+        return sb.toString();
         
     }
 
     // Decodes a shortened URL to its original URL.
     public String decode(String shortUrl) {
-     
-        int id = shortMap.getOrDefault(shortUrl, 0);
-        if (id == 0)
-            return "";
+        String[] y=shortUrl.split("\\.");
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<y.length;i++){
+            int k=Integer.parseInt(y[i]);
+            char p=(char)k;
+            sb.append(p);
+        }
         
-        return longMap.getOrDefault(id, "");
-        
+        return sb.toString();
     }
 }
-
-// Your Codec object will be instantiated and called as such:
-// Codec codec = new Codec();
-// codec.decode(codec.encode(url));

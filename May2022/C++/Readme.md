@@ -13,9 +13,13 @@
 10. [216. Combination Sum III](/May2022/C%2B%2B/216.md)
 11. (i) [1641. Count Sorted Vowel Strings](/May2022/C++/Count_Sorted_Vowel_Strings.cpp)  (ii) [1641. Count Sorted Vowel Strings](/May2022/C%2B%2B/1641.md)
 12. [47. Permutations II](/May2022/C%2B%2B/47.md)
+13. [117. Populating Next Right Pointers in Each Node II](/May2022/C++/Populatin_Next_Right_pointers_in_each_Node.cpp)
+14. [743. Network Delay Time](/May2022/C%2B%2B/nw_Delay_time.cpp)
 13. (i) [117. Populating Next Right Pointers in Each Node II](/May2022/C%2B%2B/117.md)  (ii) [117. Populating Next Right Pointers in Each Node II](/May2022/C++/Populatin_Next_Right_pointers_in_each_Node.cpp)
 14. [743. Network Delay Time](/May2022/C%2B%2B/743.md)
 15. [1302. Deepest Leaves Sum](/May2022/C%2B%2B/1302.md)
 16. [1091. Shortest Path in Binary Matrix](/May2022/C%2B%2B/1091.md)
 17. [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/May2022/C%2B%2B/1379.md)
 18. [1192. Critical Connections in a Network](/May2022/C%2B%2B/1192.md)
+
+
