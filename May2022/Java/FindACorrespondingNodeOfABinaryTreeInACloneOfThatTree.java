@@ -1,10 +1,4 @@
-
-// @saorav21994
-// TC : O(n)
-// SC : O(n)
-// Simply searched in cloned tree because unique value, otherwise compare node and keep both cloned and original in queue. Can be done in inorder also.
-
-/**
+// Author: Shobhit Behl (LC: shobhitbruh)/**
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
@@ -16,23 +10,38 @@
 
 class Solution {
     public final TreeNode getTargetCopy(final TreeNode original, final TreeNode cloned, final TreeNode target) {
-        Queue <TreeNode> q = new LinkedList<TreeNode> ();
-        q.add(cloned);
-        while (q.isEmpty() == false) {
-            TreeNode node = q.poll();
-            if (node != null) {
-                if (node.val == target.val) {
-                    // System.out.println("match");
-                    return node;
-                }
-                if (node.left != null) {
-                    q.add(node.left);
-                }
-                if (node.right != null) {
-                    q.add(node.right);
-                }
+        
+        ArrayList<Character> al=new ArrayList<>();
+        ArrayList<Character> a=dfs(original,target,al);
+        int i=0;
+        TreeNode n=cloned;
+        while(i<a.size()){
+            if(a.get(i)=='L'){
+                n=n.left;
+            }else{
+                n=n.right;
             }
+            i++;
         }
-        return target;
+        return n;
+    }
+    
+    public ArrayList<Character> dfs(TreeNode node,TreeNode t,ArrayList<Character> al){
+        if(node==null){
+            return new ArrayList<>();
+        }
+        if(node==t){
+            return new ArrayList<>(al);
+        }
+        al.add('L');
+        ArrayList<Character> l=dfs(node.left,t,al);
+        al.remove(al.size()-1);
+        al.add('R');
+        ArrayList<Character> r=dfs(node.right,t,al);
+        al.remove(al.size()-1);
+        if(l.size()>0){
+            return l;
+        }
+        return r;
     }
 }
