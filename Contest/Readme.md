@@ -71,4 +71,5 @@
 1) [RemoveDigitFromNumbertoMaximizeResult](/Contest/RemoveDigitFromNumbertoMaximizeResult.java)
 1) [MinimumConsecutiveCardstoPickUp](/Contest/MinimumConsecutiveCardstoPickUp.java)
 1) [KDivisibleElementsSubarrays](/Contest/KDivisibleElementsSubarrays.java)
+1) [SumofTotalStrengthofWizards](/Contest/SumofTotalStrengthofWizards.java)
 
