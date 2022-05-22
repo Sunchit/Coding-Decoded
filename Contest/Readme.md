@@ -72,4 +72,5 @@
 1) [MinimumConsecutiveCardstoPickUp](/Contest/MinimumConsecutiveCardstoPickUp.java)
 1) [KDivisibleElementsSubarrays](/Contest/KDivisibleElementsSubarrays.java)
 1) [SumofTotalStrengthofWizards](/Contest/SumofTotalStrengthofWizards.java)
+1) [SumofTotalStrengthofWizards](/Contest/Minimum)
 
