@@ -26,3 +26,5 @@
 21. [322. Coin Change](/May2022/C%2B%2B/322.md)
 22. [647. Palindromic Substrings](/May2022/C%2B%2B/647.md)
 23. [474. Ones and Zeroes](/May2022/C%2B%2B/474.md)
+24. [32. Longest Valid Parentheses](/May2022/C%2B%2B/32.md)
+25. [354. Russian Doll Envelopes](/May2022/C%2B%2B/354.md)
