@@ -28,3 +28,4 @@
 23. [474. Ones and Zeroes](/May2022/C%2B%2B/474.md)
 24. [32. Longest Valid Parentheses](/May2022/C%2B%2B/32.md)
 25. [354. Russian Doll Envelopes](/May2022/C%2B%2B/354.md)
+26. [191. Number of 1 Bits](/May2022/C%2B%2B/191.md)
