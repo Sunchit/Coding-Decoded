@@ -8,6 +8,7 @@
 * [Binary Search - Regular/Range Based/TreeSet](https://bit.ly/3kUsiMa)
 * [Backtracking](https://bit.ly/3FCzMwQ)
 * [BitManipulation](https://bit.ly/3LkVNSe)
+* [Stacks & Monotonic Stacks](https://bit.ly/38tm0Ri)
 * [Sliding Window](https://docs.google.com/spreadsheets/d/1Wv4gURdLxLizj9M_YFpYI6wQ_rHhhCrqgSqP18hAdHY/edit#gid=0)
 
 
