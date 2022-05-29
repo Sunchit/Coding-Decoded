@@ -17,7 +17,7 @@ class Solution {
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> (a[2] - b[2]));
         // X, Y, Distance
-        pq.offer(new int[]{dist[0][0], 0,  0});
+        pq.offer(new int[]{ 0,  0, dist[0][0]});
 
         while (!pq.isEmpty()) {
 
