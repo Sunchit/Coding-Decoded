@@ -29,3 +29,6 @@
 24. [32. Longest Valid Parentheses](/May2022/C%2B%2B/32.md)
 25. [354. Russian Doll Envelopes](/May2022/C%2B%2B/354.md)
 26. [191. Number of 1 Bits](/May2022/C%2B%2B/191.md)
+27. [1342. Number of Steps to Reduce a Number to Zero](/May2022/C%2B%2B/1342.md)
+28. [268. Missing Number](/May2022/C%2B%2B/268.md)
+29. [318. Maximum Product of Word Lengths](/May2022/C%2B%2B/318.md)
