@@ -72,5 +72,10 @@
 1) [MinimumConsecutiveCardstoPickUp](/Contest/MinimumConsecutiveCardstoPickUp.java)
 1) [KDivisibleElementsSubarrays](/Contest/KDivisibleElementsSubarrays.java)
 1) [SumofTotalStrengthofWizards](/Contest/SumofTotalStrengthofWizards.java)
-1) [SumofTotalStrengthofWizards](/Contest/Minimum)
+1) [SumofTotalStrengthofWizards](/Contest/SumofTotalStrengthofWizards.java)
+1) [MinimumObstacleRemovaltoReachCorner](/Contest/MinimumObstacleRemovaltoReachCorner.java)
+1) [ApplyDiscounttoPrices](/Contest/ApplyDiscounttoPrices.java)
+1) [StepstoMakeArrayNondecreasing](/Contest/StepstoMakeArrayNondecreasing.java)
+1) [RearrangeCharacterstoMakeTargetString](/Contest/RearrangeCharacterstoMakeTargetString.java)
+
 
