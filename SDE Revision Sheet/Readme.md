@@ -5,6 +5,7 @@
 * [Must Do: Dynamic Programming](https://bit.ly/38HgY3E)
   * [For More Practise: Dynamic Programming](https://docs.google.com/spreadsheets/d/1X5xHvc9p00uixMrqgCUMox5YRGTDOrNWQSmG7CRMsjU/edit#gid=0)
 * [Graphs](https://bit.ly/3sfp8H4)
+* [Trie](https://bit.ly/392YOJH)
 * [Binary Search - Regular/Range Based/TreeSet](https://bit.ly/3kUsiMa)
 * [Backtracking](https://bit.ly/3FCzMwQ)
 * [BitManipulation](https://bit.ly/3LkVNSe)
