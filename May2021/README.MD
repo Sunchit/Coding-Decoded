@@ -3,7 +3,7 @@
 ### Java Solutions
 1) [PrefixAndSuffixSearch](/May2021/PrefixAndSuffixSearch.java)
 2) [CourseScheduleIII](/May2021/CourseScheduleIII.java)
-3) [RunningSumof1dArray](/May2021/RunningSumof1dArray.java)
+3) [RunningSumof1dArray](/June2022/Java/RunningSumof1dArray.java)
 4) [Non-decreasingArray](/May2021/Non-decreasingArray.java)
 5) [JumpGameII](/May2021/JumpGameII.java)
 6) [ConvertSortedListToBST](/May2021/ConvertSortedListToBST.java)
