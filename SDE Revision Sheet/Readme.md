@@ -1,4 +1,4 @@
-## Coding Decoded Data structures and algorithm preparation sheet 
+## Coding Decoded Data structures and Algorithm preparation sheet 
 
 ### Topic wise distribution
 
