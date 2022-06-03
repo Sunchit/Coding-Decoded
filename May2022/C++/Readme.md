@@ -32,3 +32,5 @@
 27. [1342. Number of Steps to Reduce a Number to Zero](/May2022/C%2B%2B/1342.md)
 28. [268. Missing Number](/May2022/C%2B%2B/268.md)
 29. [318. Maximum Product of Word Lengths](/May2022/C%2B%2B/318.md)
+30. [29. Divide Two Integers](/May2022/C%2B%2B/29.md)
+31. [1461. Check If a String Contains All Binary Codes of Size K](/May2022/C%2B%2B/1461.md)
