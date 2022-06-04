@@ -12,5 +12,6 @@
 * [Stacks & Monotonic Stacks](https://bit.ly/38tm0Ri)
 * [Sliding Window](https://docs.google.com/spreadsheets/d/1Wv4gURdLxLizj9M_YFpYI6wQ_rHhhCrqgSqP18hAdHY/edit#gid=0)
 * [Matix](https://bit.ly/3MchVib)
+* [Heaps/PrioirtyQueues](https://bit.ly/3GQqBK7)
 
 
