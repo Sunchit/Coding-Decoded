@@ -41,9 +41,9 @@ class Solution {
         long count =1; // quotient
         long sum = ldivisor; // comparable dividend
 
-        while((2*sum) <= lDividend){
-            sum = 2*sum;
-            count = 2*count;
+        while((sum+sum) <= lDividend){
+            sum = sum+sum;
+            count = count+count;
         }
         return count + longDivide(lDividend- sum, ldivisor);
     }
