@@ -79,7 +79,7 @@
 1) [RearrangeCharacterstoMakeTargetString](/Contest/RearrangeCharacterstoMakeTargetString.java)
 1) [DesignaTextEditor](/Contest/DesignaTextEditor.java)
 1) [ReplaceElementsinanArray](/Contest/ReplaceElementsinanArray.java)
-1) [MinMaxGame](/Contest/MinMaxGame.java)
+1) [PartitionArraySuchThatMaximumDifferenceIsK](/Contest/PartitionArraySuchThatMaximumDifferenceIsK.java)
 1) [MinMaxGame](/Contest/MinMaxGame.java)
 
 
