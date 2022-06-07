@@ -8,3 +8,4 @@
 4. [N-Queens](/June2022/C%2B%2B/4.md) 
 5. [N-Queens II](/June2022/C%2B%2B/5.md) 
 6. [Intersection of Two Linked Lists](/June2022/C%2B%2B/6.md) 
+7. [Merge Sorted Array](/June2022/C%2B%2B/7.md) 
