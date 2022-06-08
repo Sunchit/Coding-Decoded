@@ -9,3 +9,4 @@
 5. [N-Queens II](/June2022/C%2B%2B/5.md) 
 6. [Intersection of Two Linked Lists](/June2022/C%2B%2B/6.md) 
 7. [Merge Sorted Array](/June2022/C%2B%2B/7.md) 
+8. [Remove Palindromic Subsequences](/June2022/C%2B%2B/8.md) 
