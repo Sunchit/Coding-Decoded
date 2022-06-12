@@ -12,3 +12,4 @@
 8. [Remove Palindromic Subsequences](/June2022/C%2B%2B/8.md) 
 9. [Two Sum II - Input array is sorted](/June2022/C%2B%2B/9.md) 
 10. [Longest Substring Without Repeating Characters](/June2022/C%2B%2B/10.md) 
+11. [Minimum Operations to Reduce X to Zero](/June2022/C%2B%2B/11.md) 
