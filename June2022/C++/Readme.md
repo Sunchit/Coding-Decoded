@@ -14,3 +14,4 @@
 10. [Longest Substring Without Repeating Characters](/June2022/C%2B%2B/10.md) 
 11. [Minimum Operations to Reduce X to Zero](/June2022/C%2B%2B/11.md) 
 12. [Maximum Erasure Value](/June2022/C%2B%2B/12.md) 
+13. [Triangle](/June2022/C%2B%2B/13.md) 
