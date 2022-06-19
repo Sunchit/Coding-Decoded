@@ -13,7 +13,7 @@
 * [Two Pointer](https://bit.ly/3trJCwX)
 * [Sliding Window](https://docs.google.com/spreadsheets/d/1Wv4gURdLxLizj9M_YFpYI6wQ_rHhhCrqgSqP18hAdHY/edit#gid=0)
 * [Heaps/PrioirtyQueues](https://bit.ly/3GQqBK7)
-* [Matix](https://bit.ly/3MchVib)
+* [Matrix](https://bit.ly/3MchVib)
 * [Maps/Sets](https://bit.ly/3xfBemu)
 
 
