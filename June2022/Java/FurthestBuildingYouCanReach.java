@@ -27,3 +27,37 @@ class Solution {
         return heights.length - 1;
     }
 }
+
+
+
+// @saorav21994
+
+class Solution {
+    public int furthestBuilding(int[] heights, int bricks, int ladders) {
+        PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder()); // max heap
+        int i = 0;
+        for (; i < heights.length-1; i++) {
+            int d = heights[i+1]-heights[i];
+            if (d <= 0) continue;       // next building is smaller
+            else if (bricks >= d) {
+                bricks -= d;
+                pq.add(d);
+            }
+            else if (ladders > 0) {
+                if (pq.isEmpty() == false) {
+                    int max = pq.peek();
+                    if (max > d) {
+                        pq.poll();  // remove top(max) element
+                        bricks += max;
+                        pq.add(d);
+                        bricks -= d;
+                    }
+                    ladders -= 1;
+                }
+            }
+            else
+                break;
+        }
+        return i;
+    }
+}
