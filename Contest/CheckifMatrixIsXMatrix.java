@@ -1,5 +1,6 @@
 class Solution {
 	// TC : O(n2)
+
 	public boolean checkXMatrix(int[][] grid) {
 
 		int n = grid.length;
