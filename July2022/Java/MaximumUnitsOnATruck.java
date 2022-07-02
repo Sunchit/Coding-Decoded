@@ -1,20 +1,23 @@
-
-// @saorav21994
-// TC : O(nlogn)
-// SC : O(1)
-
 class Solution {
+
+    // TC : O(nlogn)
+    // SC : O(1)
     public int maximumUnits(int[][] boxTypes, int truckSize) {
-        
-        Arrays.sort(boxTypes, (a,b) -> (b[1] - a[1]));
-        
-        int i = 0, sum = 0;
-        while (truckSize > 0 && i < boxTypes.length) {
-            sum += (Math.min(truckSize, boxTypes[i][0]) * boxTypes[i][1]);
-            truckSize -= boxTypes[i][0];
-            i += 1;
+        // Sort on the basis of unit in the box in decreasing order
+        Arrays.sort(boxTypes, (a, b) -> b[1] - a[1]);
+        int maxUnitOfboxes = 0;
+        for (int[] box : boxTypes) {
+            int noOfBoxes = box[0];
+            int noOfUnits= box[1];
+
+            if (truckSize >= noOfBoxes) {
+                maxUnitOfboxes += noOfBoxes * noOfUnits;
+                truckSize -= noOfBoxes;
+            }else {
+                maxUnitOfboxes += truckSize * noOfUnits;
+                return maxUnitOfboxes;
+            }
         }
-        return sum;
-        
+        return maxUnitOfboxes;
     }
-}
+} 
