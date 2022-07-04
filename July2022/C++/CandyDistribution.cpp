@@ -16,7 +16,7 @@ public:
         {
             if(nums[i] > nums[i+1])
                 candies[i] = max(candies[i], candies[i+1] + 1); 
-                //if candies[i] is already max than candies[i]+1 
+                //if candies[i] is already max than candies[i+1]+1 
         }
         
        return accumulate(candies.begin(), candies.end(), 0); 
