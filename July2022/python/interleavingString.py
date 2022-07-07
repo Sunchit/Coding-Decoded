@@ -1,6 +1,12 @@
 @Jiganesh 
 
+# https://leetcode.com/problems/interleaving-string/
+
 class Solution:
+    
+    # Runtime: 43 ms, faster than 91.15% of Python3 online submissions for Interleaving String.
+    # Memory Usage: 15.1 MB, less than 24.82% of Python3 online submissions for Interleaving String.
+    
 
     # TC : O(N+M)
     # SC : O(N) 
