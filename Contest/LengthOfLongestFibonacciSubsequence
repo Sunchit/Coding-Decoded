@@ -1,0 +1,65 @@
+// https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+// @author: anuj0503
+class Solution {
+    int result = 0;
+    public int lenLongestFibSubseq(int[] arr) {
+        result = 0;
+        // map to store index of the array element.
+        Map<Integer, Integer> map = new HashMap<>();
+        int n = arr.length;
+        int[][] dp = new int[n][n];
+        boolean[] visited = new boolean[n];
+        
+        for(int i = 0; i < n; i++){
+            Arrays.fill(dp[i], -1);
+            map.put(arr[i], i);
+        }
+        
+        // index i denotes first number we are considering to form fib like sequence.
+        for(int i = 0; i < n; i++){
+            // index j denoted second number we considering to form fib like sequence.
+            for(int j = i + 1; j < n; j++){
+                getMaximum(i, j, dp, arr, map, visited);
+            }
+        }
+        
+        if(result == 0)
+            return 0;
+        
+        return result + 2;
+    }
+    
+    // Function returns the maximum size subsequence that can be form using element at index first and second.
+    private int getMaximum(int first, int second, int[][] dp, int[] arr, Map<Integer, Integer> map, boolean[] visited){
+        if(dp[first][second] != -1)
+            return dp[first][second];
+        
+        visited[first] = true;
+        visited[second] = true;
+        
+        // Checking if any sequence already exist where first element is second and second element is third
+        int previousNum = arr[second] - arr[first];
+        int previousCount = 0;
+        
+        if(previousNum < arr[first] && map.get(previousNum) != null && !visited[map.get(previousNum)]){
+            previousCount = getMaximum(map.get(previousNum), first, dp, arr, map, visited);
+        }
+        
+        // Checking if any sequence exist where second element is first and sum of element (first and second) is third.
+        int nextNum = arr[second] + arr[first];
+        int nextCount = 0;
+        
+        if(map.get(nextNum) != null){
+            nextCount = getMaximum(second, map.get(nextNum), dp, arr, map, visited) + 1;
+        }
+        
+        visited[first] = false;
+        visited[second] = false;
+        
+        dp[first][second] = previousCount + nextCount;
+        
+        result = Math.max(result, dp[first][second]);
+        
+        return dp[first][second];
+    }
+}
