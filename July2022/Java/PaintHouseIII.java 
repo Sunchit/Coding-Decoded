@@ -43,4 +43,4 @@ class Solution {
          dp[i][target][lastColor] = ans;
         return ans;
     }
-} 
+}
