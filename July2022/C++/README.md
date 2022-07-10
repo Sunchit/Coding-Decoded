@@ -9,3 +9,4 @@
 7. [Interleaving String - Day 7](/July2022/C++/interleavingString.cpp)
 8. [Paint House 3 - Day 8](/July2022/C++/paintHouse3.cpp)
 9. [Jump game 6 - Day 9](/July2022/C++/jumpGame6.cpp)
+10. [Min Cost Climbing Stairs- Day 10](/July2022/C++/minCostClimbingStairs.cpp)
