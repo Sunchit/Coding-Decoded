@@ -1,4 +1,9 @@
 ## Python++ Solutions for July 2022 leetcode challenge
 
+Day 7 - Interleaving Strings
+
+Day 11 - Binary Tree Right Side View
 
 Day 14 - Construct Binary Tree from Preorder and Inorder Traversal
+
+Day 15 - Max Area of Island
