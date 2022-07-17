@@ -1,3 +1,21 @@
+class Solution {
+    // TC : O(nums)
+    // SC : O(1)
+    public int[] numberOfPairs(int[] nums) {
+        int[] freq = new int[101];
+        for(int el: nums){
+            freq[el]++;
+        }
+        int pairs = 0;
+        int singles = 0;
+        for(int fq : freq){
+            pairs += fq/2;
+            singles += fq%2 ;
+        }
+        return new int[] {pairs, singles};
+    }
+}
+
 // https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 // @author: anuj0503
 class Solution {

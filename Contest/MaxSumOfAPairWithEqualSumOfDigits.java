@@ -1,3 +1,38 @@
+class Solution {
+    // TC : O(n)
+    //SC : O(n)
+    public int maximumSum(int[] nums) {
+        // Total Sum of digit , Max Number so far with total sum
+        Map<Integer, Integer> map = new HashMap<>();
+
+        int ans = -1;
+
+        for (int num : nums) {
+            int totalSum = getNumberTotal(num);
+
+            if (!map.containsKey(totalSum))
+                map.put(totalSum, num);
+            else {
+                ans = Math.max(ans, map.get(totalSum) + num);
+                map.put(totalSum, Math.max(map.get(totalSum), num));
+            }
+        }
+
+        return ans;
+    }
+
+    private int getNumberTotal(int num) {
+        int result = 0;
+        while (num > 0) {
+            result += num % 10;
+            num /= 10;
+        }
+
+        return result;
+    }
+}
+
+
 // https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 // @author: anuj0503
 class Solution {
