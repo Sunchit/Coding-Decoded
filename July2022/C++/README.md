@@ -15,5 +15,6 @@
 13. [Binary Tree level Order Traversal - Day 13](/July2022/C++/binaryTreeLevelOrderTraversal.cpp) 
 14. [Construct Binary Tree from Preorder and Inorder Traversal - Day 14](/July2022/C++/constructBinaryTreeFromPreorderAndInorderTraversal.cpp) 
 15. [Max Area Of Island - Day 15](/July2022/C++/maxAreaOfIsland.cpp)
-16. [Out of Boundary Paths - Day 16](/July2022/C++/OutOfBoundaryPaths.cpp)
+16. [Out of Boundary Paths - Day 16](/July2022/C++/outOfBoundaryPaths.cpp)
+17. [K Inverse Pairs Array - Day 17](/July2022/C++/kInversePairsArray.cpp)
 
