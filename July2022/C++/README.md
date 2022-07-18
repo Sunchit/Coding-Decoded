@@ -10,11 +10,12 @@
 8. [Paint House 3 - Day 8](/July2022/C++/paintHouse3.cpp)
 9. [Jump game 6 - Day 9](/July2022/C++/jumpGame6.cpp)
 10. [Min Cost Climbing Stairs- Day 10](/July2022/C++/minCostClimbingStairs.cpp)
-11. [Binary Tree Right Side View- Day 11](/July2022/C++/BinaryTreeRightSideView.cpp)
+11. [Binary Tree Right Side View- Day 11](/July2022/C++/binaryTreeRightSideView.cpp)
 12. [Matchsticks To Square - Day 12](/July2022/C++/matchSticksToSquare.cpp) 
 13. [Binary Tree level Order Traversal - Day 13](/July2022/C++/binaryTreeLevelOrderTraversal.cpp) 
 14. [Construct Binary Tree from Preorder and Inorder Traversal - Day 14](/July2022/C++/constructBinaryTreeFromPreorderAndInorderTraversal.cpp) 
 15. [Max Area Of Island - Day 15](/July2022/C++/maxAreaOfIsland.cpp)
 16. [Out of Boundary Paths - Day 16](/July2022/C++/outOfBoundaryPaths.cpp)
 17. [K Inverse Pairs Array - Day 17](/July2022/C++/kInversePairsArray.cpp)
+18. [Number Of Submatrices That Sum To Target - Day 18](/July2022/C++/numberOfSubmatricesThatSumToTarget.cpp) 
 
