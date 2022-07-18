@@ -1,4 +1,44 @@
 
+
+class Solution {
+    public int numSubmatrixSumTarget(int[][] matrix, int target) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+
+        int[] summedRow = new int[n];
+        int ans = 0;
+        for(int i = 0; i < m; i++) { //i is the starting row
+            Arrays.fill(summedRow, 0);
+            for(int j = i; j < m; j++) { //j is the ending row
+                for(int k = 0; k < n; k++) { // k is for column
+                    summedRow[k] += matrix[j][k];
+                }
+
+                ans += subarraySum(summedRow, target);
+            }
+        }
+        return ans;
+    }
+
+    private int subarraySum(int[] nums, int k) {
+        int sum = 0;
+        int ans = 0;
+
+        Map<Integer, Integer> preSum = new HashMap<>();
+        preSum.put(0, 1);
+
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            if (preSum.containsKey(sum - k)) {
+                ans += preSum.get(sum - k);
+            }
+            preSum.put(sum, preSum.getOrDefault(sum, 0) + 1);
+        }
+
+        return ans;
+    }
+}
+
 // @saorav21994
 // TC : O(m*n*n)
 // SC : O(1)
