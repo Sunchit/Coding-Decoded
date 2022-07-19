@@ -18,4 +18,4 @@
 16. [Out of Boundary Paths - Day 16](/July2022/C++/outOfBoundaryPaths.cpp)
 17. [K Inverse Pairs Array - Day 17](/July2022/C++/kInversePairsArray.cpp)
 18. [Number Of Submatrices That Sum To Target - Day 18](/July2022/C++/numberOfSubmatricesThatSumToTarget.cpp) 
-19. [Pascal's Triangle - Day 19](/July2022/C++/PascalsTriangle.cpp)
+19. [Pascal's Triangle - Day 19](/July2022/C++/pascalsTriangle.cpp)
