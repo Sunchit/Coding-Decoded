@@ -20,3 +20,4 @@
 18. [Number Of Submatrices That Sum To Target - Day 18](/July2022/C++/numberOfSubmatricesThatSumToTarget.cpp) 
 19. [Pascal's Triangle - Day 19](/July2022/C++/pascalsTriangle.cpp)
 20. [Number Of Matching Subsequences - Day 20](/July2022/C++/numberOfMatchingSubsequences.cpp)
+21. [Reverse Linked List 2 - Day 21](/July2022/C++/revserLinkedList2.cpp)
