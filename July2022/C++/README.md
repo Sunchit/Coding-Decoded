@@ -21,3 +21,5 @@
 19. [Pascal's Triangle - Day 19](/July2022/C++/pascalsTriangle.cpp)
 20. [Number Of Matching Subsequences - Day 20](/July2022/C++/numberOfMatchingSubsequences.cpp)
 21. [Reverse Linked List 2 - Day 21](/July2022/C++/revserLinkedList2.cpp)
+22. [Partition List - Day 22](/July2022/C++/partition.cpp)
+23. [Count Of Smaller Numbers After Self - Day 23](/July2022/C++/countOfSmallerNumbersAfterSelf.cpp)   
