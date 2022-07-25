@@ -1,4 +1,20 @@
+
+
 // https://leetcode.com/problems/first-letter-to-appear-twice/
+class Solution {
+    public char repeatedCharacter(String s) {
+        int[] freq = new int[26];
+        for(char c: s.toCharArray()){
+
+            freq[c-'a']++;
+            if(freq[c-'a']==2) {
+                return c;
+            }
+        }
+        return 'a';
+    }
+}
+
 // @author: anuj0503
 class Solution {
     public char repeatedCharacter(String s) {
