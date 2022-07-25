@@ -1,3 +1,49 @@
+// @Sunchit Dudeja
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
+        int low =0;
+        int high = nums.length-1;
+
+        if(high<0){
+            return new int[]{-1,-1};
+        }
+
+        // find starting index
+        while(low< high){
+            int mid = low + (high- low)/2;
+            if(nums[mid]<target){
+                low = mid+1;
+            } else {
+                high = mid;
+            }
+        }
+
+        int[] ans = new int[]{-1,-1};
+        if(nums[low] == target){
+            ans[0] = low;
+        }
+        //System.out.println("low is "+ low );
+
+        low =0;
+        high = nums.length-1;
+
+        // find ending index
+        while(low<high){
+            int mid = low + (high- low+1)/2;
+            if(nums[mid]<=target){
+
+                low = mid;
+            } else {
+                high = mid-1;
+            }
+        }
+        if(nums[low] == target){
+            ans[1] = low;
+        }
+        // System.out.println("low is "+ low );
+        return ans;
+    }
+}
 
 // @saorav21994
 // TC : O(logn)
