@@ -22,5 +22,6 @@
 20. [Number Of Matching Subsequences - Day 20](/July2022/C++/numberOfMatchingSubsequences.cpp)
 21. [Reverse Linked List 2 - Day 21](/July2022/C++/revserLinkedList2.cpp)
 22. [Partition List - Day 22](/July2022/C++/partitionList.cpp)
-23. [Count Of Smaller Numbers After Self - Day 23](/July2022/C++/countOfSmallerNumbersAfterSelf.cpp)   searchA2DMatrix2.cpp
+23. [Count Of Smaller Numbers After Self - Day 23](/July2022/C++/countOfSmallerNumbersAfterSelf.cpp)  
 24. [Search A 2D Matrix 2 - Day 24](/July2022/C++/searchA2DMatrix2.cpp)
+25. [Find First And Last Position In Sorted Array - Day 25](/July2022/C++/sfindFirstAndLastPositionOfElementInSortedArray.cpp)  
