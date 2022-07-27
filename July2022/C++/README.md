@@ -26,3 +26,4 @@
 24. [Search A 2D Matrix 2 - Day 24](/July2022/C++/searchA2DMatrix2.cpp)
 25. [Find First And Last Position In Sorted Array - Day 25](/July2022/C++/sfindFirstAndLastPositionOfElementInSortedArray.cpp)  
 26. [Lowest Common Ancestor Of Tree - Day 26](/July2022/C++/LcaOfTree.cpp)
+27. [Fltten Binary Tree To Linked List - Day 27](/July2022/C++/flattenTreeToList.cpp)
