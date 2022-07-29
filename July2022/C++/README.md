@@ -28,3 +28,5 @@
 26. [Lowest Common Ancestor Of Tree - Day 26](/July2022/C++/LcaOfTree.cpp)
 27. [Fltten Binary Tree To Linked List - Day 27](/July2022/C++/flattenTreeToList.cpp)
 28. [Valid Anagram - Day 28](/July2022/C++/validAnagram.cpp) 
+29. [FInd And Replace Pattern - Day 29](/July2022/C++/findAndReplacePattern.cpp) 
+ 
