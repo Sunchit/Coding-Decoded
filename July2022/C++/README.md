@@ -24,9 +24,10 @@
 22. [Partition List - Day 22](/July2022/C++/partitionList.cpp)
 23. [Count Of Smaller Numbers After Self - Day 23](/July2022/C++/countOfSmallerNumbersAfterSelf.cpp)  
 24. [Search A 2D Matrix 2 - Day 24](/July2022/C++/searchA2DMatrix2.cpp)
-25. [Find First And Last Position In Sorted Array - Day 25](/July2022/C++/sfindFirstAndLastPositionOfElementInSortedArray.cpp)  
+25. [Find First And Last Position In Sorted Array - Day 25](/July2022/C++/sfindFirstAndLastPositionOfElementInSortedArray.cpp) 
 26. [Lowest Common Ancestor Of Tree - Day 26](/July2022/C++/LcaOfTree.cpp)
 27. [Fltten Binary Tree To Linked List - Day 27](/July2022/C++/flattenTreeToList.cpp)
 28. [Valid Anagram - Day 28](/July2022/C++/validAnagram.cpp) 
 29. [FInd And Replace Pattern - Day 29](/July2022/C++/findAndReplacePattern.cpp) 
+30. [Words Subsets - Day 30](/July2022/C++/wordsSubsets.cpp)
  
