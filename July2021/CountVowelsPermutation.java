@@ -1,6 +1,6 @@
 class Solution {
 
-  private Map<String,Long> map = new HashMap<>();;
+  private Map<String,Long> map = new HashMap<>();
   private int MOD = 1000000007;
 
   public int countVowelPermutation(int n) {
