@@ -1,32 +1,51 @@
-class Solution {
-public:
-    int shortestPathLength(vector<vector<int>>& graph) {
-        if(graph.size()==1) return 0;
-        int n=graph.size();
-        int final_state=(1<<n) - 1;
-        int shortest_path=0;
-        queue<vector<int>> q;
-        vector<vector<int>> visited(n,vector<int>(final_state));
-        for(int i=0;i<n;i++) q.push({i,1<<i});
+class Solution 
+{
+  public:
+    
+    int shortestPathLength(vector<vector<int>> &graph) 
+    {   
+        int n = graph.size();
+        if(n==1)
+        {
+            return 0;
+        }
+        
+        queue<pair<int,int>> q;
+        for(int node=0 ; node<n ; node++)
+        {
+            q.push({node, (1<<node)});
+        }
+        
+        int finalState = ((1<<n) - 1), shortestPath = 0;
+        
+        vector<vector<bool>> visited(n, vector<bool>(finalState, false));
+        
         while(!q.empty())
         {
-            ++shortest_path;
-            int size=q.size();
-            for(int i=0;i<size;i++)
+            shortestPath++;
+            
+            int sz = q.size();
+            
+            while(sz--)
             {
-                // vector<int> head=q.front();
-                int nodeid=q.front()[0];
-                int visited_bit=q.front()[1];
+                auto &p = q.front();
+                int currNode = p.first, currState = p.second;
                 q.pop();
-                for(auto& i:graph[nodeid])
+                
+                for(int &nextNode: graph[currNode])
                 {
-                    int new_visited_bit=visited_bit|(1<<i);
-                    if(new_visited_bit==final_state) return shortest_path;
-                    if(visited[i][new_visited_bit]==1) continue;
-                    visited[i][new_visited_bit]=1;
-                    q.push({i,new_visited_bit});
+                    int nextState = (currState | (1<<nextNode));
+                    if(nextState == finalState)
+                    {
+                        return shortestPath;
+                    }
+                    
+                    if(!visited[nextNode][nextState])
+                    {
+                        visited[nextNode][nextState] = true;
+                        q.push({nextNode, nextState});
+                    }
                 }
-
             }
         }
         
