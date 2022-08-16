@@ -64,3 +64,26 @@ class Solution {
         return sb.toString();
     }
 }
+
+// This is the Python function
+class Solution:
+    def findIntegers(self, n: int) -> int:
+
+        fib = [0 for i in range(32)]
+        fib[0] = 1
+        fib[1] = 2
+        for i in range(2,31):
+            fib[i] = fib[i-1]+fib[i-2]
+        
+        ans,k,preBit = 0,30,False
+        while(k>=0):
+            if(n & (1<<(k))):
+                ans+= fib[k]
+                if(preBit):
+                    return ans
+                preBit=True
+            else:
+                preBit=False
+            k=k-1
+        return ans+1
+                  
