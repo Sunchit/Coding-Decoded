@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/course-schedule-iv/
-//
+// @author: anuj0503
 class Solution {
     public List<Boolean> checkIfPrerequisite(int numCourses, int[][] prerequisites, int[][] queries) {
         Map<Integer, Set<Integer>> graph = new HashMap<>();
