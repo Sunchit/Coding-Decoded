@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 class Solution {
 private:
     int helper(TreeNode* root, int currMax) {
