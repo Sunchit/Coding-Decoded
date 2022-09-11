@@ -71,3 +71,59 @@ class Solution {
 
 
 }
+
+
+=============== Another approach without creating the nodes ==================
+// https://leetcode.com/problems/count-nodes-with-the-highest-score/
+// @author: anuj0503
+class Solution {
+    Map<Long, Integer> freq;
+    public int countHighestScoreNodes(int[] parents) {
+        int n = parents.length;
+        Map<Integer, Set<Integer>> tree = new HashMap<>();
+
+        for(int i = 0; i < n; i++) tree.put(i, new HashSet<>());
+
+        for(int i = 1; i < n; i++){
+            Set<Integer> set = tree.get(parents[i]);
+            set.add(i);
+            tree.put(parents[i], set);
+        }
+
+        freq = new HashMap<>();
+        dfs(0, n, tree);
+
+        long maxFreq = -1;
+        for(long f : freq.keySet()){
+            maxFreq = Math.max(maxFreq, f);
+        }
+
+        return freq.get(maxFreq);
+    }
+
+    private int dfs(int node, int n, Map<Integer, Set<Integer>> tree){
+        Set<Integer> s = tree.get(node);
+
+        if(s.isEmpty()) {
+            freq.put((long)n - 1, freq.getOrDefault((long)n - 1, 0) + 1);
+            return 1;
+        }
+
+        long ans = 1;
+        int count = 0;
+        for(int neighbour : s){
+            int c = dfs(neighbour, n, tree);
+            count += c;
+            ans *= c;
+        }
+
+
+        if(count + 1 != n){
+            ans *= (n - count - 1);
+        }
+
+        freq.put(ans, freq.getOrDefault(ans, 0) + 1);
+
+        return count + 1;
+    }
+}
