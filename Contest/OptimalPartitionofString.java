@@ -27,3 +27,25 @@ class Solution {
 		return count;
 	}
 }
+
+============= Space Optimized Approach ===============
+// https://leetcode.com/problems/optimal-partition-of-string/
+// @author: anuj0503
+class Solution {
+    public int partitionString(String s) {
+        int i = 0;
+        int n = s.length();
+        int result = 0;
+        while (i < n){
+            int mask = 0;
+            while(i < n && ((1 << (s.charAt(i) - 'a')) & mask) == 0){
+                mask = mask | (1 << (s.charAt(i) - 'a'));
+                i++;
+            }
+
+            result++;
+        }
+
+        return result;
+    }
+}
