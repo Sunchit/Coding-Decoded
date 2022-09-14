@@ -49,3 +49,39 @@ class Solution {
         return true;
     }
 }
+
+================ Approach using Bit Masking =================
+// https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+// @author: anuj0503
+class Solution {
+    int result;
+    Set<Integer> set;
+    public int pseudoPalindromicPaths (TreeNode root) {
+        if(root == null) return 0;
+        if(root.left == null && root.right == null) return 1;
+
+        set = new HashSet<>();
+
+        for(int i = 1; i <= 9; i++){
+            set.add((int) Math.pow(2, i));
+        }
+        set.add(0);
+
+        result = 0;
+
+        getResult(root, 0);
+
+        return result;
+    }
+
+    private void getResult(TreeNode root, int mask){
+        if(root == null) return;
+
+        if(root.left == null && root.right == null){
+            if(set.contains(mask ^ (1 << root.val))) result++;
+        } else {
+            getResult(root.left, mask ^ (1 << root.val));
+            getResult(root.right, mask ^ (1 << root.val));
+        }
+    }
+}
