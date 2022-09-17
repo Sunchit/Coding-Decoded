@@ -1,4 +1,4 @@
-### [Jult 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
+### [July 2021 Leetcode Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/)
 
 [July 2021 Leetcode Solution Playlist](https://www.youtube.com/playlist?list=PLEI-q7w3s9gRGYr0jtVjqir5_8SpnQ6Og)
 
@@ -26,3 +26,10 @@
 1. [PartitionArrayintoDisjointIntervals - Day 22](/July2021/PartitionArrayintoDisjointIntervals.java)
 1. [BinaryTreePruning - Day 23](/July2021/BinaryTreePruning.java)
 1. [WordLadderII - Day 24](/July2021/WordLadderII.java)
+1. [NonNegativeIntegerswithoutConsecutiveOnes - Day 25](/July2021/NonNegativeIntegerswithoutConsecutiveOnes.java)
+1. [ConvertSortedArraytoBinarySearchTree - Day 26](/July2021/ConvertSortedArraytoBinarySearchTree.java)
+1. [3SumClosest - Day 27](/July2021/3SumClosest.java)
+1. [BeautifulArray - Day 28](/July2021/BeautifulArray.java)
+1. [01Matrix - Day 29](/July2021/01Matrix.java)
+1. [MapSumPairs - Day 30](/July2021/MapSumPairs.java)
+1. [TrappingRainWater - Day 31](/July2021/TrappingRainWater.java)

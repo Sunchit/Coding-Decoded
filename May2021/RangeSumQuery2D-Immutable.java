@@ -1,4 +1,4 @@
-class NumMatrix {
+\class NumMatrix {
 
     private int[][] dp;
 
