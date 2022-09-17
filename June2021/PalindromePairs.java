@@ -61,3 +61,86 @@ class Solution {
         return true;
     }
 }
+
+
+//Trie based solution which works for timeouts too
+
+ class TrieNode{
+    TrieNode []children;
+    int id;
+    List<Integer>pos;
+    TrieNode(){
+        children=new TrieNode[26];
+        pos=new ArrayList<>();
+        id=-1;
+    }
+}
+class Solution {
+    TrieNode root;
+    List<List<Integer>>result;
+    Solution(){
+        root=new TrieNode();
+        result=new ArrayList<>();
+    }
+    public boolean isPalindrome(String word,int start,int end){
+        while(start<end){
+            if(word.charAt(start++)!=word.charAt(end--)){
+                return false;
+            }
+            
+        }
+        return true;
+    }
+    public List<List<Integer>> palindromePairs(String[] words) {
+        
+        for(int i=0;i<words.length;i++){
+            insertIntoTrie(words[i],i);
+        }
+         for(int i=0;i<words.length;i++){
+            searchInTrie(words[i],i);
+        }
+        return result;
+    }
+    
+    public void insertIntoTrie(String word,int id){
+        TrieNode pCrawl=root;
+        for(int i=word.length()-1;i>=0;i--){
+            int index=word.charAt(i)-'a';
+            
+            if(pCrawl.children[index]==null){
+                pCrawl.children[index]=new TrieNode();
+            }
+            if(isPalindrome(word,0,i)){
+             pCrawl.pos.add(id);
+                
+            }
+             pCrawl=pCrawl.children[index];
+            
+        }
+        pCrawl.id=id;
+        pCrawl.pos.add(id);
+    }
+    public void searchInTrie(String word,int id){
+        TrieNode pCrawl=root;
+        for(int i=0;i<word.length();i++){
+            int index=word.charAt(i)-'a';
+            if(pCrawl.id>=0&&pCrawl.id!=id&&isPalindrome(word,i,word.length()-1)){
+                List<Integer>res=new ArrayList<>();
+                res.add(id);
+                res.add(pCrawl.id);
+                result.add(res);
+            }
+            if(pCrawl.children[index]==null)
+                return;
+                pCrawl=pCrawl.children[index];
+        }
+        for(int i:pCrawl.pos){
+            if(i==id)
+                continue;
+            List<Integer>res=new ArrayList<>();
+            res.add(id);
+            res.add(i);
+            result.add(res);
+        }
+    }
+}
