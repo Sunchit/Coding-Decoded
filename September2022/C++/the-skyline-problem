@@ -1,0 +1,56 @@
+// https://leetcode.com/problems/the-skyline-problem
+// TC O(n Log n) 
+// SC O(n) + O(n)
+
+class Solution {
+// sorting in increasing order of x co-ordinate and height
+bool static myCmp(vector<int>&p1,vector<int>&p2){
+    if(p1[0]==p2[0]){
+        return p1[1]<p2[1];
+    }
+    return p1[0]<p2[0];
+}
+
+public:
+    vector<vector<int>> getSkyline(vector<vector<int>>& buildings) {
+    
+        vector<vector<int>>points;
+        
+        int len = buildings.size();
+        for(int i=0;i<len;i++){
+            points.push_back({buildings[i][0],-buildings[i][2]});
+                  points.push_back({buildings[i][1],buildings[i][2]});
+        }
+        sort(points.begin(),points.end(),myCmp);
+        
+        // for storing current height or maximum height
+       multiset<int,greater<int>>maxHeight;
+        maxHeight.insert(0);
+        
+        vector<vector<int>>ans;
+     
+        for(int i=0;i<points.size();i++){
+           
+           // insert in ds if start point
+            if(points[i][1]<0){
+                if(*maxHeight.begin()<abs(points[i][1])){
+                    ans.push_back({points[i][0],abs(points[i][1])});
+                }
+                   maxHeight.insert(abs(points[i][1]));
+                
+            }
+            // delete from ds if end point
+            else{
+                int currHeight = *maxHeight.begin();
+                 maxHeight.erase(maxHeight.find(points[i][1]));
+                if(currHeight==points[i][1]){
+                    if(maxHeight.find(points[i][1])!=maxHeight.end()){
+                        continue;
+                    }
+                    ans.push_back({points[i][0],*maxHeight.begin()});
+                }
+            }
+        }
+        return ans;
+    }
+};
