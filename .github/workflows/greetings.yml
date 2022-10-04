@@ -1,16 +1,1 @@
-name: Greetings
 
-on: [pull_request, issues]
-
-jobs:
-  greeting:
-    runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
-    steps:
-    - uses: actions/first-interaction@v1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Hello, Thanks for raising the concern, will address it at priority.'
-        pr-message: 'Hello, thank you submitting a pull request! Your contribution will help folks around the globe. Keep up the good work. Much appreciated!!! '
