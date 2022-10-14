@@ -10,6 +10,9 @@ class ListNode:
         self.next = next
         
 class Solution:
+
+    # TC : O(logN)
+    # SC : O(1)
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
         dummyNode = ListNode(-1)
