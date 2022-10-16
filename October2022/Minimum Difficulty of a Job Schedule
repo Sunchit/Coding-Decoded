@@ -1,0 +1,31 @@
+class Solution {
+    public int minDifficulty(int[] arr, int d) {
+        int n = arr.length;
+        if(d > n)   return -1;
+        int[][] dp = new int[d + 1][n];
+        for(int[] a : dp)   Arrays.fill(a, -1);
+        return f(0, d, arr, n, dp);
+    }
+    public static int f(int i, int d, int[] arr, int n, int[][] dp){
+        if(d == 1){
+            int max = 0;
+            while(i < n){
+                max = Math.max(max, arr[i ++]);
+            }
+            return max;
+        }
+        if(dp[d][i] != -1)  
+            return dp[d][i];
+        
+        
+        int left = 0;
+        
+        
+        int res = Integer.MAX_VALUE;
+        for(int idx = i; idx < n - d + 1; idx ++){
+            left = Math.max(left, arr[i]);
+            res = Math.min(res, left + f(idx + 1, d-1,arr,n,dp));
+        }
+        return dp[d][i] = res;
+    }
+}
