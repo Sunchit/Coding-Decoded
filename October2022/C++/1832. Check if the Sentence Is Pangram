@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool checkIfPangram(string sentence) {
+        vector<int> alphabet(26, 0); //an array of size 26 to store count of all the alphabets
+        int cnt = 0;
+        for(int i = 0; i < sentence.size(); i++)
+        {
+            if(alphabet[sentence[i] - 'a'] == 0)
+            {
+                cnt++; // when we encounter a new alphabet, we increment cnt by 1
+                alphabet[sentence[i] - 'a']++;
+            }
+        }
+        return cnt == 26; // if cnt == 26 return true, else false
+    }
+};
