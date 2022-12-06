@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ 
+ // Author: @mvssgupta
+ 
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
