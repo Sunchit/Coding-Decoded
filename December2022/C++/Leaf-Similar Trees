@@ -1,0 +1,44 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+ 
+ // Author : @mvssgupta
+ 
+class Solution {
+public:
+    void getLeafNodes(TreeNode* root,vector<int> &vec)    //this function is to get the leafnodes
+    {
+        if(root!=nullptr)
+        {
+            if(root->left==nullptr && root->right==nullptr)  //if both the left child and right child are null then it is a leaf node
+            {
+                vec.push_back(root->val);
+            }
+            if (root->left != nullptr)
+            getLeafNodes(root->left,vec);
+                
+            if (root->right != nullptr)
+            getLeafNodes(root->right,vec);
+        }
+    }
+    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
+        vector<int> LeafNodesOfTree1;                       //this vector stores the leafNodes of first tree
+        getLeafNodes(root1,LeafNodesOfTree1);  
+        vector<int> LeafNodesOfTree2;                       //this vector stores the leafNodes of second tree
+        getLeafNodes(root2,LeafNodesOfTree2);
+        if(LeafNodesOfTree1.size()!=LeafNodesOfTree2.size()) return false;    //if the vectors length is not equal then we can say the no of leaf nodes are not equal so return false
+        for(int i=0;i<LeafNodesOfTree1.size();i++)          //travesing through the vectors and comparing each element.
+        {
+            if(LeafNodesOfTree1[i]!=LeafNodesOfTree2[i]) return false;         //if the values of the vectors at a particular index are not matching the we can return false
+        }
+        return true;                                       //if all the elements are matched then our program control will reach this line of code and return true.
+    }
+};
