@@ -1,7 +1,7 @@
 class Solution {
 	public int[] getOrder(int[][] tasks) {
 
-		int[][] allTasks = new int[tasks.length][3]; // index, starting time and totalTime
+		int[][] allTasks = new int[tasks.length][3]; 
 		for (int i = 0; i < tasks.length; i++) {
 			allTasks[i][0] = i; // index
 			allTasks[i][1] = tasks[i][0]; // availableTime
