@@ -1,7 +1,7 @@
 class Solution {
 	public int[] getOrder(int[][] tasks) {
-
-		int[][] allTasks = new int[tasks.length][3]; 
+	  //Update the input
+		int[][] allTasks = new int[tasks.length][3];
 		for (int i = 0; i < tasks.length; i++) {
 			allTasks[i][0] = i; // index
 			allTasks[i][1] = tasks[i][0]; // availableTime
@@ -10,7 +10,6 @@ class Solution {
 		// Sort on the basis of duration first then index
 		Queue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[2] - b[2] == 0 ? a[0] - b[0] : a[2] - b[2]);
 		// sort on the basis of availabliity
-
 		Arrays.sort(allTasks, (a, b) -> a[1] - b[1]);
 
 		int i = 0, index = 0, curTime = 0;
