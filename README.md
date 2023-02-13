@@ -56,7 +56,6 @@ All the videos are hosted here.
 #### Telegram Group  
 
 <a href="https://telegram.me/codingdecoded"><img alt="Telegram Link for Browser(For eg, Chrome") src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Telegram.png" height="70" width="70"> Coding Decoded Discord</a>
-<a href="https://t.me/codingdecoded"><img alt="Telegram Link for phone(For eg, Android)" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Telegram.png" height="70" width="70"> Coding Decoded Discord</a>
 
 Looking for referral, time to catch me on telegram. We have more than 2000 developers working at all top notches and we regularly discuss problem that we face in day today development work for example referral, layoffs, chatgpt, bard, AI ML stuck. 
 It is place where you full freedom of speech to put your opinion and helps others in the community. The peers of the community help each other with their queries, schedule mock interviews among themselves and bring in a little humour.
