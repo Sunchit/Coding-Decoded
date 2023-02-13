@@ -21,13 +21,13 @@ It is a one stop solution for all your technical knowledge. Its primary focus is
 * _Deciphering Interviewer's mindset_
 * _Motivational talks_
 
-In the last year we have solved **_600+ problems_** and published their videos. We daily publish solutions to leetcode monthly challenges. We also solve leetcode weekly contest questions as well.
+So far over since Aug,2020 we have solved **_1000+ problems_** and published their video solutions. We daily publish solutions to leetcode monthly challenges. We also solve leetcode weekly contest questions as well.
 
 #### _A picture is worth 1000 words, and a video is worth 100000+ words_
 
 Each video has a pictorial representation of the algorithm, test cases walk through and cherry on top is _live coding session_.
 
-**_Hard work paid off_**. We have already reached our first milestone of **_1k+ subscribers_** and hope to build the largest coding community.
+**_Hard work paid off_**. We have already reached our first milestone of **_15k+ subscribers_** and hope to build the largest coding community.
 
 *************
 
