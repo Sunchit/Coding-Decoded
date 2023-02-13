@@ -11,17 +11,28 @@
 
 *************
 
-The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) land the job of their dreams and  become a better engineer!
-It is a one stop solution for all your technical knowledge. Its primary focus is to help viewers build strong
+The motive is to help the viewers of the [Coding Decoded Channel](https://www.youtube.com/c/CodingDecoded/) land the job of their dreams and  become better engineer!
+It is the one-stop solution for all your technical knowledge. Its primary focus is to help viewers build strong
 
 * _Data structures and algorithm concepts_
 * _Coding Aptitude_
 * _System Design_
-* _Interviewing Aptitude and process_
+* _Building Interviewing Aptitude_
 * _Deciphering Interviewer's mindset_
 * _Motivational talks_
 
 So far over since Aug,2020 we have solved **_1000+ problems_** and published their video solutions. We daily publish solutions to leetcode monthly challenges. We also solve leetcode weekly contest questions as well.
+
+You must be thinking, Why you should view Conding Decoded's content while there are so many others available on social media?
+
+Meet Sunchit Dudeja, apart from being Founder of Coding Decoded, I am working as SDE-V at Adobe have more than 8 years of industry experience
+The in-depth knowledge you will get here, I am sure no other youtuber can ever share.
+
+1) With more than 500+ design rounds taken, learn from the perspective of an interviewer
+2) Learn from 8 years experienced professional working one of the leading company
+3) Each video based on Real life examples
+4) It is free of cost, no charges
+5) Short videos <=15 mins
 
 #### _A picture is worth 1000 words, and a video is worth 100000+ words_
 
@@ -40,6 +51,16 @@ If you also intend to get a job of your dreams, come join us, and become our com
 <a href="https://www.youtube.com/c/CodingDecoded"><img alt="Coding Decoded" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Youtube.png" height="70" width="70"> Coding Decoded Channel </a>
 
 All the videos are hosted here. 
+
+
+#### Telegram Group  
+
+<a href="https://telegram.me/codingdecoded"><img alt="Telegram Link for Browser(For eg, Chrome") src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Telegram.png" height="70" width="70"> Coding Decoded Discord</a>
+<a href="https://t.me/codingdecoded"><img alt="Telegram Link for phone(For eg, Android)" src="https://github.com/Sunchit/Coding-Decoded/blob/master/img/Telegram.png" height="70" width="70"> Coding Decoded Discord</a>
+
+Looking for referral, time to catch me on telegram. We have more than 2000 developers working at all top notches and we regularly discuss problem that we face in day today development work for example referral, layoffs, chatgpt, bard, AI ML stuck. 
+It is place where you full freedom of speech to put your opinion and helps others in the community. The peers of the community help each other with their queries, schedule mock interviews among themselves and bring in a little humour.
+
 
 #### Discord Server 
 
