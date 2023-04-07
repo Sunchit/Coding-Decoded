@@ -2,7 +2,7 @@ package ISPCompliant.AdaptorPattern;
 
 import java.util.List;
 
-class VegMenuAdapter implements IVegetrainianMenu {
+class VegMenuAdapter implements IVegetarianMenu {
 
 	private final CombinedMenu adaptee;
 
@@ -11,7 +11,7 @@ class VegMenuAdapter implements IVegetrainianMenu {
 	}
 
 	@Override
-	public List<FOODITEMS> getVegetrainianItems() {
-		return this.adaptee.getVegetrainianItems();
+	public List<FOODITEMS> getVegetarianItems() {
+		return this.adaptee.getVegetarianItems();
 	}
 }

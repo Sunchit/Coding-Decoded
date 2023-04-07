@@ -4,8 +4,8 @@ import java.util.List;
 
 public interface IMenu {
 
-	List<FOODITEMS> getVegetrainianItems();
+	List<FOODITEMS> getVegetarianItems();
 
-	List<FOODITEMS> getNonVegetrainianItems();
+	List<FOODITEMS> getNonVegetarianItems();
 
 }
