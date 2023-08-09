@@ -1,4 +1,4 @@
-# Top 100 Tech Companies in Bangalore for Developers
+# Top 100 Tech Companies in Bangalore for Developer role
 
 Are you an ambitious developer looking for exciting opportunities in Bangalore's tech landscape? Look no further! This curated list features the top 100 tech companies in Bangalore that offer exceptional roles for developers like you. Dive into this list to explore potential career paths and find your ideal tech playground.
 
