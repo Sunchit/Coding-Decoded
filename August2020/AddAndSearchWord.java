@@ -1,4 +1,4 @@
-class AddAndSearchWord {
+class WordDictionary {
 
     private class TrieNode {
         private TrieNode[] children = null;
